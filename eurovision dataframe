@@ -1,0 +1,10 @@
+import pandas as pd 
+euro = pd.read_csv('eurovision_winners_clean.csv')
+def clean_year(val):
+    val = str(val)
+    if val[:4].isdigit():
+        return val[:4]
+    return None 
+euro['Cleaned_Year'] = euro['Year'].apply(clean_year)
+euro = euro.drop('Year', axis=1)
+print(euro)
