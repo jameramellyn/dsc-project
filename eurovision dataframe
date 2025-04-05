@@ -29,3 +29,10 @@ def english_or_no(val):
         return 0
 merged_euro['english_or_no'] = merged_euro['Language'].apply(english_or_no)
 print(merged_euro)
+
+lyrics_df = pd.read_csv('euro_with_lyrics.csv')
+lyrics_df.set_index('Cleaned_Year')
+new_merged_euro = merged_euro.merge(lyrics_df).set_index('Cleaned_Year')
+print(new_merged_euro)
+
+new_merged_euro.to_csv('euro_factors.csv')
