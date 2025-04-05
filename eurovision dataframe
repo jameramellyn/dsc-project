@@ -1,4 +1,6 @@
 import pandas as pd 
+
+#creating dataframe with webscraped eurovision winners
 euro = pd.read_csv('eurovision_winners_clean.csv')
 def clean_year(val):
     val = str(val)
@@ -6,5 +8,24 @@ def clean_year(val):
         return val[:4]
     return None 
 euro['Cleaned_Year'] = euro['Year'].apply(clean_year)
-euro = euro.drop('Year', axis=1)
-print(euro)
+euro = euro.drop('Year', axis=1).set_index('Cleaned_Year')
+
+#creating additional dataframe with additional information (Language)
+languages = pd.read_csv('languages.csv')
+languages = languages.set_index('Year')
+languages.index = languages.index.astype(str)
+
+#merging dataframes
+merged_euro = euro.join(languages)
+merged_euro = merged_euro.drop(['Song name', 'Unnamed: 3'], axis = 1)
+merged_euro = merged_euro.rename(columns={'Language ': 'Language'})
+
+#function that analyzes whether song is English or not 
+def english_or_no(val):
+    val = str(val)
+    if "English" in val:
+        return 1
+    else:
+        return 0
+merged_euro['english_or_no'] = merged_euro['Language'].apply(english_or_no)
+print(merged_euro)
