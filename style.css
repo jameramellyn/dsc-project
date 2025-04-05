@@ -77,6 +77,12 @@ header {
 }
 
 footer {
-  background-color: #000000;
-  padding: 0.5rem;
+  background-image: url('images/banner.png');
+  background-size: cover;
+  background-position: center;
+  color: rgb(0, 0, 0);
+  padding: .5rem .5git add .
+git commit -m "ottom"
+git push origin main
+rem;
 }
