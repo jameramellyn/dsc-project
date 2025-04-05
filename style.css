@@ -1,24 +1,25 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    color: #333;
-  }
-  
-  header {
-    background-color: #4CAF50;
-    color: white;
-    padding: 2rem;
-  }
-  
-  main {
-    padding: 2rem;
-  }
-  
-  footer {
-    background-color: #ddd;
-    padding: 1rem;
-  }
-  
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #333;
+}
+
+header {
+  background-image: url('images/banner.png'); /* ← Change this to your image filename */
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 4rem 2rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+footer {
+  background-color: #ddd;
+  padding: 1rem;
+}
