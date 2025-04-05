@@ -5,7 +5,15 @@ body {
   padding: 0;
   text-align: center;
   color: #333;
-  font-size: 50px;
+  h1 {
+    font-size: 50px;
+    margin: 0;
+  }
+  
+  p {
+    font-size: 32px;
+    margin: 0;
+  }
 }
 
 header {
@@ -14,7 +22,6 @@ header {
   background-position: center;
   color: rgb(0, 0, 0);
   padding: 4rem 2rem;
-  font-size: 50px;
 }
 
 main {
