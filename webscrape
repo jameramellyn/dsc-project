@@ -1,0 +1,63 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from bs4 import BeautifulSoup
+import pandas as pd
+import time
+
+# Set up Selenium headless browser
+options = Options()
+options.add_argument("--headless")
+driver = webdriver.Chrome(options=options)
+
+# Load the page
+url = "https://eurovisionworld.com/eurovision"
+driver.get(url)
+time.sleep(3)
+
+# Parse page content
+soup = BeautifulSoup(driver.page_source, "html.parser")
+driver.quit()
+
+# Find the main winners table
+table = soup.find("table", class_="v_table")
+data = []
+
+# Loop through each row, skip malformed or empty ones
+for row in table.find_all("tr")[1:]:
+    cols = row.find_all("td")
+    
+    # Skip rows that don't have enough data
+    if len(cols) < 4:
+        continue
+
+    # Parse year and skip 2020 (canceled year)
+    year = cols[0].get_text(strip=True).split()[0]
+    if year == "2020":
+        continue
+
+    country = cols[1].get_text(strip=True)
+
+    # Handle song and artist (may be combined or malformed)
+    song_artist_cell = cols[2]
+    song = ""
+    artist = ""
+
+    # Some song cells are split into text + <span class="v_artist"> tag
+    if song_artist_cell:
+        parts = song_artist_cell.get_text(separator="|", strip=True).split("|")
+        if len(parts) >= 2:
+            song = parts[0]
+            artist = parts[1]
+        elif len(parts) == 1:
+            song = parts[0]
+
+    points = cols[3].get_text(strip=True)
+
+    data.append([year, country, song, artist, points])
+
+# Create DataFrame
+df = pd.DataFrame(data, columns=["Year", "Country", "Song", "Artist", "Points"])
+print(df.head())
+
+# Save to CSV
+df.to_csv("eurovision_winners_clean.csv", index=False)
