@@ -13,13 +13,57 @@
     </header>
 
     <main>
-      <p> save me pls</p>
+      <!-- Replace your old content with this -->
+      <h1>Search Most Popular Songs</h1>
+      <input type="text" id="search" placeholder="Type a song name..." />
+    
+      <div id="results"></div>
     </main>
-
+    
     <footer>
-      <p> do ur favs stand up? </p>
+      <p> ... </p>
     </footer>
   </div>
+  <script>
+    const songs = [
+      {
+        name: "Euphoria – Loreen",
+        image: "https://i.scdn.co/image/ab67616d0000b273f85770466b9e3ec5fcebe6e9",
+        link: "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
+      },
+      {
+        name: "Zitti e buoni – Måneskin",
+        image: "https://i.scdn.co/image/ab67616d0000b273af6aa5ab6cc4c4291985f3d0",
+        link: "https://open.spotify.com/track/0W6k9I2L7Z0bELX5jprj7I"
+      },
+      {
+        name: "Tattoo – Loreen",
+        image: "https://i.scdn.co/image/ab67616d0000b27399744b54d5a0871bd3bb09a0",
+        link: "https://open.spotify.com/track/3N2gMDCcS5eU7G43nVkuuj"
+      }
+    ];
+  
+    const searchInput = document.getElementById("search");
+    const results = document.getElementById("results");
+  
+    searchInput.addEventListener("input", function () {
+      const term = this.value.toLowerCase();
+      results.innerHTML = "";
+  
+      const filtered = songs.filter(song => song.name.toLowerCase().includes(term));
+      filtered.forEach(song => {
+        results.innerHTML += `
+          <div class="song">
+            <h3>${song.name}</h3>
+            <a href="${song.link}" target="_blank">
+              <img src="${song.image}" alt="${song.name}">
+            </a>
+          </div>
+        `;
+      });
+    });
+  </script>
+  
 </body>
 
 </html>
