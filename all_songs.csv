@@ -1,1425 +1,1425 @@
-,Year,Country,Song,Artist,Points
-0,2024,Switzerland,The Code,Nemo,591
-1,2024,Croatia,Rim Tim Tagi Dim,Baby Lasagna,547
-2,2024,Ukraine,Teresa & Maria,alyona alyona & Jerry Heil,453
-3,2024,France,Mon amour,Slimane,445
-4,2024,Israel,Hurricane,Eden Golan,375
-5,2024,Ireland,Doomsday Blue,Bambie Thug,278
-6,2024,Italy,La noia,Angelina Mango,268
-7,2024,Armenia,Jako,Ladaniva,183
-8,2024,Sweden,Unforgettable,Marcus & Martinus,174
-9,2024,Portugal,Grito,Iolanda,152
-10,2024,Greece,Zari,Marina Satti,126
-11,2024,Germany,Always on the Run,Isaak,117
-12,2024,Luxembourg,Fighter,Tali,103
-13,2024,Lithuania,Luktelk,Silvester Belt,90
-14,2024,Cyprus,Liar,Silia Kapsis,78
-15,2024,Latvia,Hollow,Dons,64
-16,2024,Serbia,Ramonda,Teya Dora,54
-17,2024,United KingdomUK,Dizzy,Olly Alexander,46
-18,2024,Finland,No Rules!,Windows95man,38
-19,2024,Estonia,(nendest) narkootikumidest ei tea me (küll) midagi,5miinust & Puuluup,37
-20,2024,Georgia,Firefighter,Nutsa Buzaladze,34
-21,2024,Spain,Zorra,Nebulossa,30
-22,2024,Slovenia,Veronika,Raiven,27
-23,2024,Austria,We Will Rave,Kaleen,24
-24,2024,Norway,Ulveham,Gåte,16
-25,2023,Sweden,Tattoo,Loreen,583
-26,2023,Finland,Cha Cha Cha,Käärijä,526
-27,2023,Israel,Unicorn,Noa Kirel,362
-28,2023,Italy,Due vite,Marco Mengoni,350
-29,2023,Norway,Queen of Kings,Alessandra,268
-30,2023,Ukraine,Heart of Steel,Tvorchi,243
-31,2023,Belgium,Because of You,Gustaph,182
-32,2023,Estonia,Bridges,Alika,168
-33,2023,Australia,Promise,Voyager,151
-34,2023,Czechia,My Sister's Crown,Vesna,129
-35,2023,Lithuania,Stay,Monika Linkytė,127
-36,2023,Cyprus,Break a Broken Heart,Andrew Lambrou,126
-37,2023,Croatia,Mama ŠČ!,Let 3,123
-38,2023,Armenia,Future Lover,Brunette,122
-39,2023,Austria,Who The Hell Is Edgar?,Teya & Salena,120
-40,2023,France,Évidemment,La Zarra,104
-41,2023,Spain,Eaea,Blanca Paloma,100
-42,2023,Moldova,Soarele și Luna,Pasha Parfeni,96
-43,2023,Poland,Solo,Blanka,93
-44,2023,Switzerland,Watergun,Remo Forrer,92
-45,2023,Slovenia,Carpe Diem,Joker Out,78
-46,2023,Albania,Duje,Albina & Familja Kelmendi,76
-47,2023,Portugal,Ai coração,Mimicat,59
-48,2023,Serbia,Samo mi se spava,Luke Black,30
-49,2023,United KingdomUK,I Wrote A Song,Mae Muller,24
-50,2023,Germany,Blood & Glitter,Lord Of The Lost,18
-51,2022,Ukraine,Stefania,Kalush Orchestra,631
-52,2022,United KingdomUK,Space Man,Sam Ryder,466
-53,2022,Spain,SloMo,Chanel,459
-54,2022,Sweden,Hold Me Closer,Cornelia Jakobs,438
-55,2022,Serbia,In corpore sano,Konstrakta,312
-56,2022,Italy,Brividi,Mahmood & Blanco,268
-57,2022,Moldova,Trenulețul,Zdob și Zdub & Advahov Brothers,253
-58,2022,Greece,Die Together,Amanda Georgiadi Tenfjord,215
-59,2022,Portugal,"Saudade, saudade",Maro,207
-60,2022,Norway,Give That Wolf a Banana,Subwoolfer,182
-61,2022,Netherlands,De diepte,S10,171
-62,2022,Poland,River,Ochman,151
-63,2022,Estonia,Hope,Stefan,141
-64,2022,Lithuania,Sentimentai,Monika Liu,128
-65,2022,Australia,Not The Same,Sheldon Riley,125
-66,2022,Azerbaijan,Fade To Black,Nadir Rustamli,106
-67,2022,Switzerland,Boys Do Cry,Marius Bear,78
-68,2022,Romania,Llámame,WRS,65
-69,2022,Belgium,Miss You,Jérémie Makiese,64
-70,2022,Armenia,Snap,Rosa Linn,61
-71,2022,Finland,Jezebel,The Rasmus,38
-72,2022,Czechia,Lights Off,We Are Domi,38
-73,2022,Iceland,Með hækkandi sól,Systur,20
-74,2022,France,Fulenn,Alvan & Ahez,17
-75,2022,Germany,Rockstars,Malik Harris,6
-76,2021,Italy,Zitti e buoni,Måneskin,524
-77,2021,France,Voilà,Barbara Pravi,499
-78,2021,Switzerland,Tout l'univers,Gjon's Tears,432
-79,2021,Iceland,10 Years,Daði & Gagnamagnið,378
-80,2021,Ukraine,Shum,Go_A,364
-81,2021,Finland,Dark Side,Blind Channel,301
-82,2021,Malta,Je me casse,Destiny,255
-83,2021,Lithuania,Discoteque,The Roop,220
-84,2021,Russia,Russian Woman,Manizha,204
-85,2021,Greece,Last Dance,Stefania,170
-86,2021,Bulgaria,Growing Up Is Getting Old,Victoria,170
-87,2021,Portugal,Love Is On My Side,The Black Mamba,153
-88,2021,Moldova,Sugar,Natalia Gordienko,115
-89,2021,Sweden,Voices,Tusse,109
-90,2021,Serbia,Loco Loco,Hurricane,102
-91,2021,Cyprus,El Diablo,Elena Tsagrinou,94
-92,2021,Israel,Set Me Free,Eden Alene,93
-93,2021,Norway,Fallen Angel,TIX,75
-94,2021,Belgium,The Wrong Place,Hooverphonic,74
-95,2021,Azerbaijan,Mata Hari,Efendi,65
-96,2021,Albania,Karma,Anxhela Peristeri,57
-97,2021,San Marino,Adrenalina,Senhit feat. Flo Rida,50
-98,2021,Netherlands,Birth Of A New Age,Jeangu Macrooy,11
-99,2021,Spain,Voy a quedarme,Blas Cantó,6
-100,2021,Germany,I Don't Feel Hate,Jendrik,3
-101,2021,United KingdomUK,Embers,James Newman,0
-102,2019,Netherlands,Arcade,Duncan Laurence,498
-103,2019,Italy,Soldi,Mahmood,472
-104,2019,Russia,Scream,Sergey Lazarev,370
-105,2019,Switzerland,She Got Me,Luca Hänni,364
-106,2019,Sweden,Too Late for Love,John Lundvik,334
-107,2019,Norway,Spirit In The Sky,KEiiNO,331
-108,2019,North MacedoniaN.Macedonia,Proud,Tamara Todevska,305
-109,2019,Azerbaijan,Truth,Chingiz,302
-110,2019,Australia,Zero Gravity,Kate Miller-Heidke,284
-111,2019,Iceland,Hatrið mun sigra,Hatari,232
-112,2019,Czechia,Friend of a Friend,Lake Malawi,157
-113,2019,Denmark,Love is Forever,Leonora,120
-114,2019,Cyprus,Replay,Tamta,109
-115,2019,Malta,Chameleon,Michela,107
-116,2019,Slovenia,Sebi,Zala Kralj & Gašper Šantl,105
-117,2019,France,Roi,Bilal Hassani,105
-118,2019,Albania,Ktheju tokës,Jonida Maliqi,90
-119,2019,Serbia,Kruna,Nevena Božović,89
-120,2019,San Marino,Say Na Na Na,Serhat,77
-121,2019,Estonia,Storm,Victor Crone,76
-122,2019,Greece,Better Love,Katerine Duska,74
-123,2019,Spain,La venda,Miki,54
-124,2019,Israel,Home,Kobi Marimi,35
-125,2019,Belarus,Like It,Zena,31
-126,2019,Germany,Sister,S!sters,24
-127,2019,United KingdomUK,Bigger Than Us,Michael Rice,11
-128,2018,Israel,Toy,Netta,529
-129,2018,Cyprus,Fuego,Eleni Foureira,436
-130,2018,Austria,Nobody But You,Cesár Sampson,342
-131,2018,Germany,You Let Me Walk Alone,Michael Schulte,340
-132,2018,Italy,Non mi avete fatto niente,Ermal Meta & Fabrizio Moro,308
-133,2018,Czechia,Lie To Me,Mikolas Josef,281
-134,2018,Sweden,Dance You Off,Benjamin Ingrosso,274
-135,2018,Estonia,La forza,Elina Nechayeva,245
-136,2018,Denmark,Higher Ground,Rasmussen,226
-137,2018,Moldova,My Lucky Day,DoReDos,209
-138,2018,Albania,Mall,Eugent Bushpepa,184
-139,2018,Lithuania,When We're Old,Ieva Zasimauskaitė,181
-140,2018,France,Mercy,Madame Monsieur,173
-141,2018,Bulgaria,Bones,Equinox,166
-142,2018,Norway,That's How You Write a Song,Alexander Rybak,144
-143,2018,Ireland,Together,Ryan O'Shaughnessy,136
-144,2018,Ukraine,Under The Ladder,Mélovin,130
-145,2018,Netherlands,Outlaw In 'Em,Waylon,121
-146,2018,Serbia,Nova deca,Sanja Ilić & Balkanika,113
-147,2018,Australia,We Got Love,Jessica Mauboy,99
-148,2018,Hungary,Viszlát nyár,AWS,93
-149,2018,Slovenia,"Hvala, ne!",Lea Sirk,64
-150,2018,Spain,Tu canción,Amaia & Alfred,61
-151,2018,United KingdomUK,Storm,SuRie,48
-152,2018,Finland,Monsters,Saara Aalto,46
-153,2018,Portugal,O jardim,Cláudia Pascoal,39
-154,2017,Portugal,Amar pelos dois,Salvador Sobral,758
-155,2017,Bulgaria,Beautiful Mess,Kristian Kostov,615
-156,2017,Moldova,Hey Mamma,Sunstroke Project,374
-157,2017,Belgium,City Lights,Blanche,363
-158,2017,Sweden,I Can't Go On,Robin Bengtsson,344
-159,2017,Italy,Occidentali's Karma,Francesco Gabbani,334
-160,2017,Romania,Yodel It!,Ilinca feat. Alex Florea,282
-161,2017,Hungary,Origo,Joci Pápai,200
-162,2017,Australia,Don't Come Easy,Isaiah,173
-163,2017,Norway,Grab the Moment,Jowst,158
-164,2017,Netherlands,Lights And Shadows,OG3NE,150
-165,2017,France,Requiem,Alma,135
-166,2017,Croatia,My Friend,Jacques Houdek,128
-167,2017,Azerbaijan,Skeletons,Dihaj,120
-168,2017,United KingdomUK,Never Give Up on You,Lucie Jones,111
-169,2017,Austria,Running On Air,Nathan Trent,93
-170,2017,Belarus,Historyja majho žyccia,Naviband,83
-171,2017,Armenia,Fly With Me,Artsvik,79
-172,2017,Greece,This is Love,Demy,77
-173,2017,Denmark,Where I Am,Anja,77
-174,2017,Cyprus,Gravity,Hovig,68
-175,2017,Poland,Flashlight,Kasia Moś,64
-176,2017,Israel,I Feel Alive,Imri Ziv,39
-177,2017,Ukraine,Time,O.Torvald,36
-178,2017,Germany,Perfect Life,Levina,6
-179,2017,Spain,Do It for Your Lover,Manel Navarro,5
-180,2016,Ukraine,1944,Jamala,534
-181,2016,Australia,Sound of Silence,Dami Im,511
-182,2016,Russia,You Are the Only One,Sergey Lazarev,491
-183,2016,Bulgaria,If Love Was a Crime,Poli Genova,307
-184,2016,Sweden,If I Were Sorry,Frans,261
-185,2016,France,J'ai cherché,Amir,257
-186,2016,Armenia,LoveWave,Iveta Mukuchyan,249
-187,2016,Poland,Color of Your Life,Michał Szpak,229
-188,2016,Lithuania,I've Been Waiting for This Night,Donny Montell,200
-189,2016,Belgium,What's the Pressure,Laura Tesoro,181
-190,2016,Netherlands,Slow Down,Douwe Bob,153
-191,2016,Malta,Walk on Water,Ira Losco,153
-192,2016,Austria,Loin d'ici,Zoë,151
-193,2016,Israel,Made of Stars,Hovi Star,135
-194,2016,Latvia,Heartbeat,Justs,132
-195,2016,Italy,No Degree of Separation,Francesca Michielin,124
-196,2016,Azerbaijan,Miracle,Samra,117
-197,2016,Serbia,Goodbye (Shelter),Sanja Vučić ZAA,115
-198,2016,Hungary,Pioneer,Freddie,108
-199,2016,Georgia,Midnight Gold,Nika Kocharov & Young Georgian Lolitaz,104
-200,2016,Cyprus,Alter Ego,Minus One,96
-201,2016,Spain,Say Yay!,Barei,77
-202,2016,Croatia,Lighthouse,Nina Kraljić,73
-203,2016,United KingdomUK,You're Not Alone,Joe & Jake,62
-204,2016,Czechia,I Stand,Gabriela Gunčíková,41
-205,2016,Germany,Ghost,Jamie-Lee Kriewitz,11
-206,2015,Sweden,Heroes,Måns Zelmerlöw,365
-207,2015,Russia,A Million Voices,Polina Gagarina,303
-208,2015,Italy,Grande amore,Il Volo,292
-209,2015,Belgium,Rhythm Inside,Loïc Nottet,217
-210,2015,Australia,Tonight Again,Guy Sebastian,196
-211,2015,Latvia,Love Injected,Aminata,186
-212,2015,Estonia,Goodbye to Yesterday,Elina Born & Stig Rästa,106
-213,2015,Norway,A Monster Like Me,Mørland & Debrah Scarlett,102
-214,2015,Israel,Golden Boy,Nadav Guedj,97
-215,2015,Serbia,Beauty Never Lies,Bojana Stamenov,53
-216,2015,Georgia,Warrior,Nina Sublatti,51
-217,2015,Azerbaijan,Hour Of The Wolf,Elnur Hüseynov,49
-218,2015,Montenegro,Adio,Knez,44
-219,2015,Slovenia,Here for You,Maraaya,39
-220,2015,Romania,De la capăt / All Over Again,Voltaj,35
-221,2015,Armenia,Face The Shadow,Genealogy,34
-222,2015,Albania,I'm Alive,Elhaida Dani,34
-223,2015,Lithuania,This Time,Monika & Vaidas,30
-224,2015,Greece,One Last Breath,Maria Elena Kyriakou,23
-225,2015,Hungary,Wars For Nothing,Boggie,19
-226,2015,Spain,Amanecer,Edurne,15
-227,2015,Cyprus,One Thing I Should Have Done,John Karayiannis,11
-228,2015,Poland,In The Name Of Love,Monika Kuszyńska,10
-229,2015,United KingdomUK,Still in Love with You,Electro Velvet,5
-230,2015,France,N’oubliez pas,Lisa Angell,4
-231,2015,Austria,I Am Yours,The Makemakes,0
-232,2015,Germany,Black Smoke,Ann Sophie,0
-233,2014,Austria,Rise Like a Phoenix,Conchita Wurst,290
-234,2014,Netherlands,Calm After The Storm,The Common Linnets,238
-235,2014,Sweden,Undo,Sanna Nielsen,218
-236,2014,Armenia,Not Alone,Aram MP3,174
-237,2014,Hungary,Running,András Kállay-Saunders,143
-238,2014,Ukraine,Tick - Tock,Mariya Yaremchuk,113
-239,2014,Russia,Shine,Tolmachevy Sisters,89
-240,2014,Norway,Silent Storm,Carl Espen,88
-241,2014,Denmark,Cliche Love Song,Basim,74
-242,2014,Spain,Dancing in the rain,Ruth Lorenzo,74
-243,2014,Finland,Something Better,Softengine,72
-244,2014,Romania,Miracle,Paula Seling & OVI,72
-245,2014,Switzerland,Hunter Of Stars,Sebalter,64
-246,2014,Poland,My Słowianie - We Are Slavic,Donatan & Cleo,62
-247,2014,Iceland,No Prejudice,Pollapönk,58
-248,2014,Belarus,Cheesecake,Teo,43
-249,2014,United KingdomUK,Children of the Universe,Molly,40
-250,2014,Germany,Is It Right,Elaiza,39
-251,2014,Montenegro,Moj Svijet,Sergej Ćetković,37
-252,2014,Greece,Rise Up,Freaky Fortune feat. RiskyKidd,35
-253,2014,Italy,La Mia Città,Emma,33
-254,2014,Azerbaijan,Start A Fire,Dilara Kazimova,33
-255,2014,Malta,Coming Home,Firelight,32
-256,2014,San Marino,Maybe (Forse),Valentina Monetta,14
-257,2014,Slovenia,Round and Round,Tinkara Kovač,9
-258,2014,France,Moustache,Twin Twin,2
-259,2013,Denmark,Only Teardrops,Emmelie de Forest,281
-260,2013,Azerbaijan,Hold Me,Farid Mammadov,234
-261,2013,Ukraine,Gravity,Zlata Ognevich,214
-262,2013,Norway,I Feed You My Love,Margaret Berger,191
-263,2013,Russia,What If,Dina Garipova,174
-264,2013,Greece,Alcohol Is Free,Koza Mostra feat. Agathon Iakovidis,152
-265,2013,Italy,L'essenziale,Marco Mengoni,126
-266,2013,Malta,Tomorrow,Gianluca,120
-267,2013,Netherlands,Birds,Anouk,114
-268,2013,Hungary,Kedvesem,ByeAlex,84
-269,2013,Moldova,O mie,Aliona Moon,71
-270,2013,Belgium,Love Kills,Roberto Bellarosa,71
-271,2013,Romania,It's My Life,Cezar,65
-272,2013,Sweden,You,Robin Stjernberg,62
-273,2013,Georgia,Waterfall,Nodi Tatishvili & Sophie Gelovani,50
-274,2013,Belarus,Solayoh,Alyona Lanskaya,48
-275,2013,Iceland,Ég á líf,Eythor Ingi,47
-276,2013,Armenia,Lonely Planet,Dorians,41
-277,2013,United KingdomUK,Believe In Me,Bonnie Tyler,23
-278,2013,Estonia,Et uus saaks alguse,Birgit,19
-279,2013,Germany,Glorious,Cascada,18
-280,2013,Lithuania,Something,Andrius Pojavis,17
-281,2013,France,L'enfer et moi,Amandine Bourgeois,14
-282,2013,Finland,Marry Me,Krista Siegfrids,13
-283,2013,Spain,Contigo hasta el final,ESDM,8
-284,2013,Ireland,Only Love Survives,Ryan Dolan,5
-285,2012,Sweden,Euphoria,Loreen,372
-286,2012,Russia,Party For Everybody,Buranovskiye Babushki,259
-287,2012,Serbia,Nije Ljubav Stvar,Željko Joksimović,214
-288,2012,Azerbaijan,When The Music Dies,Sabina Babayeva,150
-289,2012,Albania,Suus,Rona Nishliu,146
-290,2012,Estonia,Kuula,Ott Lepland,120
-291,2012,Turkey,Love Me Back,Can Bonomo,112
-292,2012,Germany,Standing Still,Roman Lob,110
-293,2012,Italy,L'Amore È Femmina (Out Of Love),Nina Zilli,101
-294,2012,Spain,Quédate conmigo,Pastora Soler,97
-295,2012,Moldova,Lăutar,Pasha Parfeny,81
-296,2012,Romania,Zaleilah,Mandinga,71
-297,2012,North MacedoniaN.Macedonia,Crno I Belo,Kaliopi,71
-298,2012,Lithuania,Love Is Blind,Donny Montell,70
-299,2012,Ukraine,Be My Guest,Gaitana,65
-300,2012,Cyprus,La La Love,Ivi Adamou,65
-301,2012,Greece,Aphrodisiac,Eleftheria Eleftheriou,64
-302,2012,Bosnia & Herzegovina.,Korake ti znam,Maya Sar,55
-303,2012,Ireland,Waterline,Jedward,46
-304,2012,Iceland,Never Forget,Greta Salóme & Jónsi,46
-305,2012,Malta,This Is The Night,Kurt Calleja,41
-306,2012,France,Écho (You and I),Anggun,21
-307,2012,Denmark,Should've Known Better,Soluna Samay,21
-308,2012,Hungary,Sound Of Our Hearts,Compact Disco,19
-309,2012,United KingdomUK,Love Will Set You Free,Engelbert Humperdinck,12
-310,2012,Norway,Stay,Tooji,7
-311,2011,Azerbaijan,Running Scared,Ell/Nikki,221
-312,2011,Italy,Madness Of Love,Raphael Gualazzi,189
-313,2011,Sweden,Popular,Eric Saade,185
-314,2011,Ukraine,Angel,Mika Newton,159
-315,2011,Denmark,New Tomorrow,A Friend In London,134
-316,2011,Bosnia & Herzegovina.,Love In Rewind,Dino Merlin,125
-317,2011,Greece,Watch My Dance,Loucas Yiorkas feat. Stereo Mike,120
-318,2011,Ireland,Lipstick,Jedward,119
-319,2011,Georgia,One More Day,Eldrine,110
-320,2011,Germany,Taken By A Stranger,Lena,107
-321,2011,United KingdomUK,I Can,Blue,100
-322,2011,Moldova,So Lucky,Zdob și Zdub,97
-323,2011,Slovenia,No One,Maja Keuc,96
-324,2011,Serbia,Čaroban,Nina,85
-325,2011,France,Sognu,Amaury Vassili,82
-326,2011,Russia,Get You,Alexej Vorobjov,77
-327,2011,Romania,Change,Hotel FM,77
-328,2011,Austria,The Secret Is Love,Nadine Beiler,64
-329,2011,Lithuania,C'est Ma Vie,Evelina Sašenko,63
-330,2011,Iceland,Coming Home,Sjonni's Friends,61
-331,2011,Finland,Da Da Dam,Paradise Oskar,57
-332,2011,Hungary,What About My Dreams?,Kati Wolf,53
-333,2011,Spain,Que Me Quiten Lo Bailao,Lucía Pérez,50
-334,2011,Estonia,Rockefeller Street,Getter Jaani,44
-335,2011,Switzerland,In Love For A While,Anna Rossinelli,19
-336,2010,Germany,Satellite,Lena,246
-337,2010,Turkey,We Could Be The Same,maNga,170
-338,2010,Romania,Playing With Fire,Paula Seling & Ovi,162
-339,2010,Denmark,In a Moment like This,Chanée & N'evergreen,149
-340,2010,Azerbaijan,Drip drop,Safura,145
-341,2010,Belgium,Me And My Guitar,Tom Dice,143
-342,2010,Armenia,Apricot Stone,Eva Rivas,141
-343,2010,Greece,Opa,Giorgos Alkaios & Friends,140
-344,2010,Georgia,Shine,Sofia Nizharadze,136
-345,2010,Ukraine,Sweet People,Alyosha,108
-346,2010,Russia,Lost And Forgotten,Peter Nalitch & Friends,90
-347,2010,France,Allez Ola Olé,Jessy Matador,82
-348,2010,Serbia,Ovo Je Balkan,Milan Stanković,72
-349,2010,Israel,Milim,Harel Skaat,71
-350,2010,Spain,Algo pequeñito,Daniel Diges,68
-351,2010,Albania,It's All About You,Juliana Pasha,62
-352,2010,Bosnia & Herzegovina.,Thunder and Lightning,Vukašin Brajić,51
-353,2010,Portugal,Há dias assim,Filipa Azevedo,43
-354,2010,Iceland,Je ne sais quoi,Hera Björk,41
-355,2010,Norway,My Heart Is Yours,Didrik Solli-Tangen,35
-356,2010,Cyprus,Life Looks Better In Spring,Jon Lilygreen & The Islanders,27
-357,2010,Moldova,Run Away,Sunstroke Project & Olia Tira,27
-358,2010,Ireland,It's For You,Niamh Kavanagh,25
-359,2010,Belarus,Butterflies,3+2,18
-360,2010,United KingdomUK,That Sounds Good To Me,Josh,10
-361,2009,Norway,Fairytale,Alexander Rybak,387
-362,2009,Iceland,Is It True?,Yohanna,218
-363,2009,Azerbaijan,Always,AySel & Arash,207
-364,2009,Turkey,Düm Tek Tek,Hadise,177
-365,2009,United KingdomUK,It's My Time,Jade Ewen,173
-366,2009,Estonia,Rändajad,Urban Symphony,129
-367,2009,Greece,This Is Our Night,Sakis Rouvas,120
-368,2009,France,Et S'il Fallait Le Faire,Patricia Kaas,107
-369,2009,Bosnia & Herzegovina.,Bistra voda,Regina,106
-370,2009,Armenia,Jan Jan,Inga & Anush,92
-371,2009,Russia,Mamo,Anastasia Prikhodko,91
-372,2009,Ukraine,Be my Valentine! (Anti-crisis Girl),Svetlana Loboda,76
-373,2009,Denmark,Believe Again,Brinck,74
-374,2009,Moldova,Hora din Moldova,Nelly Ciobanu,69
-375,2009,Portugal,Todas As Ruas Do Amor,Flor-de-lis,57
-376,2009,Israel,There Must Be Another Way,Noa & Mira Awad,53
-377,2009,Albania,Carry Me In Your Dreams,Kejsi Tola,48
-378,2009,Croatia,Lijepa Tena,Igor Cukrov feat. Andrea,45
-379,2009,Romania,The Balkan Girls,Elena,40
-380,2009,Germany,Miss Kiss Kiss Bang,Alex Swings Oscar Sings!,35
-381,2009,Sweden,La Voix,Malena Ernman,33
-382,2009,Malta,What If We,Chiara,31
-383,2009,Lithuania,Love,Sasha Son,23
-384,2009,Spain,La noche es para mí,Soraya,23
-385,2009,Finland,Lose Control,Waldo's People,22
-386,2008,Russia,Believe,Dima Bilan,272
-387,2008,Ukraine,Shady Lady,Ani Lorak,230
-388,2008,Greece,Secret Combination,Kalomira,218
-389,2008,Armenia,"Qele, Qele",Sirusho,199
-390,2008,Norway,Hold On Be Strong,Maria,182
-391,2008,Serbia,Oro,Jelena Tomašević feat. Bora Dugic,160
-392,2008,Turkey,Deli,Mor ve Ötesi,138
-393,2008,Azerbaijan,Day After Day,Elnur & Samir,132
-394,2008,Israel,The Fire In Your Eyes,Boaz,124
-395,2008,Bosnia & Herzegovina.,Pokušaj,Laka,110
-396,2008,Georgia,Peace Will Come,Diana Gurtskaya,83
-397,2008,Latvia,Wolves Of The Sea,Pirates Of The Sea,83
-398,2008,Portugal,Senhora Do Mar (Negras Águas),Vânia Fernandes,69
-399,2008,Iceland,This Is My Life,Euroband,64
-400,2008,Denmark,All Night Long,Simon Mathew,60
-401,2008,Spain,Baila el Chiki Chiki,Rodolfo Chikilicuatre,55
-402,2008,Albania,Zemrën e lamë peng,Olta Boka,55
-403,2008,Sweden,Hero,Charlotte Perrelli,47
-404,2008,France,Divine,Sébastien Tellier,47
-405,2008,Romania,Pe-o margine de lume,Nico & Vlad,45
-406,2008,Croatia,Romanca,Kraljevi Ulice & 75 Cents,44
-407,2008,Finland,Missä miehet ratsastaa,Teräsbetoni,35
-408,2008,Germany,Disappear,No Angels,14
-409,2008,Poland,For Life,Isis Gee,14
-410,2008,United KingdomUK,Even If,Andy Abraham,14
-411,2007,Serbia,Molitva,Marija Šerifović,268
-412,2007,Ukraine,Dancing Lasha Tumbai,Verka Serduchka,235
-413,2007,Russia,Song # 1,Serebro,207
-414,2007,Turkey,Shake It Up Şekerim,Kenan Dogulu,163
-415,2007,Bulgaria,Water,Elitsa Todorova & Stoyan Yankulov,157
-416,2007,Belarus,Work Your Magic,Dmitry Koldun,145
-417,2007,Greece,Yassou Maria,Sarbel,139
-418,2007,Armenia,Anytime You Need,Hayko,138
-419,2007,Hungary,Unsubstantial Blues,Magdi Rúzsa,128
-420,2007,Moldova,Fight,Natalia Barbu,109
-421,2007,Bosnia & Herzegovina.,Rijeka bez imena,Marija Sestic,106
-422,2007,Georgia,Visionary Dream,Sopho,97
-423,2007,Romania,"Liubi, Liubi, I Love You",Todomondo,84
-424,2007,North MacedoniaN.Macedonia,Mojot Svet,Karolina,73
-425,2007,Slovenia,Cvet Z Juga,Alenka Gotar,66
-426,2007,Latvia,Questa notte,Bonaparti.lv,54
-427,2007,Finland,Leave Me Alone,Hanna Pakarinen,53
-428,2007,Sweden,The Worrying Kind,The Ark,51
-429,2007,Germany,Frauen regier'n die Welt,Roger Cicero,49
-430,2007,Spain,I Love You Mi Vida,D'Nash,43
-431,2007,Lithuania,Love Or Leave,4Fun,28
-432,2007,France,L'amour à la française,Les Fatals Picards,19
-433,2007,United KingdomUK,Flying The Flag (for You),Scooch,19
-434,2007,Ireland,They Can't Stop The Spring,Dervish,5
-435,2006,Finland,Hard Rock Hallelujah,Lordi,292
-436,2006,Russia,Never Let You Go,Dima Bilan,248
-437,2006,Bosnia & Herzegovina.,Lejla,Hari Mata Hari,229
-438,2006,Romania,Tornerò,Mihai Traistariu,172
-439,2006,Sweden,Invincible,Carola,170
-440,2006,Lithuania,We Are The Winners,LT United,162
-441,2006,Ukraine,Show Me Your Love,Tina Karol,145
-442,2006,Armenia,Without Your Love,André,129
-443,2006,Greece,Everything,Anna Vissi,128
-444,2006,Ireland,Every Song Is A Cry For Love,Brian Kennedy,93
-445,2006,Turkey,Superstar,Sibel Tüzün,91
-446,2006,North MacedoniaN.Macedonia,Ninanajna,Elena Risteska,56
-447,2006,Croatia,Moja štikla,Severina,56
-448,2006,Norway,Alvedansen,Christine Guldbrandsen,36
-449,2006,Germany,"No, No, Never",Texas Lightning,36
-450,2006,Switzerland,If We All Give A Little,Six4One,30
-451,2006,Latvia,I Hear Your Heart,Cosmos,30
-452,2006,Denmark,Twist Of Love,Sidsel Ben Semmane,26
-453,2006,United KingdomUK,Teenage Life,Daz Sampson,25
-454,2006,Moldova,Loca,Arsenium & Natalia Gordienko,22
-455,2006,Spain,Bloody Mary,Las Ketchup,18
-456,2006,France,Il était temps,Virginie Pouchin,5
-457,2006,Israel,Ze Hazman,Eddie Butler,4
-458,2006,Malta,I Do,Fabrizio Faniello,1
-459,2005,Greece,My Number One,Helena Paparizou,230
-460,2005,Malta,Angel,Chiara,192
-461,2005,Romania,Let Me Try,Luminita Anghel & Sistem,158
-462,2005,Israel,Hasheket shenish'ar,Shiri Maymon,154
-463,2005,Latvia,The War Is Not Over,Walters & Kazha,153
-464,2005,Moldova,Boonika Bate Doba,Zdob și Zdub,148
-465,2005,Serbia & Montenegro,Zauvijek Moja,No Name,137
-466,2005,Switzerland,Cool Vibes,Vanilla Ninja,128
-467,2005,Norway,In My Dreams,Wig Wam,125
-468,2005,Denmark,Talking To You,Jakob Sveistrup,125
-469,2005,Croatia,Vukovi umiru sami,Boris Novkovic feat. Lado members,115
-470,2005,Hungary,Forogj világ,NOX,97
-471,2005,Turkey,Rimi Rimi Ley,Gülseren,92
-472,2005,Bosnia & Herzegovina.,Call Me,Feminnem,79
-473,2005,Russia,Nobody Hurt No One,Natalia Podolskaya,57
-474,2005,Albania,Tomorrow I Go,Ledina Celo,53
-475,2005,North MacedoniaN.Macedonia,Make My Day,Martin Vučić,52
-476,2005,Cyprus,Ela ela,Constantinos Christoforou,46
-477,2005,Sweden,Las Vegas,Martin Stenmarck,30
-478,2005,Ukraine,Razom Nas Bahato,Greenjolly,30
-479,2005,Spain,Brujería,Son de sol,28
-480,2005,United KingdomUK,Touch My Fire,Javine,18
-481,2005,France,Chacun pense à soi,Ortal,11
-482,2005,Germany,Run & Hide,Gracia,4
-483,2004,Ukraine,Wild Dances,Ruslana,280
-484,2004,Serbia & Montenegro,Lane moje,Željko Joksimović,263
-485,2004,Greece,Shake It,Sakis Rouvas,252
-486,2004,Turkey,For Real,Athena,195
-487,2004,Cyprus,Stronger Every Minute,Lisa Andreas,170
-488,2004,Sweden,It Hurts,Lena Philipsson,170
-489,2004,Albania,The Image Of You,Anjeza Shahini,106
-490,2004,Germany,Can't Wait Until Tonight,Max,93
-491,2004,Bosnia & Herzegovina.,In The Disco,Deen,91
-492,2004,Spain,Para llenarme de ti,Ramón,87
-493,2004,Russia,Believe Me,Julia Savicheva,67
-494,2004,Malta,On again... off again,Julie & Ludwig,50
-495,2004,Croatia,You Are The Only One,Ivan Mikulic,50
-496,2004,North MacedoniaN.Macedonia,Life,Toše Proeski,47
-497,2004,France,A Chaque Pas,Jonatan Cerrada,40
-498,2004,United KingdomUK,Hold On To Our Love,James Fox,29
-499,2004,Poland,Love Song,Blue Cafe,27
-500,2004,Romania,I Admit,Sanda Ladosi,18
-501,2004,Iceland,Heaven,Jónsi,16
-502,2004,Netherlands,Without You,Re-union,11
-503,2004,Austria,Du Bist,Tie Break,9
-504,2004,Belgium,1 Life,Xandee,7
-505,2004,Ireland,If My World Stopped Turning,Chris Doran,7
-506,2004,Norway,High,Knut Anders Sørum,3
-507,2003,Turkey,Everyway That I Can,Sertab Erener,167
-508,2003,Belgium,Sanomi,Urban Trad,165
-509,2003,Russia,"Ne Ver', Ne Boisia",t.A.T.u.,164
-510,2003,Norway,I'm Not Afraid To Move On,Jostein Hasselgård,123
-511,2003,Sweden,Give Me Your Love,Fame,107
-512,2003,Austria,Weil der Mensch zählt,Alf Poier,101
-513,2003,Poland,Keine Grenzen - Żadnych granic,Ich Troje,90
-514,2003,Iceland,Open Your Heart,Birgitta,81
-515,2003,Spain,Dime,Beth,81
-516,2003,Romania,Don't Break My Heart,Nicola,73
-517,2003,Ireland,We've Got The World,Mickey Harte,53
-518,2003,Germany,Let's Get Happy,Lou,53
-519,2003,Netherlands,One More Night,Esther Hart,45
-520,2003,Ukraine,Hasta La Vista,Olexandr,30
-521,2003,Croatia,Više nisam tvoja,Claudia Beni,29
-522,2003,Bosnia & Herzegovina.,Ne Brini,Mija Martina,27
-523,2003,Greece,Never Let You Go,Mando,25
-524,2003,France,Monts Et Merveilles,Louisa Baileche,19
-525,2003,Israel,Words For Love,Lior Narkis,17
-526,2003,Cyprus,Feeling Alive,Stelios Constantas,15
-527,2003,Estonia,Eighties Coming Back,Ruffus,14
-528,2003,Portugal,Deixa-me sonhar,Rita Guerra,13
-529,2003,Slovenia,Nanana,Karmen,7
-530,2003,Latvia,Hello From Mars,F.L.Y.,5
-531,2003,Malta,To Dream Again,Lynn Chircop,4
-532,2003,United KingdomUK,Cry Baby,Jemini,0
-533,2002,Latvia,I Wanna,Marie N,176
-534,2002,Malta,7th Wonder,Ira Losco,164
-535,2002,United KingdomUK,Come Back,Jessica Garlick,111
-536,2002,Estonia,Runaway,Sahléne,111
-537,2002,France,Il Faut Du Temps,Sandrine François,104
-538,2002,Cyprus,Gimme,One,85
-539,2002,Spain,Europe's Living A Celebration,Rosa,81
-540,2002,Sweden,Never Let It Go,Afro-dite,72
-541,2002,Romania,Tell Me Why,Monica Anghel & Marcel Pavel,71
-542,2002,Russia,Northern Girl,Prime minister,55
-543,2002,Croatia,Everything I Want,Vesna Pisarović,44
-544,2002,Israel,Light A Candle,Sarit Hadad,37
-545,2002,Bosnia & Herzegovina.,Na jastuku za dvoje,Maja,33
-546,2002,Belgium,Sister,Sergio & the Ladies,33
-547,2002,Slovenia,Samo ljubezen,Sestre,33
-548,2002,Turkey,Leylaklar soldu kalbinde,Buket Bengisu & Safir,29
-549,2002,Greece,S.A.G.A.P.O.,Michalis Rakintzis,27
-550,2002,Austria,Say A Word,Manuel Ortega,26
-551,2002,North MacedoniaN.Macedonia,Od Nas Zavisi,Karolina,25
-552,2002,Finland,Addicted to You,Laura,24
-553,2002,Germany,I Can't Live Without Music,Corinna May,17
-554,2002,Switzerland,Dans le jardin de mon âme,Francine Jordi,15
-555,2002,Lithuania,Happy You,Aivaras,12
-556,2002,Denmark,Tell Me Who You Are,Malene,7
-557,2001,Estonia,Everybody,"Tanel Padar, Dave Benton & 2XL",198
-558,2001,Denmark,Never Ever Let You Go,Rollo & King,177
-559,2001,Greece,Die For You,Antique,147
-560,2001,France,Je n'ai que mon âme,Natasha Saint-Pier,142
-561,2001,Sweden,Listen To Your Heartbeat,Friends,100
-562,2001,Spain,Dile que la quiero,David Civera,76
-563,2001,Slovenia,Energy,Nuša Derenda,70
-564,2001,Germany,Wer Liebe lebt,Michelle,66
-565,2001,Malta,Another Summer Night,Fabrizio Faniello,48
-566,2001,Croatia,Strings Of My Heart,Vanna,42
-567,2001,Turkey,Sevgiliye son,Sedat Yüce,41
-568,2001,Russia,Lady Alpine Blue,Mumiy troll,37
-569,2001,Lithuania,You Got Style,Skamp,35
-570,2001,Bosnia & Herzegovina.,Hano,Nino,29
-571,2001,United KingdomUK,No Dream Impossible,Lindsay D.,28
-572,2001,Israel,Ein Davar,Tal Sondak,25
-573,2001,Portugal,Só sei ser feliz assim,MTM,18
-574,2001,Netherlands,Out On My Own,Michelle,16
-575,2001,Latvia,Too Much,Arnis Mednis,16
-576,2001,Poland,2 Long,Piasek,11
-577,2001,Ireland,Without Your Love,Gary O'Shaughnessy,6
-578,2001,Iceland,Angel,TwoTricky,3
-579,2001,Norway,On My Own,Haldor Lægreid,3
-580,2000,Denmark,Fly On The Wings Of Love,Olsen Brothers,195
-581,2000,Russia,Solo,Alsou,155
-582,2000,Latvia,My Star,BrainStorm,136
-583,2000,Estonia,Once In A Lifetime,Ines,98
-584,2000,Germany,Wadde hadde dudde da?,Stefan Raab,96
-585,2000,Ireland,Millennium Of Love,Eamonn Toal,92
-586,2000,Sweden,When Spirits Are Calling My Name,Roger Pontare,88
-587,2000,Malta,Desire,Claudette Pace,73
-588,2000,Croatia,Kad zaspu anđeli,Goran Karan,70
-589,2000,Turkey,Yorgunum Anla,Pınar & The S.O.S.,59
-590,2000,Norway,My Heart Goes Boom,Charmed,57
-591,2000,Iceland,Tell Me!,August & Telma,45
-592,2000,Netherlands,No Goodbyes,Linda Wagenmakers,40
-593,2000,Austria,All To You,The Rounder Girls,34
-594,2000,North MacedoniaN.Macedonia,100% Te Ljubam,XXL,29
-595,2000,United KingdomUK,Don't Play That Song Again,Nicki French,28
-596,2000,Romania,The Moon,Taxi,25
-597,2000,Spain,Colgado de un sueño,Serafín Zubiri,18
-598,2000,Finland,A Little Bit,Nina Åström,18
-599,2000,Switzerland,La vita cos'è?,Jane Bogaert,14
-600,2000,Cyprus,Nomiza,Voice,8
-601,2000,Israel,Sa'me'akh,Ping Pong,7
-602,2000,France,On aura le ciel,Sofia Mestari,5
-603,2000,Belgium,Envie de vivre,Nathalie Sorce,2
-604,1999,Sweden,Take Me To Your Heaven,Charlotte Nilsson,163
-605,1999,Iceland,All out of luck,Selma Björnsdóttir,146
-606,1999,Germany,Reise nach Jerusalem – Kudüs'e seyahat,Sürpriz,140
-607,1999,Croatia,Marija Magdalena,Doris Dragović,118
-608,1999,Israel,Yom Huledeth,Eden,93
-609,1999,Estonia,Diamond Of Night,Evelin Samuel & Camille,90
-610,1999,Bosnia & Herzegovina.,Putnici,Dino & Beatrice,86
-611,1999,Denmark,This Time (I Mean It),Trine Jepsen & Michael Teschl,71
-612,1999,Netherlands,One Good Reason,Marlayne,71
-613,1999,Austria,Reflection,Bobbie Singer,65
-614,1999,Slovenia,For A Thousand Years,Darja Švajger,50
-615,1999,Belgium,Like The Wind,Venessa Chinitor,38
-616,1999,United KingdomUK,Say It Again,Precious,38
-617,1999,Norway,Living My Life Without You,Stig André Van Eijk,35
-618,1999,Malta,Believe 'n Peace,Times 3,32
-619,1999,Turkey,Dön artık,Tuba Önal & Mystik,21
-620,1999,Ireland,When You Need Me,The Mullan's,18
-621,1999,Poland,Przytul mnie mocno,Mietek Szczesniak,17
-622,1999,France,Je veux donner ma voix,Nayah,14
-623,1999,Lithuania,Strazdas,Aiste Smilgeviciute,13
-624,1999,Portugal,Como tudo começou,Rui Bandeira,12
-625,1999,Cyprus,Tha'nai erotas,Marlain Angelidou,2
-626,1999,Spain,No quiero escuchar,Lydia,1
-627,1998,Israel,Diva,Dana International,172
-628,1998,United KingdomUK,Where Are You?,Imaani,166
-629,1998,Malta,The One That I Love,Chiara,165
-630,1998,Netherlands,Hemel en aarde,Edsilia Rombley,150
-631,1998,Croatia,Neka mi ne svane,Danijela,131
-632,1998,Belgium,Dis oui,Mélanie Cohl,122
-633,1998,Germany,Guildo hat euch lieb,Guildo Horn,86
-634,1998,Norway,Alltid sommer,Lars A. Fredriksen,79
-635,1998,Ireland,Is Always Over Now?,Dawn,64
-636,1998,Sweden,Kärleken är,Jill Johnson,53
-637,1998,Cyprus,Genesis,Michael Hajiyanni,37
-638,1998,Portugal,Se eu te pudesse abraçar,Alma Lusa,36
-639,1998,Estonia,Mere lapsed,Koit Toome,36
-640,1998,Turkey,Unutamazsın,Tüzmen,25
-641,1998,Finland,Aava,Edea,22
-642,1998,Spain,¿Qué voy a hacer sin ti?,Mikel Herzog,21
-643,1998,Poland,To takie proste,Sixteen,19
-644,1998,Slovenia,Naj bogovi slišijo,Vili Resnik,17
-645,1998,North MacedoniaN.Macedonia,"Ne Zori, Zoro",Vlado Janevski,16
-646,1998,Greece,Mia krifi evesthisia,Thalassa,12
-647,1998,Slovakia,Modlitba,Katarína Hasprová,8
-648,1998,Romania,Eu cred,Mălina Olinescu,6
-649,1998,Hungary,A holnap már nem lesz szomorú,Charlie,4
-650,1998,France,Où aller,Marie-Line,3
-651,1998,Switzerland,Lass ihn,Gunvor,0
-652,1997,United KingdomUK,Love Shine A Light,Katrina and The Waves,227
-653,1997,Ireland,Mysterious Woman,Marc Roberts,157
-654,1997,Turkey,Dinle,Şebnem Paker & Etnic,121
-655,1997,Italy,Fiumi di parole,Jalisse,114
-656,1997,Cyprus,Mana mou,Chara and Andreas Konstantinou,98
-657,1997,Spain,Sin rencor,Marcos Llunas,96
-658,1997,France,Sentiments songes,Fanny,95
-659,1997,Estonia,Keelatud maa,Maarja-Liis Ilus,82
-660,1997,Malta,Let Me Fly,Debbie Scerri,66
-661,1997,Slovenia,Zbudi se,Tanja Ribič,60
-662,1997,Poland,Ale jestem,Anna Maria Jopek,54
-663,1997,Greece,Horepse,Marianna Zorba,39
-664,1997,Hungary,"Miért kell, hogy elmenj?",VIP,39
-665,1997,Sweden,Bara hon älskar mig,Blond,36
-666,1997,Russia,Primadonna,Alla Pugachova,33
-667,1997,Denmark,Stemmen i mit liv,Kølig Kaj,25
-668,1997,Croatia,Probudi me,ENI,24
-669,1997,Germany,Zeit,Bianca Shomburg,22
-670,1997,Bosnia & Herzegovina.,Goodbye,Alma Čardžić,22
-671,1997,Iceland,Minn hinsti dans,Paul Oscar,18
-672,1997,Austria,One Step,Bettina Soriat,12
-673,1997,Switzerland,Dentro di me,Barbara Berta,5
-674,1997,Netherlands,Niemand heeft nog tijd,Mrs. Einstein,5
-675,1997,Norway,San Francisco,Tor Endresen,0
-676,1997,Portugal,Antes do adeus,Célia Lawson,0
-677,1996,Ireland,The Voice,Eimear Quinn,162
-678,1996,Norway,I evighet,Elisabeth Andreasson,114
-679,1996,Sweden,Den vilda,One More Time,100
-680,1996,Croatia,Sveta ljubav,Maja Blagdan,98
-681,1996,Estonia,Kaelakee Hääl,Ivo Linna & Maarja-Liis Ilus,94
-682,1996,Portugal,O meu coração não tem cor,Lúcia Moniz,92
-683,1996,Netherlands,De eerste keer,Maxine & Franklin Brown,78
-684,1996,United KingdomUK,Ooh...Aah...Just A Little Bit,Gina G,77
-685,1996,Cyprus,Mono Gia Mas,Constantinos,72
-686,1996,Malta,In A Woman's Heart,Miriam Christine,68
-687,1996,Austria,Weil's dr guat got,George Nußbaumer,68
-688,1996,Turkey,Beşinci mevsim,Şebnem Paker,57
-689,1996,Iceland,Sjúbídú,Anna Mjöll,51
-690,1996,Greece,Emis forame to himona anixiatika,Marianna Efstratiou,36
-691,1996,Poland,Chcę znać swój grzech,Kasia Kowalska,31
-692,1996,Switzerland,Mon cœur l'aime,Cathy Leander,22
-693,1996,Belgium,Liefde is een kaartspel,Lisa del Bo,22
-694,1996,Slovakia,Kým nás máš,Marcel Palonder,19
-695,1996,France,Diwanit bugale,Dan Ar Braz et l'Héritage des Celtes,18
-696,1996,Spain,"¡Ay, Qué Deseo!",Antonio Carbonell,17
-697,1996,Slovenia,Dan najlepših sanj,Regina,16
-698,1996,Bosnia & Herzegovina.,Za Našu Ljubav,Amila Glamočak,13
-699,1996,Finland,Niin kaunis on taivas,Jasmine,9
-700,1995,Norway,Nocturne,Secret Garden,148
-701,1995,Spain,Vuelve conmigo,Anabel Conde,119
-702,1995,Sweden,Se på mig,Jan Johansen,100
-703,1995,France,Il me donne rendez-vous,Nathalie Santamaria,94
-704,1995,Denmark,Fra Mols til Skagen,Aud Wilken,92
-705,1995,Croatia,Nostalgija,Magazin & Lidija,91
-706,1995,Slovenia,Prisluhni mi,Darja Švajger,84
-707,1995,Israel,Amen,Liora,81
-708,1995,Cyprus,Sti Fotia,Alexandros Panayi,79
-709,1995,United KingdomUK,Love City Groove,Love City Groove,76
-710,1995,Malta,Keep Me In Mind,Mike Spiteri,76
-711,1995,Greece,Pia prosefhi,Elina Constantopoulou,68
-712,1995,Austria,Die Welt dreht sich verkehrt,Stella Jones,67
-713,1995,Ireland,Dreamin',Eddie Friel,44
-714,1995,Iceland,Núna,Bó Halldórsson,31
-715,1995,Turkey,Sev!,Arzu Ece,21
-716,1995,Russia,Kolybelnaya Dlya Vulkana,Philipp Kirkorov,17
-717,1995,Poland,Sama,Justyna,15
-718,1995,Bosnia & Herzegovina.,Dvadeset i prvi vijek,Davor Popović,14
-719,1995,Belgium,La voix est libre,Frédéric Etherlinck,8
-720,1995,Portugal,Baunilha e chocolate,Tó Cruz,5
-721,1995,Hungary,Új név egy régi ház falán,Csaba Szigeti,3
-722,1995,Germany,Verliebt in Dich,Stone and Stone,1
-723,1994,Ireland,Rock 'n' Roll Kids,Paul Harrington & Charlie McGettigan,226
-724,1994,Poland,To Nie Ja!,Edyta Górniak,166
-725,1994,Germany,Wir geben 'ne Party,MeKaDo,128
-726,1994,Hungary,Kinek mondjam el vétkeimet,Friderika Bayer,122
-727,1994,Malta,More Than Love,Moira Stafrace & Christopher Scicluna,97
-728,1994,Norway,Duett,Elisabeth Andreasson & Jan Werner Danielsen,76
-729,1994,France,Je suis un vrai garçon,Nina Morato,74
-730,1994,Portugal,Chamar a música,Sara Tavares,73
-731,1994,Russia,Vječnij stranjik,Youddiph,70
-732,1994,United KingdomUK,We Will Be Free (Lonely Symphony),Frances Ruffelle,63
-733,1994,Cyprus,Ime Anthropos Ke Ego,Evridiki,51
-734,1994,Iceland,Nætur,Sigga,49
-735,1994,Sweden,Stjärnorna,Marie Bergman & Roger Pontare,48
-736,1994,Greece,To Trehantiri,Costas Bigalis and the Sea Lovers,44
-737,1994,Bosnia & Herzegovina.,Ostani kraj mene,Alma & Dejan,39
-738,1994,Croatia,Nek' ti bude ljubav sva,Tony Cetinski,27
-739,1994,Austria,Für den Frieden der Welt,Petra Frey,19
-740,1994,Spain,Ella no es ella,Alejandro Abad,17
-741,1994,Switzerland,Sto pregando,Duilio,15
-742,1994,Slovakia,Nekonečná pieseň,Martin Ďurinda & Tublatanka,15
-743,1994,Romania,Dincolo de nori,Dan Bittman,14
-744,1994,Finland,Bye Bye Baby,CatCat,11
-745,1994,Netherlands,Waar is de zon?,Willeke Alberti,4
-746,1994,Estonia,Nagu Merelaine,Silvi Vrait,2
-747,1994,Lithuania,Lopšinė mylimai,Ovidijus Vyšniauskas,0
-748,1993,Ireland,In Your Eyes,Niamh Kavanagh,187
-749,1993,United KingdomUK,Better The Devil You Know,Sonia,164
-750,1993,Switzerland,"Moi, tout simplement",Annie Cotton,148
-751,1993,France,Mama Corsica,Patrick Fiori,121
-752,1993,Norway,Alle mine tankar,Silje Vige,120
-753,1993,Netherlands,Vrede,Ruth Jacott,92
-754,1993,Sweden,Eloise,Arvingarna,89
-755,1993,Malta,This Time,William Mangion,69
-756,1993,Greece,"Ellada, hora tu fotos",Kaiti Garbi,64
-757,1993,Portugal,A cidade até ser dia,Anabela,60
-758,1993,Spain,Hombres,Eva Santamaria,58
-759,1993,Italy,Sole d'Europa,Enrico Ruggeri,45
-760,1993,Iceland,Þá veistu svarið,Inga,42
-761,1993,Austria,Maria Magdalena,Tony Wegas,32
-762,1993,Croatia,Don't Ever Cry,Put,31
-763,1993,Bosnia & Herzegovina.,Sva bol svijeta,Fazla,27
-764,1993,Finland,Tule luo,Katri-Helena,20
-765,1993,Germany,Viel zu weit,Münchener Freiheit,18
-766,1993,Cyprus,Mi stamatas,Kyriakos Zymboulakis & Demos Van Beke,17
-767,1993,Luxembourg,Donne-moi une chance,Modern Times,11
-768,1993,Turkey,Esmer yarim,"Burak Aydos, Baybora & Serter Öztürk",10
-769,1993,Denmark,Under stjernerne på himlen,Tommy Seebach Band,9
-770,1993,Slovenia,Tih deževen dan,1X Band,9
-771,1993,Israel,Shiru,Lakahat Shiru,4
-772,1993,Belgium,Iemand als jij,Barbara Dex,3
-773,1992,Ireland,Why Me?,Linda Martin,155
-774,1992,United KingdomUK,One Step Out Of Time,Michael Ball,139
-775,1992,Malta,Little Child,Mary Spiteri,123
-776,1992,Italy,Rapsodia,Mia Martini,111
-777,1992,Greece,Olou Tou Kosmou tin Elpida,Cleopatra,94
-778,1992,Israel,Ze Rak Sport,Dafna,85
-779,1992,Iceland,Nei eða já,Heart 2 Heart,80
-780,1992,France,Monté la riviè,Kali,73
-781,1992,Netherlands,Wijs me de weg,Humphrey Campbell,67
-782,1992,Austria,Zusammen geh'n,Tony Wegas,63
-783,1992,Cyprus,Teriazoume,Evridiki,57
-784,1992,Denmark,Alt det som ingen ser,Kenny & Lotte,47
-785,1992,Yugoslavia,Ljubim Te Pesmama,Extra Nena,44
-786,1992,Spain,Todo esto es la música,Serafin,37
-787,1992,Switzerland,Mister Music Man,Daisy Auvray,32
-788,1992,Germany,Träume sind für alle da,Wind,27
-789,1992,Portugal,Amor d'água fresca,Dina,26
-790,1992,Norway,Visjoner,Merethe Trøan,23
-791,1992,Turkey,Yaz bitti,Aylin Vatankoş,17
-792,1992,Belgium,"Nous, on veut des violons",Morgane,11
-793,1992,Luxembourg,Sou fräi,Marion Welter and Kontinent,10
-794,1992,Sweden,I morgon är en annan dag,Christer Björkman,9
-795,1992,Finland,Yamma yamma,Pave,4
-796,1991,Sweden,Fångad av en stormvind,Carola,146
-797,1991,France,C'est le dernier qui a parlé qui a raison,Amina,146
-798,1991,Israel,Kan,Duo Datz,139
-799,1991,Spain,Bailar Pegados,Sergio Dalma,119
-800,1991,Switzerland,Canzone per te,Sandra Simó,118
-801,1991,Malta,Could It Be,Paul Giordimaina & Georgina,106
-802,1991,Italy,Comme è ddoce 'o mare,Peppino di Capri,89
-803,1991,Portugal,Lusitana Paixão,Dulce,62
-804,1991,Cyprus,S.O.S.,Elena Patroclou,60
-805,1991,Ireland,Could It Be That I'm In Love,Kim Jackson,47
-806,1991,United KingdomUK,A Message To Your Heart,Samantha Janus,47
-807,1991,Turkey,Iki dakika,"İzel Çeliköz, Reyhan Karaca & Can Uğurluer",44
-808,1991,Greece,I Anixi,Sofia Vossou,36
-809,1991,Luxembourg,Un baiser volé,Sarah Bray,29
-810,1991,Iceland,Nina,Stefán & Eyfi,26
-811,1991,Belgium,Geef Het Op,Clouseau,23
-812,1991,Norway,Mrs. Thompson,Just 4 Fun,14
-813,1991,Germany,Dieser Traum darf niemals sterben,Atlantis 2000,10
-814,1991,Denmark,Lige der hvor hjertet slår,Anders Frandsen,8
-815,1991,Finland,Hullu yö,Kaija,6
-816,1991,Yugoslavia,Brazil,Baby Doll,1
-817,1991,Austria,Venedig im Regen,Thomas Forstner,0
-818,1990,Italy,Insieme: 1992,Toto Cutugno,149
-819,1990,France,White and Black Blues,Joelle Ursull,132
-820,1990,Ireland,Somewhere In Europe,Liam Reilly,132
-821,1990,Iceland,Eitt lag enn,Stjórnin,124
-822,1990,Spain,Bandido,Azúcar Moreno,96
-823,1990,United KingdomUK,Give A Little Love Back To The World,Emma,87
-824,1990,Yugoslavia,Hajde da ludujemo,Tajči,81
-825,1990,Denmark,"Hallo, hallo",Lonnie Devantier,64
-826,1990,Germany,Frei zu leben,Chris Kempers & Daniel Kovac,60
-827,1990,Austria,Keine Mauern mehr,Simone,58
-828,1990,Switzerland,Musik klingt in die Welt hinaus,Egon Egemann,51
-829,1990,Belgium,Macédomienne,Philippe Lafontaine,46
-830,1990,Luxembourg,Quand je te rêve,Céline Carzo,38
-831,1990,Cyprus,Milas Poli,Haris Anastasiou,36
-832,1990,Netherlands,Ik wil alles met je delen,Maywood,25
-833,1990,Sweden,Som en vind,Edin-Ådahl,24
-834,1990,Turkey,Gözlerinin Hapsindeyim,Kayahan,21
-835,1990,Israel,Shara Barechovot,Rita,16
-836,1990,Greece,Horis skopo,Christos Callow & Wave,11
-837,1990,Portugal,Há sempre alguém,Nucha,9
-838,1990,Norway,Brandenburger Tor,Ketil Stokkan,8
-839,1990,Finland,Fri?,Beat,8
-840,1989,Yugoslavia,Rock Me,Riva,137
-841,1989,United KingdomUK,Why Do I Always Get it Wrong?,Live Report,130
-842,1989,Denmark,Vi maler byen rød,Birthe Kjær,111
-843,1989,Sweden,En dag,Tommy Nilsson,110
-844,1989,Austria,Nur ein Lied,Thomas Forstner,97
-845,1989,Spain,Nacida para amar,Nina,88
-846,1989,Finland,La dolce vita,Anneli Saaristo,76
-847,1989,France,J'ai volé la vie,Nathalie Pâque,60
-848,1989,Italy,Avrei voluto,Anna Oxa & Fausto Leali,56
-849,1989,Greece,To thiko sou asteri,Marianna,56
-850,1989,Cyprus,Apopse as vrethoume,Fanny Polymeri and Yiannis Savvidakis,51
-851,1989,Israel,Derech Ha'melech,Gili & Galit,50
-852,1989,Switzerland,Viver senza tei,Furbaz,47
-853,1989,Germany,Flieger,Nino de Angelo,46
-854,1989,Netherlands,Blijf zoals je bent,Justine Pelmelay,45
-855,1989,Portugal,Conquistador,Da Vinci,39
-856,1989,Norway,Venners nærhet,Britt Synnøve Johansen,30
-857,1989,Ireland,The Real Me,Kiev Connolly and the Missing Passengers,21
-858,1989,Belgium,Door de wind,Ingeborg,13
-859,1989,Luxembourg,Monsieur,Park Café,8
-860,1989,Turkey,Bana bana,Pan,5
-861,1989,Iceland,Það sem enginn sér,Daníel Augúst Haraldsson,0
-862,1988,Switzerland,Ne partez pas sans moi,Céline Dion,137
-863,1988,United KingdomUK,Go,Scott Fitzgerald,136
-864,1988,Denmark,Ka' du se hva' jeg sa'?,Kirsten & Søren,92
-865,1988,Luxembourg,Croire,Lara Fabian,90
-866,1988,Norway,For vår jord,Karoline Krüger,88
-867,1988,Yugoslavia,Mangup,Srebrna Krila,87
-868,1988,Israel,Ben Adam,Yardena Arazi,85
-869,1988,Ireland,Take Him Home,Jump the Gun,79
-870,1988,Netherlands,Shangri-La,Gerard Joling,70
-871,1988,France,Chanteur de charme,Gérard Lenorman,64
-872,1988,Spain,La chica que yo quiero (Made in Spain),La Década,58
-873,1988,Sweden,Stad i ljus,Tommy Körberg,52
-874,1988,Italy,Ti scrivo,Luca Barbarossa,52
-875,1988,Germany,Lied für einen Freund,Maxi & Chris Garden,48
-876,1988,Turkey,Sufi,MFÖ,37
-877,1988,Iceland,Sókrates,Beathoven,20
-878,1988,Greece,Kloun,Aphroditi Fryda,10
-879,1988,Belgium,Laissez briller le soleil,Reynaert,5
-880,1988,Portugal,Voltarei,Dora,5
-881,1988,Finland,Nauravat silmät muistetaan,Boulevard,3
-882,1988,Austria,"Lisa, Mona Lisa",Wilfried,0
-883,1987,Ireland,Hold Me Now,Johnny Logan,172
-884,1987,Germany,Laß die Sonne in dein Herz,Wind,141
-885,1987,Italy,Gente di mare,Umberto Tozzi and Raf,103
-886,1987,Yugoslavia,Ja sam za ples,Novi Fosili,92
-887,1987,Netherlands,Rechtop in de wind,Marcha,83
-888,1987,Denmark,En lille melodi,Anne-Cathrine Herdorf,83
-889,1987,Cyprus,Aspro mavro,Alexia,80
-890,1987,Israel,Shir Habatlanim,Datner & Kushnir,73
-891,1987,Norway,Mitt liv,Kate Gulbrandsen,65
-892,1987,Greece,Stop!,Bang,64
-893,1987,Belgium,Soldiers of Love,Liliane Saint-Pierre,56
-894,1987,Sweden,Boogaloo,Lotta Engberg,50
-895,1987,United KingdomUK,Only the Light,Rikki,47
-896,1987,France,Les mots d'amour n'ont pas de dimanche,Christine Minier,44
-897,1987,Finland,Sata salamaa,Vicky Rosti,32
-898,1987,Iceland,Hægt og hljótt,Halla Margarét,28
-899,1987,Switzerland,Moitié moitié,Carole Rich,26
-900,1987,Portugal,Neste barco à vela,Nevada,15
-901,1987,Spain,No estás solo,Patricia Kraus,10
-902,1987,Austria,Nur noch Gefühl,Gary Lux,8
-903,1987,Luxembourg,Amour amour,Plastic Bertrand,4
-904,1987,Turkey,Şarkım Sevgi Üstüne,Seyyal Taner & Lokomotif,0
-905,1986,Belgium,J'aime la vie,Sandra Kim,176
-906,1986,Switzerland,Pas pour moi,Daniela Simons,140
-907,1986,Luxembourg,L'amour de ma vie,Sherisse Laurence,117
-908,1986,Ireland,You Can Count On Me,Luv Bug,96
-909,1986,Sweden,E' de' det här du kallar kärlek?,Lasse Holm & Monica Törnell,78
-910,1986,Denmark,Du er fuld af løgn,Lise Haavik & Trax,77
-911,1986,United KingdomUK,Runner in the Night,Ryder,72
-912,1986,Germany,Über die Brücke geh'n,Ingrid Peters,62
-913,1986,Turkey,Halley,Klips ve Onlar,53
-914,1986,Spain,Valentino,Cadillac,51
-915,1986,Yugoslavia,Željo moja,Doris Dragović,49
-916,1986,Norway,Romeo,Ketil Stokkan,44
-917,1986,Netherlands,Alles heeft ritme,Frizzle Sizzle,40
-918,1986,Portugal,Não sejas mau para mim,Dora,28
-919,1986,Finland,Päivä kahden ihmisen,Kari Kuivalainen,22
-920,1986,Iceland,Gleðibankinn,Icy,19
-921,1986,France,Européennes,Cocktail Chic,13
-922,1986,Austria,Die Zeit ist einsam,Timna Brauer,12
-923,1986,Israel,Yavoh Yom,Moti Galadi & Sarai Tzuriel,7
-924,1986,Cyprus,Tora zo,Elpida,4
-925,1985,Norway,La det swinge,Bobbysocks,123
-926,1985,Germany,Für alle,Wind,105
-927,1985,Sweden,Bra vibrationer,Kikki Danielsson,103
-928,1985,United KingdomUK,Love Is...,Vikki,100
-929,1985,Israel,"Olé, Olé",Izhar Cohen,93
-930,1985,Ireland,Wait Until the Weekend Comes,Maria Christian,91
-931,1985,Italy,"Magic, oh magic",Al Bano and Romina Power,78
-932,1985,Austria,Kinder dieser Welt,Gary Lux,60
-933,1985,Finland,Eläköön elämä,Sonja Lumme,58
-934,1985,France,Femme dans ses rêves aussi,Roger Bens,56
-935,1985,Denmark,Sku' du spørg' fra no'en,Hot Eyes,41
-936,1985,Switzerland,"Piano, piano",Mariella Farré & Pino Gasparini,39
-937,1985,Luxembourg,"Children, Kinder, Enfants","Margo, Franck, Diane, Ireen, Malcolm & Chris",37
-938,1985,Spain,La fiesta terminó,Paloma San Basilio,36
-939,1985,Turkey,Didai didai dai,MFÖ,36
-940,1985,Cyprus,To katalava arga,Lia Vishy,15
-941,1985,Greece,Miazoume,Takis Biniaris,15
-942,1985,Portugal,"Penso em ti, eu sei",Adelaide,9
-943,1985,Belgium,Laat me nu gaan,Linda Lepomme,7
-944,1984,Sweden,Diggi-loo Diggy-ley,Herrey's,145
-945,1984,Ireland,Terminal 3,Linda Martin,137
-946,1984,Spain,"Lady, Lady",Bravo,106
-947,1984,Denmark,Det' lige det,Hot Eyes,101
-948,1984,Belgium,Avanti la vie,Jacques Zegers,70
-949,1984,Italy,I treni di Tozeur,Alice & Battiato,70
-950,1984,United KingdomUK,Love Games,Belle and the Devotions,63
-951,1984,France,Autant d'amoureux que d'étoiles,Annick Thoumazeau,61
-952,1984,Finland,Hengaillaan,Kirka,46
-953,1984,Luxembourg,100% d'amour,Sophie Carle,39
-954,1984,Portugal,Silêncio e tanta gente,Maria Guinot,38
-955,1984,Turkey,Halay,"Beş Yıl Önce, On Yıl Sonra",37
-956,1984,Netherlands,Ik hou van jou,Maribelle,34
-957,1984,Germany,Aufrecht geh'n,Mary Roos,34
-958,1984,Cyprus,Anna Maria Lena,Andy Paul,31
-959,1984,Switzerland,Welche Farbe hat der Sonnenschein?,Rainy Day,30
-960,1984,Norway,Lenge leve livet,Dollie de Luxe,29
-961,1984,Yugoslavia,Ciao amore,Vlado & Isolda,26
-962,1984,Austria,Einfach weg,Anita,5
-963,1983,Luxembourg,Si la vie est cadeau,Corinne Hermès,142
-964,1983,Israel,Hi,Ofra Haza,136
-965,1983,Sweden,Främling,Carola Häggkvist,126
-966,1983,Yugoslavia,Džuli,Danijel,125
-967,1983,Germany,Rücksicht,Hoffmann und Hoffmann,94
-968,1983,United KingdomUK,I'm Never Giving Up,Sweet Dreams,79
-969,1983,Netherlands,Sing Me a Song,Bernadette,66
-970,1983,France,Vivre,Guy Bonnet,56
-971,1983,Norway,Do re mi,Jahn Teigen,53
-972,1983,Austria,Hurricane,Westend,53
-973,1983,Italy,Per Lucia,Riccardo Fogli,41
-974,1983,Finland,Fantasiaa,Ami Aspelund,41
-975,1983,Portugal,Esta balada que te dou,Armando Gama,33
-976,1983,Greece,Mou les,Christie Stassinopoulou,32
-977,1983,Switzerland,Io così non ci sto,Mariella Farré,28
-978,1983,Cyprus,I agapi akoma zi,Stavros & Constantina,26
-979,1983,Denmark,Kloden drejer,Gry Johansen,16
-980,1983,Belgium,Rendez-vous,Pas de Deux,13
-981,1983,Turkey,Opera,Çetin Alp and the Short Wave,0
-982,1983,Spain,¿Quién maneja mi barca?,Remedios Amaya,0
-983,1982,Germany,Ein bißchen Frieden,Nicole,161
-984,1982,Israel,Hora,Avi Toledano,100
-985,1982,Switzerland,Amour on t'aime,Arlette Zola,97
-986,1982,Belgium,Si tu aimes ma musique,Stella,96
-987,1982,Cyprus,Mono i agapi,Anna Vissi,85
-988,1982,Luxembourg,Cours après le temps,Svetlana,78
-989,1982,United KingdomUK,One Step Further,Bardo,76
-990,1982,Sweden,Dag efter dag,Chips,67
-991,1982,Austria,Sonntag,Mess,57
-992,1982,Spain,Él,Lucía,52
-993,1982,Ireland,"Here Today, Gone Tomorrow",The Duskeys,49
-994,1982,Norway,Adieu,Jahn Teigen & Anita Skorgan,40
-995,1982,Portugal,Bem bom,Doce,32
-996,1982,Yugoslavia,"Halo, halo",Aska,21
-997,1982,Turkey,Hani?,Neco,20
-998,1982,Netherlands,Jij en ik,Bill van Dijk,8
-999,1982,Denmark,Video video,Brixx,5
-1000,1982,Finland,Nuku pommiin,Kojo,0
-1001,1981,United KingdomUK,Making Your Mind Up,Bucks Fizz,136
-1002,1981,Germany,Johnny Blue,Lena Valaitis,132
-1003,1981,France,Humanahum,Jean Gabilou,125
-1004,1981,Switzerland,Io senza te,"Peter, Sue & Marc",121
-1005,1981,Ireland,Horoscopes,Sheeba,105
-1006,1981,Cyprus,Monika,Island,69
-1007,1981,Israel,Halaylah,Habibi,56
-1008,1981,Greece,Feggari kalokerino,Yiannis Dimitras,55
-1009,1981,Netherlands,Het is een wonder,Linda Williams,51
-1010,1981,Sweden,Fångad i en dröm,Björn Skifs,50
-1011,1981,Luxembourg,C'est peut-être pas l'Amérique,Jean-Claude Pascal,41
-1012,1981,Denmark,Krøller eller ej,Debbie Cameron & Tommy Seebach,41
-1013,1981,Belgium,Samson,Emly Starr,40
-1014,1981,Spain,Y sólo tú,Bacchelli,38
-1015,1981,Yugoslavia,Lejla,Seid-Memić Vajta,35
-1016,1981,Finland,Reggae O.K.,Riki Sorsa,27
-1017,1981,Austria,Wenn du da bist,Marty Brem,20
-1018,1981,Turkey,Dönme Dolap,Modern Folk Trio & Ayşegül,9
-1019,1981,Portugal,Play-back,Carlos Paião,9
-1020,1981,Norway,Aldri i livet,Finn Kalvik,0
-1021,1980,Ireland,What's Another Year,Johnny Logan,143
-1022,1980,Germany,Theater,Katja Ebstein,128
-1023,1980,United KingdomUK,Love Enough for Two,Prima Donna,106
-1024,1980,Switzerland,Cinéma,Paola,104
-1025,1980,Netherlands,Amsterdam,Maggie MacNeal,93
-1026,1980,Italy,Non so che darei,Alan Sorrenti,87
-1027,1980,Portugal,"Um grande, grande amor",José Cid,71
-1028,1980,Austria,Du bist Musik,Blue Danube,64
-1029,1980,Luxembourg,Papa Pingouin,Sophie & Magaly,56
-1030,1980,Sweden,Just nu!,Tomas Ledin,47
-1031,1980,France,"Hé, hé m'sieurs dames",Profil,45
-1032,1980,Spain,Quédate esta noche,Trigo Limpio,38
-1033,1980,Greece,Autostop,Anna Vissi and the Epikouri,30
-1034,1980,Denmark,Tænker altid på dig,Bamses Venner,25
-1035,1980,Turkey,Petr'oil,Ajda Pekkan,23
-1036,1980,Norway,Sámiid ædnan,Sverre Kjellsberg & Mattis Hætta,15
-1037,1980,Belgium,Euro-vision,Telex,14
-1038,1980,Morocco,Bitakat Hob,Samira Bensaïd,7
-1039,1980,Finland,Huilumies,Vesa-Matti Loiri,6
-1040,1979,Israel,Hallelujah,Milk and Honey,125
-1041,1979,Spain,Su canción,Betty Missiego,116
-1042,1979,France,Je suis l'enfant-soleil,Anne-Marie David,106
-1043,1979,Germany,Dschinghis Khan,Dschinghis Khan,86
-1044,1979,Ireland,Happy Man,Cathal Dunne,80
-1045,1979,Denmark,Disco tango,Tommy Seebach,76
-1046,1979,United KingdomUK,Mary Ann,Black Lace,73
-1047,1979,Greece,Socrati,Elpida,69
-1048,1979,Portugal,"Sobe, sobe, balão sobe",Manuela Bravo,64
-1049,1979,Switzerland,Trödler & Co,"Peter, Sue & Marc and Pfuri, Gorps & Kniri",60
-1050,1979,Norway,Oliver,Anita Skorgan,57
-1051,1979,Netherlands,Colorado,Xandra,51
-1052,1979,Luxembourg,J'ai déjà vu ça dans tes yeux,Jeane Manson,44
-1053,1979,Finland,Katson sineen taivaan,Katri Helena,38
-1054,1979,Italy,Raggio di luna,Matia Bazar,27
-1055,1979,Monaco,Notre vie c'est la musique,Laurent Vaguener,12
-1056,1979,Sweden,Satellit,Ted Gärdestad,8
-1057,1979,Belgium,Hey Nana,Micha Marah,5
-1058,1979,Austria,Heute in Jerusalem,Christina Simon,5
-1059,1978,Israel,A-Ba-Ni-Bi,Izhar Cohen and the Alphabeta,157
-1060,1978,Belgium,L'amour ça fait chanter la vie,Jean Vallée,125
-1061,1978,France,Il y aura toujours des violons,Joël Prévost,119
-1062,1978,Monaco,Les jardins de Monaco,Caline and Olivier Toussaint,107
-1063,1978,Ireland,Born to Sing,Colm T. Wilkinson,86
-1064,1978,Germany,Feuer,Ireen Sheer,84
-1065,1978,Luxembourg,Parlez-vous français ?,Baccara,73
-1066,1978,Greece,Charlie Chaplin,Tania Tsanaklidou,66
-1067,1978,Spain,Bailemos un vals,José Vélez,65
-1068,1978,Switzerland,Vivre,Carole Vinci,65
-1069,1978,United KingdomUK,The Bad Old Days,Co-Co,61
-1070,1978,Italy,Questo amore,Ricchi e Poveri,53
-1071,1978,Netherlands,'t Is OK,Harmony,37
-1072,1978,Sweden,Det blir alltid värre framåt natten,Björn Skifs,26
-1073,1978,Austria,Mrs. Caroline Robinson,Springtime,14
-1074,1978,Denmark,Boom Boom,Mabel,13
-1075,1978,Portugal,Dai-li-dou,Gemini,5
-1076,1978,Finland,Anna rakkaudelle tilaisuus,Seija Simola,2
-1077,1978,Turkey,Sevince,Nazar,2
-1078,1978,Norway,Mil etter mil,Jahn Teigen,0
-1079,1977,France,L'Oiseau et l'Enfant,Marie Myriam,136
-1080,1977,United KingdomUK,Rock Bottom,Lynsey de Paul & Mike Moran,121
-1081,1977,Ireland,It's Nice to Be in Love Again,The Swarbriggs Plus Two,119
-1082,1977,Monaco,Une petite Française,Michèle Torr,96
-1083,1977,Greece,Mathima solfez,"Pascalis, Marianna, Robert & Bessy",92
-1084,1977,Switzerland,Swiss Lady,Pepe Lienhard Band,71
-1085,1977,Belgium,"A Million in One, Two, Three",Dream Express,69
-1086,1977,Germany,Telegram,Silver Convention,55
-1087,1977,Spain,Enséñame a cantar,Micky,52
-1088,1977,Finland,Lapponia,Monica Aspelund,50
-1089,1977,Israel,Ah-haa-vah Hee Shir Lish-naa-yim,Ilanit,49
-1090,1977,Netherlands,De mallemolen,Heddy Lester,35
-1091,1977,Italy,Libera,Mia Martini,33
-1092,1977,Norway,Casanova,Anita Skorgan,18
-1093,1977,Portugal,Portugal no coração,Os Amigos,18
-1094,1977,Luxembourg,Frère Jacques,Anne Marie B.,17
-1095,1977,Austria,Boom Boom Boomerang,Schmetterlinge,11
-1096,1977,Sweden,Beatles,Forbes,2
-1097,1976,United KingdomUK,Save Your Kisses for Me,Brotherhood of Man,164
-1098,1976,France,"Un, deux, trois",Catherine Ferry,147
-1099,1976,Monaco,"Toi, la musique et moi",Mary Christy,93
-1100,1976,Switzerland,"Djambo, Djambo","Peter, Sue & Marc",91
-1101,1976,Austria,My Little World,Waterloo & Robinson,80
-1102,1976,Israel,Emor Shalom,"Chocolate, Menta, Mastik",77
-1103,1976,Italy,We'll Live It All Again,Romina & Al Bano,69
-1104,1976,Belgium,Judy et Cie,Pierre Rapsat,68
-1105,1976,Netherlands,The Party's Over Now,Sandra Reemer,56
-1106,1976,Ireland,When,Red Hurley,54
-1107,1976,Finland,Pump-Pump,Fredi and The Friends,44
-1108,1976,Portugal,Uma flor de verde pinho,Carlos do Carmo,24
-1109,1976,Greece,"Panaghia mou, panaghia mou",Mariza Koch,20
-1110,1976,Luxembourg,Chansons pour ceux qui s'aiment,Jürgen Marcus,17
-1111,1976,Germany,"Sing, Sang, Song",Les Humphries Singers,12
-1112,1976,Spain,Sobran las palabras,Braulio,11
-1113,1976,Yugoslavia,Ne mogu skriti svoj bol,Ambasadori,10
-1114,1976,Norway,Mata Hari,Anne-Karine Ström,7
-1115,1975,Netherlands,Ding-a-dong,Teach-In,152
-1116,1975,United KingdomUK,Let Me Be the One,The Shadows,138
-1117,1975,Italy,Era,Wess & Dori Ghezzi,115
-1118,1975,France,Et bonjour à toi l'artiste,Nicole Rieu,91
-1119,1975,Luxembourg,Toi,Géraldine,84
-1120,1975,Switzerland,Mikado,Simone Drexel,77
-1121,1975,Finland,Old Man Fiddle,Pihasoittajat,74
-1122,1975,Sweden,"Jennie, Jennie",Lars Berghagen and the Dolls,72
-1123,1975,Ireland,That's What Friends Are For,The Swarbriggs,68
-1124,1975,Spain,Tú volverás,Sergio & Estíbaliz,53
-1125,1975,Israel,At Va'Ani,Shlomo Artzi,40
-1126,1975,Malta,Singing This Song,Renato,32
-1127,1975,Yugoslavia,Dan ljubezni,Pepel In Kri,22
-1128,1975,Monaco,Une chanson c'est une lettre,Sophie,22
-1129,1975,Belgium,Gelukkig zijn,Ann Christy,17
-1130,1975,Portugal,Madrugada,Duarte Mendes,16
-1131,1975,Germany,Ein Lied kann eine Brücke sein,Joy Fleming,15
-1132,1975,Norway,Touch My Life with Summer,Ellen Nikolaysen,11
-1133,1975,Turkey,Seninle bir dakika,Semiha Yankı,3
-1134,1974,Sweden,Waterloo,A,24
-1135,1974,Italy,Sì,Gigliola Cinquetti,18
-1136,1974,Netherlands,I See a Star,Mouth & MacNeal,15
-1137,1974,United KingdomUK,Long Live Love,Olivia Newton-John,14
-1138,1974,Luxembourg,Bye Bye I Love You,Ireen Sheer,14
-1139,1974,Monaco,Celui qui reste et celui qui s'en va,Romuald,14
-1140,1974,Israel,Natati La Khayay,Kaveret (Poogy),11
-1141,1974,Ireland,Cross Your Heart,Tina,11
-1142,1974,Spain,Canta y sé feliz,Peret,10
-1143,1974,Belgium,Fleur de liberté,Jacques Hustin,10
-1144,1974,Greece,"Krassi, thalassa ke t' agori mou",Marinella,7
-1145,1974,Yugoslavia,Generacija '42,Korni,6
-1146,1974,Finland,Älä mene pois (Keep Me Warm),Carita,4
-1147,1974,Norway,The First Day of Love,Anne-Karine Ström and the Bendik Singers,3
-1148,1974,Germany,Die Sommermelodie,Cindy & Bert,3
-1149,1974,Switzerland,Mein Ruf nach dir,Piera Martell,3
-1150,1974,Portugal,E depois do adeus,Paulo de Carvalho,3
-1151,1973,Luxembourg,Tu te reconnaîtras,Anne-Marie David,129
-1152,1973,Spain,Eres tú,Mocedades,125
-1153,1973,United KingdomUK,Power to All Our Friends,Cliff Richard,123
-1154,1973,Israel,Ey Sham,Ilanit,97
-1155,1973,Sweden,You're Summer,The Nova and The Dolls,94
-1156,1973,Finland,Tom Tom Tom,Marion Rung,93
-1157,1973,Norway,It's Just a Game,Bendik Singers,89
-1158,1973,Germany,Junger Tag,Gitte,85
-1159,1973,Monaco,Un train qui part,Marie,85
-1160,1973,Portugal,Tourada,Fernando Tordo,80
-1161,1973,Ireland,Do I Dream,Maxi,80
-1162,1973,Switzerland,"Je vais me marier, Marie",Patrick Juvet,79
-1163,1973,Italy,Chi sarà con te,Massimo Ranieri,74
-1164,1973,Netherlands,De oude muzikant,Ben Cramer,69
-1165,1973,Yugoslavia,Gori vatra,Zdravko Čolić,65
-1166,1973,France,Sans toi,Martine Clémenceau,65
-1167,1973,Belgium,"Baby, Baby",Nicole and Hugo,58
-1168,1972,Luxembourg,Après toi,Vicky Leandros,128
-1169,1972,United KingdomUK,"Beg, Steal or Borrow",The New Seekers,114
-1170,1972,Germany,Nur die Liebe läßt uns leben,Mary Roos,107
-1171,1972,Netherlands,Als het om de liefde gaat,Sandra & Andres,106
-1172,1972,Austria,Falter im Wind,The Milestones,100
-1173,1972,Italy,I giorni dell'arcobaleno,Nicola di Bari,92
-1174,1972,Portugal,A festa da vida,Carlos Mendes,90
-1175,1972,Switzerland,C'est la chanson de mon amour,Véronique Müller,88
-1176,1972,Yugoslavia,Muzika i ti,Tereza,87
-1177,1972,Spain,Amanece,Jaime Morey,83
-1178,1972,France,Comé-comédie,Betty Mars,81
-1179,1972,Finland,Muistathan,Päivi Paunu and Kim Floor,78
-1180,1972,Sweden,Härliga sommardag,Family Four,75
-1181,1972,Norway,Småting,Grethe Kausland & Benny Borg,73
-1182,1972,Ireland,Ceol an Ghrá,Sandie Jones,72
-1183,1972,Monaco,Comme on s'aime,Anne-Marie Godart and Peter MacLane,65
-1184,1972,Belgium,À la folie ou pas du tout,Serge and Christine Ghisoland,55
-1185,1972,Malta,L-imħabba,Helen & Joseph,48
-1186,1971,Monaco,"Un banc, un arbre, une rue",Séverine,128
-1187,1971,Spain,En un mundo nuevo,Karina,116
-1188,1971,Germany,Diese Welt,Katja Ebstein,100
-1189,1971,United KingdomUK,Jack in the Box,Clodagh Rodgers,98
-1190,1971,Italy,L'amore è un attimo,Massimo Ranieri,91
-1191,1971,Sweden,Vita vidder,Family Four,85
-1192,1971,Netherlands,Tijd,Saskia & Serge,85
-1193,1971,Finland,Tie uuteen päivään,Markku Aro and Koivisto Sisters,84
-1194,1971,Portugal,Menina do alto da serra,Tonicha,83
-1195,1971,France,Un jardin sur la terre,Serge Lama,82
-1196,1971,Ireland,One Day Love,Angela Farrell,79
-1197,1971,Switzerland,Les illusions de nos vingt ans,"Peter, Sue and Marc",78
-1198,1971,Luxembourg,"Pomme, pomme, pomme",Monique Melsen,70
-1199,1971,Belgium,"Goeie morgen, morgen",Lily Castel & Jacques Raymond,68
-1200,1971,Yugoslavia,Tvoj dječak je tužan,Krunoslav Slabinac,68
-1201,1971,Austria,Musik,Marianne Mendt,66
-1202,1971,Norway,Lykken er...,Hanne Krogh,65
-1203,1971,Malta,Marija l-Maltija,Joe Grech,52
-1204,1970,Ireland,All Kinds of Everything,Dana,32
-1205,1970,United KingdomUK,"Knock, Knock (Who's There?)",Mary Hopkin,26
-1206,1970,Germany,Wunder gibt es immer wieder,Katja Ebstein,12
-1207,1970,Switzerland,Retour,Henri Dès,8
-1208,1970,France,Marie-Blanche,Guy Bonnet,8
-1209,1970,Spain,Gwendolyne,Julio Iglesias,8
-1210,1970,Netherlands,Waterman,Patricia & Hearts of Soul,7
-1211,1970,Italy,Occhi di ragazza,Gianni Morandi,5
-1212,1970,Belgium,Viens l'oublier,Jean Vallée,5
-1213,1970,Monaco,Marlène,Dominique Dussault,5
-1214,1970,Yugoslavia,"Pridi, dala ti bom cvet",Eva Sršen,4
-1215,1970,Luxembourg,Je suis tombé du ciel,David-Alexandre Winter,0
-1216,1969,Spain,Vivo cantando,Salomé,18
-1217,1969,United KingdomUK,Boom Bang-a-Bang,Lulu,18
-1218,1969,Netherlands,De troubadour,Lenny Kuhr,18
-1219,1969,France,"Un jour, un enfant",Frida Boccara,18
-1220,1969,Switzerland,"Bonjour, Bonjour",Paola del Medico,13
-1221,1969,Monaco,"Maman, Maman",Jean-Jacques,11
-1222,1969,Ireland,The Wages of Love,Muriel Day and the Lindsays,10
-1223,1969,Belgium,Jennifer Jennings,Louis Neefs,10
-1224,1969,Sweden,"Judy, min vän",Tommy Körberg,8
-1225,1969,Germany,Primaballerina,Siw Malmkvist,8
-1226,1969,Luxembourg,Catherine,Romuald,7
-1227,1969,Finland,Kuin silloin ennen,Jarkko & Laura,6
-1228,1969,Yugoslavia,Pozdrav svijetu,Ivan & M's,5
-1229,1969,Italy,Due grosse lacrime bianche,Iva Zanicchi,5
-1230,1969,Portugal,Desfolhada portuguesa,Simone de Oliveira,4
-1231,1969,Norway,"Oj, oj, oj, så glad jeg skal bli",Kirsti Sparboe,1
-1232,1968,Spain,"La, la, la",Massiel,29
-1233,1968,United KingdomUK,Congratulations,Cliff Richard,28
-1234,1968,France,La Source,Isabelle Aubret,20
-1235,1968,Ireland,Chance of a Lifetime,Pat McGeegan,18
-1236,1968,Sweden,"Det börjar verka kärlek, banne mej",Claes-Göran Hederström,15
-1237,1968,Germany,Ein Hoch der Liebe,Wencke Myhre,11
-1238,1968,Belgium,Quand tu reviendras,Claude Lombard,8
-1239,1968,Monaco,À chacun sa chanson,Line & Willy,8
-1240,1968,Yugoslavia,Jedan dan,Lući Kapurso & Hamo Hajdarhodžić,8
-1241,1968,Italy,Marianne,Sergio Endrigo,7
-1242,1968,Portugal,Verão,Carlos Mendes,5
-1243,1968,Luxembourg,Nous vivrons d'amour,Chris Baldo & Sophie Garel,5
-1244,1968,Austria,Tausend Fenster,Karel Gott,2
-1245,1968,Switzerland,Guardando il sole,Gianni Mascolo,2
-1246,1968,Norway,Stress,Odd Børre,2
-1247,1968,Netherlands,Morgen,Ronnie Tober,1
-1248,1968,Finland,Kun kello käy,Kristina Hautala,1
-1249,1967,United KingdomUK,Puppet on a String,Sandie Shaw,47
-1250,1967,Ireland,If I Could Choose,Sean Dunphy,22
-1251,1967,France,Il doit faire beau là-bas,Noëlle Cordier,20
-1252,1967,Luxembourg,L'amour est bleu,Vicky,17
-1253,1967,Monaco,Boum-badaboum,Minouche Barelli,10
-1254,1967,Spain,Hablemos del amor,Raphael,9
-1255,1967,Belgium,Ik heb zorgen,Louis Neefs,8
-1256,1967,Sweden,Som en dröm,Östen Warnerbring,7
-1257,1967,Germany,Anouschka,Inge Brück,7
-1258,1967,Yugoslavia,Vse rože sveta,Lado Leskovar,7
-1259,1967,Italy,Non andare più lontano,Claudio Villa,4
-1260,1967,Portugal,O vento mudou,Eduardo Nascimento,3
-1261,1967,Finland,Varjoon-suojaan,Fredi,3
-1262,1967,Netherlands,Ring-dinge,Thérèse Steinmetz,2
-1263,1967,Austria,Warum es hunderttausend Sterne gibt,Peter Horten,2
-1264,1967,Norway,Dukkemann,Kirsti Sparboe,2
-1265,1967,Switzerland,Quel cœur vas-tu briser ?,Géraldine,0
-1266,1966,Austria,Merci Chérie,Udo Jürgens,31
-1267,1966,Sweden,Nygammal vals,Lill Lindfors & Svante Thuresson,16
-1268,1966,Norway,Intet er nytt under solen,Åse Kleveland,15
-1269,1966,Belgium,"Un peu de poivre, un peu de sel",Tonia,14
-1270,1966,Ireland,Come Back to Stay,Dickie Rock,14
-1271,1966,Switzerland,Ne vois-tu pas ?,Madeleine Pascal,12
-1272,1966,Yugoslavia,Brez besed,Berta Ambrož,9
-1273,1966,Spain,Yo soy aquél,Raphael,9
-1274,1966,United KingdomUK,A Man Without Love,Kenneth McKellar,8
-1275,1966,Germany,Die Zeiger der Uhr,Margot Eskens,7
-1276,1966,Luxembourg,Ce soir je t'attendais,Michèle Torr,7
-1277,1966,Finland,Playboy,Ann-Christine Nyström,7
-1278,1966,Portugal,Ele e ela,Madalena Iglésias,6
-1279,1966,Denmark,"Stop, mens legen er go'",Ulla Pia,4
-1280,1966,Netherlands,Fernando en Philippo,Milly Scott,2
-1281,1966,France,Chez nous,Dominique Walter,1
-1282,1966,Monaco,Bien plus fort,Tereza,0
-1283,1966,Italy,"Dio, come ti amo",Domenico Modugno,0
-1284,1965,Luxembourg,"Poupée de cire, poupée de son",France Gall,32
-1285,1965,United KingdomUK,I Belong,Kathy Kirby,26
-1286,1965,France,N'avoue jamais,Guy Mardel,22
-1287,1965,Austria,"Sag ihr, ich lass sie grüßen",Udo Jürgens,16
-1288,1965,Italy,"Se piangi, se ridi",Bobby Solo,15
-1289,1965,Ireland,I'm Walking the Streets in the Rain,Butch Moore,11
-1290,1965,Denmark,For din skyld,Birgit Brüel,10
-1291,1965,Switzerland,"Non, à jamais sans toi",Yovanna,8
-1292,1965,Monaco,Va dire à l'amour,Marjorie Noël,7
-1293,1965,Sweden,Absent Friend,Ingvar Wixell,6
-1294,1965,Netherlands,Het is genoeg,Conny Van den bos,5
-1295,1965,Yugoslavia,Čežnja,Vice Vukov,2
-1296,1965,Norway,Karusell,Kirsti Sparboe,1
-1297,1965,Portugal,Sol de inverno,Simone de Oliveira,1
-1298,1965,Spain,"Qué bueno, qué bueno",Conchita Bautista,0
-1299,1965,Germany,"Paradies, wo bist du",Ulla Wiesner,0
-1300,1965,Belgium,Als het weer lente is,Lize Marke,0
-1301,1965,Finland,Aurinko laskee länteen,Viktor Klimenko,0
-1302,1964,Italy,Non ho l'età,Gigliola Cinquetti,49
-1303,1964,United KingdomUK,I Love the Little Things,Matt Monro,17
-1304,1964,Monaco,Où sont-elles passées?,Romuald,15
-1305,1964,Luxembourg,Dès que le printemps revient,Hugues Aufray,14
-1306,1964,France,Le Chant de Mallory,Rachel,14
-1307,1964,Austria,"Warum nur, warum?",Udo Jürgens,11
-1308,1964,Finland,Laiskotellen,Lasse Mårtenson,9
-1309,1964,Norway,Spiral,Arne Bendiksen,6
-1310,1964,Denmark,Sangen om dig,Bjørn Tidmand,4
-1311,1964,Netherlands,Jij bent mijn leven,Anneke Grönloh,2
-1312,1964,Belgium,Près de ma rivière,Robert Cogoi,2
-1313,1964,Spain,Caracola,"Tim, Nelly and Tony",1
-1314,1964,Germany,Man gewöhnt sich so schnell an das Schöne,Nora Nova,0
-1315,1964,Portugal,Oração,António Calvário,0
-1316,1964,Yugoslavia,Život je sklopio krug,Sabahudin Kurt,0
-1317,1964,Switzerland,I miei pensieri,Anita Traversi,0
-1318,1963,Denmark,Dansevise,Grethe & Jørgen Ingmann,42
-1319,1963,Switzerland,T'en vas pas,Esther Ofarim,40
-1320,1963,Italy,Uno per tutte,Emilio Pericoli,37
-1321,1963,United KingdomUK,Say Wonderful Things,Ronnie Carroll,28
-1322,1963,France,Elle était si jolie,Alain Barrière,25
-1323,1963,Monaco,L'amour s'en va,Françoise Hardy,25
-1324,1963,Austria,Vielleicht geschieht ein Wunder,Carmela Corren,16
-1325,1963,Luxembourg,À force de prier,Nana Mouskouri,13
-1326,1963,Germany,Marcel,Heidi Brühl,5
-1327,1963,Belgium,Waarom?,Jacques Raymond,4
-1328,1963,Yugoslavia,Brodovi,Vice Vukov,3
-1329,1963,Spain,Algo prodigioso,José Guardiola,2
-1330,1963,Netherlands,Een speeldoos,Annie Palmen,0
-1331,1963,Norway,Solhverv,Anita Thallaug,0
-1332,1963,Finland,Muistojeni laulu,Laila Halme,0
-1333,1963,Sweden,En gång i Stockholm,Monica Zetterlund,0
-1334,1962,France,Un premier amour,Isabelle Aubret,26
-1335,1962,Monaco,Dis rien,François Deguelt,13
-1336,1962,Luxembourg,Petit bonhomme,Camillo Felgen,11
-1337,1962,Yugoslavia,Ne pali svetla u sumrak,Lola Novaković,10
-1338,1962,United KingdomUK,Ring-A-Ding Girl,Ronnie Carroll,10
-1339,1962,Germany,Zwei kleine Italiener,Conny Froboess,9
-1340,1962,Finland,Tipi-tii,Marion Rung,4
-1341,1962,Sweden,Sol och vår,Inger Berggren,4
-1342,1962,Italy,"Addio, addio",Claudio Villa,3
-1343,1962,Denmark,Vuggevise,Ellen Winther,2
-1344,1962,Norway,"Kom sol, kom regn",Inger Jacobsen,2
-1345,1962,Switzerland,Le Retour,Jean Philippe,2
-1346,1962,Belgium,Ton nom,Fud Leclerc,0
-1347,1962,Spain,Llámame,Victor Balaguer,0
-1348,1962,Austria,Nur in der Wiener Luft,Eleonore Schwarz,0
-1349,1962,Netherlands,Katinka,De Spelbrekers,0
-1350,1961,Luxembourg,Nous les amoureux,Jean-Claude Pascal,31
-1351,1961,United KingdomUK,Are You Sure?,The Allisons,24
-1352,1961,Switzerland,Nous aurons demain,Franca di Rienzo,16
-1353,1961,France,"Printemps, avril carillonne",Jean-Paul Mauric,13
-1354,1961,Denmark,Angelique,Dario Campeotto,12
-1355,1961,Italy,Al di là,Betty Curtis,12
-1356,1961,Norway,Sommer i Palma,Nora Brockstedt,10
-1357,1961,Yugoslavia,Neke davne zvezde,Ljiljana Petrović,9
-1358,1961,Spain,Estando contigo,Conchita Bautista,8
-1359,1961,Monaco,"Allons, allons les enfants",Colette Deréal,6
-1360,1961,Finland,Valoa ikkunassa,Laila Kinnunen,6
-1361,1961,Netherlands,Wat een dag,Greetje Kauffeld,6
-1362,1961,Germany,Einmal sehen wir uns wieder,Lale Andersen,3
-1363,1961,Sweden,"April, april",Lill-Babs,2
-1364,1961,Austria,Sehnsucht,Jimmy Makulis,1
-1365,1961,Belgium,"September, gouden roos",Bob Benny,1
-1366,1960,France,Tom Pillibi,Jacqueline Boyer,32
-1367,1960,United KingdomUK,"Looking High, High, High",Bryan Johnson,25
-1368,1960,Monaco,Ce soir-là,François Deguelt,15
-1369,1960,Norway,Voi-voi,Nora Brockstedt,11
-1370,1960,Germany,Bonne nuit ma chérie,Wyn Hoop,11
-1371,1960,Belgium,Mon amour pour toi,Fud Leclerc,9
-1372,1960,Austria,Du hast mich so fasziniert,Harry Winter,6
-1373,1960,Switzerland,Cielo e terra,Anita Traversi,5
-1374,1960,Italy,Romantica,Renato Rascel,5
-1375,1960,Sweden,Alla andra får varann,Siw Malmkvist,4
-1376,1960,Denmark,Det var en yndig tid,Katy Bødtger,4
-1377,1960,Netherlands,Wat een geluk,Rudi Carrell,2
-1378,1960,Luxembourg,So laang we's du do bast,Camillo Felgen,1
-1379,1959,Netherlands,Een beetje,Teddy Scholten,21
-1380,1959,United KingdomUK,Sing Little Birdie,Pearl Carr & Teddy Johnson,16
-1381,1959,France,"Oui, oui, oui, oui",Jean Philippe,15
-1382,1959,Switzerland,Irgendwoher,Christa Williams,14
-1383,1959,Denmark,"Uh, jeg ville ønske jeg var dig",Birthe Wilke,12
-1384,1959,Italy,Piove,Domenico Modugno,9
-1385,1959,Belgium,Hou toch van mij,Bob Benny,9
-1386,1959,Germany,Heut' woll'n wir tanzen geh'n,Alice and Ellen Kessler,5
-1387,1959,Sweden,Augustin,Brita Borg,4
-1388,1959,Austria,Der K. und K. Kalypso aus Wien,Ferry Graf,4
-1389,1959,Monaco,Mon ami Pierrot,Jacques Pills,1
-1390,1958,France,Dors mon amour,André Claveau,27
-1391,1958,Switzerland,Giorgio,Lys Assia,24
-1392,1958,Italy,"Nel blu, dipinto di blu",Domenico Modugno,13
-1393,1958,Sweden,Lilla stjärna,Alice Babs,10
-1394,1958,Belgium,Ma petite chatte,Fud Leclerc,8
-1395,1958,Austria,Die ganze Welt braucht Liebe,Liane Augustin,8
-1396,1958,Germany,Für zwei Groschen Musik,Margot Hielscher,5
-1397,1958,Denmark,Jeg rev et blad ud af min dagbog,Raquel Rastenni,3
-1398,1958,Netherlands,Heel de wereld,Corry Brokken,1
-1399,1958,Luxembourg,Un grand amour,Solange Berry,1
-1400,1957,Netherlands,Net als toen,Corry Brokken,31
-1401,1957,France,La Belle Amour,Paule Desjardins,17
-1402,1957,Denmark,Skibet skal sejle i nat,Birthe Wilke & Gustav Winckler,10
-1403,1957,Luxembourg,Tant de peine,Danièle Dupré,8
-1404,1957,Germany,"Telefon, Telefon",Margot Hielscher,8
-1405,1957,Italy,Corde della mia chitarra,Nunzio Gallo,7
-1406,1957,United KingdomUK,All,Patricia Bredin,6
-1407,1957,Belgium,Straatdeuntje,Bobbejaan Schoepen,5
-1408,1957,Switzerland,L'Enfant que j'étais,Lys Assia,5
-1409,1957,Austria,"Wohin, kleines Pony?",Bob Martin,3
-1410,1956,Switzerland,Refrain,Lys Assia,–
-1411,1956,Netherlands,De Vogels Van Holland,Jetty Paerl,–
-1412,1956,Switzerland,Das Alte Karussell,Lys Assia,–
-1413,1956,Belgium,Messieurs Les Noyés De La Seine,Fud Leclerc,–
-1414,1956,Germany,Im Wartesaal Zum Großen Glück,Walter Andreas Schwarz,–
-1415,1956,France,Le Temps Perdu,Mathé Altéry,–
-1416,1956,Luxembourg,Ne Crois Pas,Michèle Arnaud,–
-1417,1956,Italy,Aprite Le Finestre,Franca Raimondi,–
-1418,1956,Netherlands,Voorgoed Voorbij,Corry Brokken,–
-1419,1956,Belgium,Le Plus Beau Jour De Ma Vie,Mony Marc,–
-1420,1956,Germany,So Geht Das Jede Nacht,Freddy Quinn,–
-1421,1956,France,Il Est Là,Dany Dauberson,–
-1422,1956,Luxembourg,Les Amants De Minuit,Michèle Arnaud,–
-1423,1956,Italy,Amami Se Vuoi,Tonina Torielli,–
+,Unnamed: 0,Year,Country,Song,Artist,Points,Lyrics
+0,0,2024,Switzerland,The Code,Nemo,591,none
+1,1,2024,Croatia,Rim Tim Tagi Dim,Baby Lasagna,547,none
+2,2,2024,Ukraine,Teresa & Maria,alyona alyona & Jerry Heil,453,none
+3,3,2024,France,Mon amour,Slimane,445,none
+4,4,2024,Israel,Hurricane,Eden Golan,375,none
+5,5,2024,Ireland,Doomsday Blue,Bambie Thug,278,none
+6,6,2024,Italy,La noia,Angelina Mango,268,none
+7,7,2024,Armenia,Jako,Ladaniva,183,none
+8,8,2024,Sweden,Unforgettable,Marcus & Martinus,174,none
+9,9,2024,Portugal,Grito,Iolanda,152,none
+10,10,2024,Greece,Zari,Marina Satti,126,none
+11,11,2024,Germany,Always on the Run,Isaak,117,none
+12,12,2024,Luxembourg,Fighter,Tali,103,none
+13,13,2024,Lithuania,Luktelk,Silvester Belt,90,none
+14,14,2024,Cyprus,Liar,Silia Kapsis,78,none
+15,15,2024,Latvia,Hollow,Dons,64,none
+16,16,2024,Serbia,Ramonda,Teya Dora,54,none
+17,17,2024,United KingdomUK,Dizzy,Olly Alexander,46,none
+18,18,2024,Finland,No Rules!,Windows95man,38,none
+19,19,2024,Estonia,(nendest) narkootikumidest ei tea me (küll) midagi,5miinust & Puuluup,37,none
+20,20,2024,Georgia,Firefighter,Nutsa Buzaladze,34,none
+21,21,2024,Spain,Zorra,Nebulossa,30,none
+22,22,2024,Slovenia,Veronika,Raiven,27,none
+23,23,2024,Austria,We Will Rave,Kaleen,24,none
+24,24,2024,Norway,Ulveham,Gåte,16,none
+25,25,2023,Sweden,Tattoo,Loreen,583,none
+26,26,2023,Finland,Cha Cha Cha,Käärijä,526,none
+27,27,2023,Israel,Unicorn,Noa Kirel,362,none
+28,28,2023,Italy,Due vite,Marco Mengoni,350,none
+29,29,2023,Norway,Queen of Kings,Alessandra,268,none
+30,30,2023,Ukraine,Heart of Steel,Tvorchi,243,none
+31,31,2023,Belgium,Because of You,Gustaph,182,none
+32,32,2023,Estonia,Bridges,Alika,168,none
+33,33,2023,Australia,Promise,Voyager,151,none
+34,34,2023,Czechia,My Sister's Crown,Vesna,129,none
+35,35,2023,Lithuania,Stay,Monika Linkytė,127,none
+36,36,2023,Cyprus,Break a Broken Heart,Andrew Lambrou,126,none
+37,37,2023,Croatia,Mama ŠČ!,Let 3,123,none
+38,38,2023,Armenia,Future Lover,Brunette,122,none
+39,39,2023,Austria,Who The Hell Is Edgar?,Teya & Salena,120,none
+40,40,2023,France,Évidemment,La Zarra,104,none
+41,41,2023,Spain,Eaea,Blanca Paloma,100,none
+42,42,2023,Moldova,Soarele și Luna,Pasha Parfeni,96,none
+43,43,2023,Poland,Solo,Blanka,93,none
+44,44,2023,Switzerland,Watergun,Remo Forrer,92,none
+45,45,2023,Slovenia,Carpe Diem,Joker Out,78,none
+46,46,2023,Albania,Duje,Albina & Familja Kelmendi,76,none
+47,47,2023,Portugal,Ai coração,Mimicat,59,none
+48,48,2023,Serbia,Samo mi se spava,Luke Black,30,none
+49,49,2023,United KingdomUK,I Wrote A Song,Mae Muller,24,none
+50,50,2023,Germany,Blood & Glitter,Lord Of The Lost,18,none
+51,51,2022,Ukraine,Stefania,Kalush Orchestra,631,none
+52,52,2022,United KingdomUK,Space Man,Sam Ryder,466,none
+53,53,2022,Spain,SloMo,Chanel,459,none
+54,54,2022,Sweden,Hold Me Closer,Cornelia Jakobs,438,none
+55,55,2022,Serbia,In corpore sano,Konstrakta,312,none
+56,56,2022,Italy,Brividi,Mahmood & Blanco,268,none
+57,57,2022,Moldova,Trenulețul,Zdob și Zdub & Advahov Brothers,253,none
+58,58,2022,Greece,Die Together,Amanda Georgiadi Tenfjord,215,none
+59,59,2022,Portugal,"Saudade, saudade",Maro,207,none
+60,60,2022,Norway,Give That Wolf a Banana,Subwoolfer,182,none
+61,61,2022,Netherlands,De diepte,S10,171,none
+62,62,2022,Poland,River,Ochman,151,none
+63,63,2022,Estonia,Hope,Stefan,141,none
+64,64,2022,Lithuania,Sentimentai,Monika Liu,128,none
+65,65,2022,Australia,Not The Same,Sheldon Riley,125,none
+66,66,2022,Azerbaijan,Fade To Black,Nadir Rustamli,106,none
+67,67,2022,Switzerland,Boys Do Cry,Marius Bear,78,none
+68,68,2022,Romania,Llámame,WRS,65,none
+69,69,2022,Belgium,Miss You,Jérémie Makiese,64,none
+70,70,2022,Armenia,Snap,Rosa Linn,61,none
+71,71,2022,Finland,Jezebel,The Rasmus,38,none
+72,72,2022,Czechia,Lights Off,We Are Domi,38,none
+73,73,2022,Iceland,Með hækkandi sól,Systur,20,none
+74,74,2022,France,Fulenn,Alvan & Ahez,17,none
+75,75,2022,Germany,Rockstars,Malik Harris,6,none
+76,76,2021,Italy,Zitti e buoni,Måneskin,524,none
+77,77,2021,France,Voilà,Barbara Pravi,499,none
+78,78,2021,Switzerland,Tout l'univers,Gjon's Tears,432,none
+79,79,2021,Iceland,10 Years,Daði & Gagnamagnið,378,none
+80,80,2021,Ukraine,Shum,Go_A,364,none
+81,81,2021,Finland,Dark Side,Blind Channel,301,none
+82,82,2021,Malta,Je me casse,Destiny,255,none
+83,83,2021,Lithuania,Discoteque,The Roop,220,none
+84,84,2021,Russia,Russian Woman,Manizha,204,none
+85,85,2021,Greece,Last Dance,Stefania,170,none
+86,86,2021,Bulgaria,Growing Up Is Getting Old,Victoria,170,none
+87,87,2021,Portugal,Love Is On My Side,The Black Mamba,153,none
+88,88,2021,Moldova,Sugar,Natalia Gordienko,115,none
+89,89,2021,Sweden,Voices,Tusse,109,none
+90,90,2021,Serbia,Loco Loco,Hurricane,102,none
+91,91,2021,Cyprus,El Diablo,Elena Tsagrinou,94,none
+92,92,2021,Israel,Set Me Free,Eden Alene,93,none
+93,93,2021,Norway,Fallen Angel,TIX,75,none
+94,94,2021,Belgium,The Wrong Place,Hooverphonic,74,none
+95,95,2021,Azerbaijan,Mata Hari,Efendi,65,none
+96,96,2021,Albania,Karma,Anxhela Peristeri,57,none
+97,97,2021,San Marino,Adrenalina,Senhit feat. Flo Rida,50,none
+98,98,2021,Netherlands,Birth Of A New Age,Jeangu Macrooy,11,none
+99,99,2021,Spain,Voy a quedarme,Blas Cantó,6,none
+100,100,2021,Germany,I Don't Feel Hate,Jendrik,3,none
+101,101,2021,United KingdomUK,Embers,James Newman,0,none
+102,102,2019,Netherlands,Arcade,Duncan Laurence,498,none
+103,103,2019,Italy,Soldi,Mahmood,472,none
+104,104,2019,Russia,Scream,Sergey Lazarev,370,none
+105,105,2019,Switzerland,She Got Me,Luca Hänni,364,none
+106,106,2019,Sweden,Too Late for Love,John Lundvik,334,none
+107,107,2019,Norway,Spirit In The Sky,KEiiNO,331,none
+108,108,2019,North MacedoniaN.Macedonia,Proud,Tamara Todevska,305,none
+109,109,2019,Azerbaijan,Truth,Chingiz,302,none
+110,110,2019,Australia,Zero Gravity,Kate Miller-Heidke,284,none
+111,111,2019,Iceland,Hatrið mun sigra,Hatari,232,none
+112,112,2019,Czechia,Friend of a Friend,Lake Malawi,157,none
+113,113,2019,Denmark,Love is Forever,Leonora,120,none
+114,114,2019,Cyprus,Replay,Tamta,109,none
+115,115,2019,Malta,Chameleon,Michela,107,none
+116,116,2019,Slovenia,Sebi,Zala Kralj & Gašper Šantl,105,none
+117,117,2019,France,Roi,Bilal Hassani,105,none
+118,118,2019,Albania,Ktheju tokës,Jonida Maliqi,90,none
+119,119,2019,Serbia,Kruna,Nevena Božović,89,none
+120,120,2019,San Marino,Say Na Na Na,Serhat,77,none
+121,121,2019,Estonia,Storm,Victor Crone,76,none
+122,122,2019,Greece,Better Love,Katerine Duska,74,none
+123,123,2019,Spain,La venda,Miki,54,none
+124,124,2019,Israel,Home,Kobi Marimi,35,none
+125,125,2019,Belarus,Like It,Zena,31,none
+126,126,2019,Germany,Sister,S!sters,24,none
+127,127,2019,United KingdomUK,Bigger Than Us,Michael Rice,11,none
+128,128,2018,Israel,Toy,Netta,529,none
+129,129,2018,Cyprus,Fuego,Eleni Foureira,436,none
+130,130,2018,Austria,Nobody But You,Cesár Sampson,342,none
+131,131,2018,Germany,You Let Me Walk Alone,Michael Schulte,340,none
+132,132,2018,Italy,Non mi avete fatto niente,Ermal Meta & Fabrizio Moro,308,none
+133,133,2018,Czechia,Lie To Me,Mikolas Josef,281,none
+134,134,2018,Sweden,Dance You Off,Benjamin Ingrosso,274,none
+135,135,2018,Estonia,La forza,Elina Nechayeva,245,none
+136,136,2018,Denmark,Higher Ground,Rasmussen,226,none
+137,137,2018,Moldova,My Lucky Day,DoReDos,209,none
+138,138,2018,Albania,Mall,Eugent Bushpepa,184,none
+139,139,2018,Lithuania,When We're Old,Ieva Zasimauskaitė,181,none
+140,140,2018,France,Mercy,Madame Monsieur,173,none
+141,141,2018,Bulgaria,Bones,Equinox,166,none
+142,142,2018,Norway,That's How You Write a Song,Alexander Rybak,144,none
+143,143,2018,Ireland,Together,Ryan O'Shaughnessy,136,none
+144,144,2018,Ukraine,Under The Ladder,Mélovin,130,none
+145,145,2018,Netherlands,Outlaw In 'Em,Waylon,121,none
+146,146,2018,Serbia,Nova deca,Sanja Ilić & Balkanika,113,none
+147,147,2018,Australia,We Got Love,Jessica Mauboy,99,none
+148,148,2018,Hungary,Viszlát nyár,AWS,93,none
+149,149,2018,Slovenia,"Hvala, ne!",Lea Sirk,64,none
+150,150,2018,Spain,Tu canción,Amaia & Alfred,61,none
+151,151,2018,United KingdomUK,Storm,SuRie,48,none
+152,152,2018,Finland,Monsters,Saara Aalto,46,none
+153,153,2018,Portugal,O jardim,Cláudia Pascoal,39,none
+154,154,2017,Portugal,Amar pelos dois,Salvador Sobral,758,none
+155,155,2017,Bulgaria,Beautiful Mess,Kristian Kostov,615,none
+156,156,2017,Moldova,Hey Mamma,Sunstroke Project,374,none
+157,157,2017,Belgium,City Lights,Blanche,363,none
+158,158,2017,Sweden,I Can't Go On,Robin Bengtsson,344,none
+159,159,2017,Italy,Occidentali's Karma,Francesco Gabbani,334,none
+160,160,2017,Romania,Yodel It!,Ilinca feat. Alex Florea,282,none
+161,161,2017,Hungary,Origo,Joci Pápai,200,none
+162,162,2017,Australia,Don't Come Easy,Isaiah,173,none
+163,163,2017,Norway,Grab the Moment,Jowst,158,none
+164,164,2017,Netherlands,Lights And Shadows,OG3NE,150,none
+165,165,2017,France,Requiem,Alma,135,none
+166,166,2017,Croatia,My Friend,Jacques Houdek,128,none
+167,167,2017,Azerbaijan,Skeletons,Dihaj,120,none
+168,168,2017,United KingdomUK,Never Give Up on You,Lucie Jones,111,none
+169,169,2017,Austria,Running On Air,Nathan Trent,93,none
+170,170,2017,Belarus,Historyja majho žyccia,Naviband,83,none
+171,171,2017,Armenia,Fly With Me,Artsvik,79,none
+172,172,2017,Greece,This is Love,Demy,77,none
+173,173,2017,Denmark,Where I Am,Anja,77,none
+174,174,2017,Cyprus,Gravity,Hovig,68,none
+175,175,2017,Poland,Flashlight,Kasia Moś,64,none
+176,176,2017,Israel,I Feel Alive,Imri Ziv,39,none
+177,177,2017,Ukraine,Time,O.Torvald,36,none
+178,178,2017,Germany,Perfect Life,Levina,6,none
+179,179,2017,Spain,Do It for Your Lover,Manel Navarro,5,none
+180,180,2016,Ukraine,1944,Jamala,534,none
+181,181,2016,Australia,Sound of Silence,Dami Im,511,none
+182,182,2016,Russia,You Are the Only One,Sergey Lazarev,491,none
+183,183,2016,Bulgaria,If Love Was a Crime,Poli Genova,307,none
+184,184,2016,Sweden,If I Were Sorry,Frans,261,none
+185,185,2016,France,J'ai cherché,Amir,257,none
+186,186,2016,Armenia,LoveWave,Iveta Mukuchyan,249,none
+187,187,2016,Poland,Color of Your Life,Michał Szpak,229,none
+188,188,2016,Lithuania,I've Been Waiting for This Night,Donny Montell,200,none
+189,189,2016,Belgium,What's the Pressure,Laura Tesoro,181,none
+190,190,2016,Netherlands,Slow Down,Douwe Bob,153,none
+191,191,2016,Malta,Walk on Water,Ira Losco,153,none
+192,192,2016,Austria,Loin d'ici,Zoë,151,none
+193,193,2016,Israel,Made of Stars,Hovi Star,135,none
+194,194,2016,Latvia,Heartbeat,Justs,132,none
+195,195,2016,Italy,No Degree of Separation,Francesca Michielin,124,none
+196,196,2016,Azerbaijan,Miracle,Samra,117,none
+197,197,2016,Serbia,Goodbye (Shelter),Sanja Vučić ZAA,115,none
+198,198,2016,Hungary,Pioneer,Freddie,108,none
+199,199,2016,Georgia,Midnight Gold,Nika Kocharov & Young Georgian Lolitaz,104,none
+200,200,2016,Cyprus,Alter Ego,Minus One,96,none
+201,201,2016,Spain,Say Yay!,Barei,77,none
+202,202,2016,Croatia,Lighthouse,Nina Kraljić,73,none
+203,203,2016,United KingdomUK,You're Not Alone,Joe & Jake,62,none
+204,204,2016,Czechia,I Stand,Gabriela Gunčíková,41,none
+205,205,2016,Germany,Ghost,Jamie-Lee Kriewitz,11,none
+206,206,2015,Sweden,Heroes,Måns Zelmerlöw,365,none
+207,207,2015,Russia,A Million Voices,Polina Gagarina,303,none
+208,208,2015,Italy,Grande amore,Il Volo,292,none
+209,209,2015,Belgium,Rhythm Inside,Loïc Nottet,217,none
+210,210,2015,Australia,Tonight Again,Guy Sebastian,196,none
+211,211,2015,Latvia,Love Injected,Aminata,186,none
+212,212,2015,Estonia,Goodbye to Yesterday,Elina Born & Stig Rästa,106,none
+213,213,2015,Norway,A Monster Like Me,Mørland & Debrah Scarlett,102,none
+214,214,2015,Israel,Golden Boy,Nadav Guedj,97,none
+215,215,2015,Serbia,Beauty Never Lies,Bojana Stamenov,53,none
+216,216,2015,Georgia,Warrior,Nina Sublatti,51,none
+217,217,2015,Azerbaijan,Hour Of The Wolf,Elnur Hüseynov,49,none
+218,218,2015,Montenegro,Adio,Knez,44,none
+219,219,2015,Slovenia,Here for You,Maraaya,39,none
+220,220,2015,Romania,De la capăt / All Over Again,Voltaj,35,none
+221,221,2015,Armenia,Face The Shadow,Genealogy,34,none
+222,222,2015,Albania,I'm Alive,Elhaida Dani,34,none
+223,223,2015,Lithuania,This Time,Monika & Vaidas,30,none
+224,224,2015,Greece,One Last Breath,Maria Elena Kyriakou,23,none
+225,225,2015,Hungary,Wars For Nothing,Boggie,19,none
+226,226,2015,Spain,Amanecer,Edurne,15,none
+227,227,2015,Cyprus,One Thing I Should Have Done,John Karayiannis,11,none
+228,228,2015,Poland,In The Name Of Love,Monika Kuszyńska,10,none
+229,229,2015,United KingdomUK,Still in Love with You,Electro Velvet,5,none
+230,230,2015,France,N’oubliez pas,Lisa Angell,4,none
+231,231,2015,Austria,I Am Yours,The Makemakes,0,none
+232,232,2015,Germany,Black Smoke,Ann Sophie,0,none
+233,233,2014,Austria,Rise Like a Phoenix,Conchita Wurst,290,none
+234,234,2014,Netherlands,Calm After The Storm,The Common Linnets,238,none
+235,235,2014,Sweden,Undo,Sanna Nielsen,218,none
+236,236,2014,Armenia,Not Alone,Aram MP3,174,none
+237,237,2014,Hungary,Running,András Kállay-Saunders,143,none
+238,238,2014,Ukraine,Tick - Tock,Mariya Yaremchuk,113,none
+239,239,2014,Russia,Shine,Tolmachevy Sisters,89,none
+240,240,2014,Norway,Silent Storm,Carl Espen,88,none
+241,241,2014,Denmark,Cliche Love Song,Basim,74,none
+242,242,2014,Spain,Dancing in the rain,Ruth Lorenzo,74,none
+243,243,2014,Finland,Something Better,Softengine,72,none
+244,244,2014,Romania,Miracle,Paula Seling & OVI,72,none
+245,245,2014,Switzerland,Hunter Of Stars,Sebalter,64,none
+246,246,2014,Poland,My Słowianie - We Are Slavic,Donatan & Cleo,62,none
+247,247,2014,Iceland,No Prejudice,Pollapönk,58,none
+248,248,2014,Belarus,Cheesecake,Teo,43,none
+249,249,2014,United KingdomUK,Children of the Universe,Molly,40,none
+250,250,2014,Germany,Is It Right,Elaiza,39,none
+251,251,2014,Montenegro,Moj Svijet,Sergej Ćetković,37,none
+252,252,2014,Greece,Rise Up,Freaky Fortune feat. RiskyKidd,35,none
+253,253,2014,Italy,La Mia Città,Emma,33,none
+254,254,2014,Azerbaijan,Start A Fire,Dilara Kazimova,33,none
+255,255,2014,Malta,Coming Home,Firelight,32,none
+256,256,2014,San Marino,Maybe (Forse),Valentina Monetta,14,none
+257,257,2014,Slovenia,Round and Round,Tinkara Kovač,9,none
+258,258,2014,France,Moustache,Twin Twin,2,none
+259,259,2013,Denmark,Only Teardrops,Emmelie de Forest,281,none
+260,260,2013,Azerbaijan,Hold Me,Farid Mammadov,234,none
+261,261,2013,Ukraine,Gravity,Zlata Ognevich,214,none
+262,262,2013,Norway,I Feed You My Love,Margaret Berger,191,none
+263,263,2013,Russia,What If,Dina Garipova,174,none
+264,264,2013,Greece,Alcohol Is Free,Koza Mostra feat. Agathon Iakovidis,152,none
+265,265,2013,Italy,L'essenziale,Marco Mengoni,126,none
+266,266,2013,Malta,Tomorrow,Gianluca,120,none
+267,267,2013,Netherlands,Birds,Anouk,114,none
+268,268,2013,Hungary,Kedvesem,ByeAlex,84,none
+269,269,2013,Moldova,O mie,Aliona Moon,71,none
+270,270,2013,Belgium,Love Kills,Roberto Bellarosa,71,none
+271,271,2013,Romania,It's My Life,Cezar,65,none
+272,272,2013,Sweden,You,Robin Stjernberg,62,none
+273,273,2013,Georgia,Waterfall,Nodi Tatishvili & Sophie Gelovani,50,none
+274,274,2013,Belarus,Solayoh,Alyona Lanskaya,48,none
+275,275,2013,Iceland,Ég á líf,Eythor Ingi,47,none
+276,276,2013,Armenia,Lonely Planet,Dorians,41,none
+277,277,2013,United KingdomUK,Believe In Me,Bonnie Tyler,23,none
+278,278,2013,Estonia,Et uus saaks alguse,Birgit,19,none
+279,279,2013,Germany,Glorious,Cascada,18,none
+280,280,2013,Lithuania,Something,Andrius Pojavis,17,none
+281,281,2013,France,L'enfer et moi,Amandine Bourgeois,14,none
+282,282,2013,Finland,Marry Me,Krista Siegfrids,13,none
+283,283,2013,Spain,Contigo hasta el final,ESDM,8,none
+284,284,2013,Ireland,Only Love Survives,Ryan Dolan,5,none
+285,285,2012,Sweden,Euphoria,Loreen,372,none
+286,286,2012,Russia,Party For Everybody,Buranovskiye Babushki,259,none
+287,287,2012,Serbia,Nije Ljubav Stvar,Željko Joksimović,214,none
+288,288,2012,Azerbaijan,When The Music Dies,Sabina Babayeva,150,none
+289,289,2012,Albania,Suus,Rona Nishliu,146,none
+290,290,2012,Estonia,Kuula,Ott Lepland,120,none
+291,291,2012,Turkey,Love Me Back,Can Bonomo,112,none
+292,292,2012,Germany,Standing Still,Roman Lob,110,none
+293,293,2012,Italy,L'Amore È Femmina (Out Of Love),Nina Zilli,101,none
+294,294,2012,Spain,Quédate conmigo,Pastora Soler,97,none
+295,295,2012,Moldova,Lăutar,Pasha Parfeny,81,none
+296,296,2012,Romania,Zaleilah,Mandinga,71,none
+297,297,2012,North MacedoniaN.Macedonia,Crno I Belo,Kaliopi,71,none
+298,298,2012,Lithuania,Love Is Blind,Donny Montell,70,none
+299,299,2012,Ukraine,Be My Guest,Gaitana,65,none
+300,300,2012,Cyprus,La La Love,Ivi Adamou,65,none
+301,301,2012,Greece,Aphrodisiac,Eleftheria Eleftheriou,64,none
+302,302,2012,Bosnia & Herzegovina.,Korake ti znam,Maya Sar,55,none
+303,303,2012,Ireland,Waterline,Jedward,46,none
+304,304,2012,Iceland,Never Forget,Greta Salóme & Jónsi,46,none
+305,305,2012,Malta,This Is The Night,Kurt Calleja,41,none
+306,306,2012,France,Écho (You and I),Anggun,21,none
+307,307,2012,Denmark,Should've Known Better,Soluna Samay,21,none
+308,308,2012,Hungary,Sound Of Our Hearts,Compact Disco,19,none
+309,309,2012,United KingdomUK,Love Will Set You Free,Engelbert Humperdinck,12,none
+310,310,2012,Norway,Stay,Tooji,7,none
+311,311,2011,Azerbaijan,Running Scared,Ell/Nikki,221,none
+312,312,2011,Italy,Madness Of Love,Raphael Gualazzi,189,none
+313,313,2011,Sweden,Popular,Eric Saade,185,none
+314,314,2011,Ukraine,Angel,Mika Newton,159,none
+315,315,2011,Denmark,New Tomorrow,A Friend In London,134,none
+316,316,2011,Bosnia & Herzegovina.,Love In Rewind,Dino Merlin,125,none
+317,317,2011,Greece,Watch My Dance,Loucas Yiorkas feat. Stereo Mike,120,none
+318,318,2011,Ireland,Lipstick,Jedward,119,none
+319,319,2011,Georgia,One More Day,Eldrine,110,none
+320,320,2011,Germany,Taken By A Stranger,Lena,107,none
+321,321,2011,United KingdomUK,I Can,Blue,100,none
+322,322,2011,Moldova,So Lucky,Zdob și Zdub,97,none
+323,323,2011,Slovenia,No One,Maja Keuc,96,none
+324,324,2011,Serbia,Čaroban,Nina,85,none
+325,325,2011,France,Sognu,Amaury Vassili,82,none
+326,326,2011,Russia,Get You,Alexej Vorobjov,77,none
+327,327,2011,Romania,Change,Hotel FM,77,none
+328,328,2011,Austria,The Secret Is Love,Nadine Beiler,64,none
+329,329,2011,Lithuania,C'est Ma Vie,Evelina Sašenko,63,none
+330,330,2011,Iceland,Coming Home,Sjonni's Friends,61,none
+331,331,2011,Finland,Da Da Dam,Paradise Oskar,57,none
+332,332,2011,Hungary,What About My Dreams?,Kati Wolf,53,none
+333,333,2011,Spain,Que Me Quiten Lo Bailao,Lucía Pérez,50,none
+334,334,2011,Estonia,Rockefeller Street,Getter Jaani,44,none
+335,335,2011,Switzerland,In Love For A While,Anna Rossinelli,19,none
+336,336,2010,Germany,Satellite,Lena,246,none
+337,337,2010,Turkey,We Could Be The Same,maNga,170,none
+338,338,2010,Romania,Playing With Fire,Paula Seling & Ovi,162,none
+339,339,2010,Denmark,In a Moment like This,Chanée & N'evergreen,149,none
+340,340,2010,Azerbaijan,Drip drop,Safura,145,none
+341,341,2010,Belgium,Me And My Guitar,Tom Dice,143,none
+342,342,2010,Armenia,Apricot Stone,Eva Rivas,141,none
+343,343,2010,Greece,Opa,Giorgos Alkaios & Friends,140,none
+344,344,2010,Georgia,Shine,Sofia Nizharadze,136,none
+345,345,2010,Ukraine,Sweet People,Alyosha,108,none
+346,346,2010,Russia,Lost And Forgotten,Peter Nalitch & Friends,90,none
+347,347,2010,France,Allez Ola Olé,Jessy Matador,82,none
+348,348,2010,Serbia,Ovo Je Balkan,Milan Stanković,72,none
+349,349,2010,Israel,Milim,Harel Skaat,71,none
+350,350,2010,Spain,Algo pequeñito,Daniel Diges,68,none
+351,351,2010,Albania,It's All About You,Juliana Pasha,62,none
+352,352,2010,Bosnia & Herzegovina.,Thunder and Lightning,Vukašin Brajić,51,none
+353,353,2010,Portugal,Há dias assim,Filipa Azevedo,43,none
+354,354,2010,Iceland,Je ne sais quoi,Hera Björk,41,none
+355,355,2010,Norway,My Heart Is Yours,Didrik Solli-Tangen,35,none
+356,356,2010,Cyprus,Life Looks Better In Spring,Jon Lilygreen & The Islanders,27,none
+357,357,2010,Moldova,Run Away,Sunstroke Project & Olia Tira,27,none
+358,358,2010,Ireland,It's For You,Niamh Kavanagh,25,none
+359,359,2010,Belarus,Butterflies,3+2,18,none
+360,360,2010,United KingdomUK,That Sounds Good To Me,Josh,10,none
+361,361,2009,Norway,Fairytale,Alexander Rybak,387,none
+362,362,2009,Iceland,Is It True?,Yohanna,218,none
+363,363,2009,Azerbaijan,Always,AySel & Arash,207,none
+364,364,2009,Turkey,Düm Tek Tek,Hadise,177,none
+365,365,2009,United KingdomUK,It's My Time,Jade Ewen,173,none
+366,366,2009,Estonia,Rändajad,Urban Symphony,129,none
+367,367,2009,Greece,This Is Our Night,Sakis Rouvas,120,none
+368,368,2009,France,Et S'il Fallait Le Faire,Patricia Kaas,107,none
+369,369,2009,Bosnia & Herzegovina.,Bistra voda,Regina,106,none
+370,370,2009,Armenia,Jan Jan,Inga & Anush,92,none
+371,371,2009,Russia,Mamo,Anastasia Prikhodko,91,none
+372,372,2009,Ukraine,Be my Valentine! (Anti-crisis Girl),Svetlana Loboda,76,none
+373,373,2009,Denmark,Believe Again,Brinck,74,none
+374,374,2009,Moldova,Hora din Moldova,Nelly Ciobanu,69,none
+375,375,2009,Portugal,Todas As Ruas Do Amor,Flor-de-lis,57,none
+376,376,2009,Israel,There Must Be Another Way,Noa & Mira Awad,53,none
+377,377,2009,Albania,Carry Me In Your Dreams,Kejsi Tola,48,none
+378,378,2009,Croatia,Lijepa Tena,Igor Cukrov feat. Andrea,45,none
+379,379,2009,Romania,The Balkan Girls,Elena,40,none
+380,380,2009,Germany,Miss Kiss Kiss Bang,Alex Swings Oscar Sings!,35,none
+381,381,2009,Sweden,La Voix,Malena Ernman,33,none
+382,382,2009,Malta,What If We,Chiara,31,none
+383,383,2009,Lithuania,Love,Sasha Son,23,none
+384,384,2009,Spain,La noche es para mí,Soraya,23,none
+385,385,2009,Finland,Lose Control,Waldo's People,22,none
+386,386,2008,Russia,Believe,Dima Bilan,272,none
+387,387,2008,Ukraine,Shady Lady,Ani Lorak,230,none
+388,388,2008,Greece,Secret Combination,Kalomira,218,none
+389,389,2008,Armenia,"Qele, Qele",Sirusho,199,none
+390,390,2008,Norway,Hold On Be Strong,Maria,182,none
+391,391,2008,Serbia,Oro,Jelena Tomašević feat. Bora Dugic,160,none
+392,392,2008,Turkey,Deli,Mor ve Ötesi,138,none
+393,393,2008,Azerbaijan,Day After Day,Elnur & Samir,132,none
+394,394,2008,Israel,The Fire In Your Eyes,Boaz,124,none
+395,395,2008,Bosnia & Herzegovina.,Pokušaj,Laka,110,none
+396,396,2008,Georgia,Peace Will Come,Diana Gurtskaya,83,none
+397,397,2008,Latvia,Wolves Of The Sea,Pirates Of The Sea,83,none
+398,398,2008,Portugal,Senhora Do Mar (Negras Águas),Vânia Fernandes,69,none
+399,399,2008,Iceland,This Is My Life,Euroband,64,none
+400,400,2008,Denmark,All Night Long,Simon Mathew,60,none
+401,401,2008,Spain,Baila el Chiki Chiki,Rodolfo Chikilicuatre,55,none
+402,402,2008,Albania,Zemrën e lamë peng,Olta Boka,55,none
+403,403,2008,Sweden,Hero,Charlotte Perrelli,47,none
+404,404,2008,France,Divine,Sébastien Tellier,47,none
+405,405,2008,Romania,Pe-o margine de lume,Nico & Vlad,45,none
+406,406,2008,Croatia,Romanca,Kraljevi Ulice & 75 Cents,44,none
+407,407,2008,Finland,Missä miehet ratsastaa,Teräsbetoni,35,none
+408,408,2008,Germany,Disappear,No Angels,14,none
+409,409,2008,Poland,For Life,Isis Gee,14,none
+410,410,2008,United KingdomUK,Even If,Andy Abraham,14,none
+411,411,2007,Serbia,Molitva,Marija Šerifović,268,none
+412,412,2007,Ukraine,Dancing Lasha Tumbai,Verka Serduchka,235,none
+413,413,2007,Russia,Song # 1,Serebro,207,none
+414,414,2007,Turkey,Shake It Up Şekerim,Kenan Dogulu,163,none
+415,415,2007,Bulgaria,Water,Elitsa Todorova & Stoyan Yankulov,157,none
+416,416,2007,Belarus,Work Your Magic,Dmitry Koldun,145,none
+417,417,2007,Greece,Yassou Maria,Sarbel,139,none
+418,418,2007,Armenia,Anytime You Need,Hayko,138,none
+419,419,2007,Hungary,Unsubstantial Blues,Magdi Rúzsa,128,none
+420,420,2007,Moldova,Fight,Natalia Barbu,109,none
+421,421,2007,Bosnia & Herzegovina.,Rijeka bez imena,Marija Sestic,106,none
+422,422,2007,Georgia,Visionary Dream,Sopho,97,none
+423,423,2007,Romania,"Liubi, Liubi, I Love You",Todomondo,84,none
+424,424,2007,North MacedoniaN.Macedonia,Mojot Svet,Karolina,73,none
+425,425,2007,Slovenia,Cvet Z Juga,Alenka Gotar,66,none
+426,426,2007,Latvia,Questa notte,Bonaparti.lv,54,none
+427,427,2007,Finland,Leave Me Alone,Hanna Pakarinen,53,none
+428,428,2007,Sweden,The Worrying Kind,The Ark,51,none
+429,429,2007,Germany,Frauen regier'n die Welt,Roger Cicero,49,none
+430,430,2007,Spain,I Love You Mi Vida,D'Nash,43,none
+431,431,2007,Lithuania,Love Or Leave,4Fun,28,none
+432,432,2007,France,L'amour à la française,Les Fatals Picards,19,none
+433,433,2007,United KingdomUK,Flying The Flag (for You),Scooch,19,none
+434,434,2007,Ireland,They Can't Stop The Spring,Dervish,5,none
+435,435,2006,Finland,Hard Rock Hallelujah,Lordi,292,none
+436,436,2006,Russia,Never Let You Go,Dima Bilan,248,none
+437,437,2006,Bosnia & Herzegovina.,Lejla,Hari Mata Hari,229,none
+438,438,2006,Romania,Tornerò,Mihai Traistariu,172,none
+439,439,2006,Sweden,Invincible,Carola,170,none
+440,440,2006,Lithuania,We Are The Winners,LT United,162,none
+441,441,2006,Ukraine,Show Me Your Love,Tina Karol,145,none
+442,442,2006,Armenia,Without Your Love,André,129,none
+443,443,2006,Greece,Everything,Anna Vissi,128,none
+444,444,2006,Ireland,Every Song Is A Cry For Love,Brian Kennedy,93,none
+445,445,2006,Turkey,Superstar,Sibel Tüzün,91,none
+446,446,2006,North MacedoniaN.Macedonia,Ninanajna,Elena Risteska,56,none
+447,447,2006,Croatia,Moja štikla,Severina,56,none
+448,448,2006,Norway,Alvedansen,Christine Guldbrandsen,36,none
+449,449,2006,Germany,"No, No, Never",Texas Lightning,36,none
+450,450,2006,Switzerland,If We All Give A Little,Six4One,30,none
+451,451,2006,Latvia,I Hear Your Heart,Cosmos,30,none
+452,452,2006,Denmark,Twist Of Love,Sidsel Ben Semmane,26,none
+453,453,2006,United KingdomUK,Teenage Life,Daz Sampson,25,none
+454,454,2006,Moldova,Loca,Arsenium & Natalia Gordienko,22,none
+455,455,2006,Spain,Bloody Mary,Las Ketchup,18,none
+456,456,2006,France,Il était temps,Virginie Pouchin,5,none
+457,457,2006,Israel,Ze Hazman,Eddie Butler,4,none
+458,458,2006,Malta,I Do,Fabrizio Faniello,1,none
+459,459,2005,Greece,My Number One,Helena Paparizou,230,none
+460,460,2005,Malta,Angel,Chiara,192,none
+461,461,2005,Romania,Let Me Try,Luminita Anghel & Sistem,158,none
+462,462,2005,Israel,Hasheket shenish'ar,Shiri Maymon,154,none
+463,463,2005,Latvia,The War Is Not Over,Walters & Kazha,153,none
+464,464,2005,Moldova,Boonika Bate Doba,Zdob și Zdub,148,none
+465,465,2005,Serbia & Montenegro,Zauvijek Moja,No Name,137,none
+466,466,2005,Switzerland,Cool Vibes,Vanilla Ninja,128,none
+467,467,2005,Norway,In My Dreams,Wig Wam,125,none
+468,468,2005,Denmark,Talking To You,Jakob Sveistrup,125,none
+469,469,2005,Croatia,Vukovi umiru sami,Boris Novkovic feat. Lado members,115,none
+470,470,2005,Hungary,Forogj világ,NOX,97,none
+471,471,2005,Turkey,Rimi Rimi Ley,Gülseren,92,none
+472,472,2005,Bosnia & Herzegovina.,Call Me,Feminnem,79,none
+473,473,2005,Russia,Nobody Hurt No One,Natalia Podolskaya,57,none
+474,474,2005,Albania,Tomorrow I Go,Ledina Celo,53,none
+475,475,2005,North MacedoniaN.Macedonia,Make My Day,Martin Vučić,52,none
+476,476,2005,Cyprus,Ela ela,Constantinos Christoforou,46,none
+477,477,2005,Sweden,Las Vegas,Martin Stenmarck,30,none
+478,478,2005,Ukraine,Razom Nas Bahato,Greenjolly,30,none
+479,479,2005,Spain,Brujería,Son de sol,28,none
+480,480,2005,United KingdomUK,Touch My Fire,Javine,18,none
+481,481,2005,France,Chacun pense à soi,Ortal,11,none
+482,482,2005,Germany,Run & Hide,Gracia,4,none
+483,483,2004,Ukraine,Wild Dances,Ruslana,280,none
+484,484,2004,Serbia & Montenegro,Lane moje,Željko Joksimović,263,none
+485,485,2004,Greece,Shake It,Sakis Rouvas,252,none
+486,486,2004,Turkey,For Real,Athena,195,none
+487,487,2004,Cyprus,Stronger Every Minute,Lisa Andreas,170,none
+488,488,2004,Sweden,It Hurts,Lena Philipsson,170,none
+489,489,2004,Albania,The Image Of You,Anjeza Shahini,106,none
+490,490,2004,Germany,Can't Wait Until Tonight,Max,93,none
+491,491,2004,Bosnia & Herzegovina.,In The Disco,Deen,91,none
+492,492,2004,Spain,Para llenarme de ti,Ramón,87,none
+493,493,2004,Russia,Believe Me,Julia Savicheva,67,none
+494,494,2004,Malta,On again... off again,Julie & Ludwig,50,none
+495,495,2004,Croatia,You Are The Only One,Ivan Mikulic,50,none
+496,496,2004,North MacedoniaN.Macedonia,Life,Toše Proeski,47,none
+497,497,2004,France,A Chaque Pas,Jonatan Cerrada,40,none
+498,498,2004,United KingdomUK,Hold On To Our Love,James Fox,29,none
+499,499,2004,Poland,Love Song,Blue Cafe,27,none
+500,500,2004,Romania,I Admit,Sanda Ladosi,18,none
+501,501,2004,Iceland,Heaven,Jónsi,16,none
+502,502,2004,Netherlands,Without You,Re-union,11,none
+503,503,2004,Austria,Du Bist,Tie Break,9,none
+504,504,2004,Belgium,1 Life,Xandee,7,none
+505,505,2004,Ireland,If My World Stopped Turning,Chris Doran,7,none
+506,506,2004,Norway,High,Knut Anders Sørum,3,none
+507,507,2003,Turkey,Everyway That I Can,Sertab Erener,167,none
+508,508,2003,Belgium,Sanomi,Urban Trad,165,none
+509,509,2003,Russia,"Ne Ver', Ne Boisia",t.A.T.u.,164,none
+510,510,2003,Norway,I'm Not Afraid To Move On,Jostein Hasselgård,123,none
+511,511,2003,Sweden,Give Me Your Love,Fame,107,none
+512,512,2003,Austria,Weil der Mensch zählt,Alf Poier,101,none
+513,513,2003,Poland,Keine Grenzen - Żadnych granic,Ich Troje,90,none
+514,514,2003,Iceland,Open Your Heart,Birgitta,81,none
+515,515,2003,Spain,Dime,Beth,81,none
+516,516,2003,Romania,Don't Break My Heart,Nicola,73,none
+517,517,2003,Ireland,We've Got The World,Mickey Harte,53,none
+518,518,2003,Germany,Let's Get Happy,Lou,53,none
+519,519,2003,Netherlands,One More Night,Esther Hart,45,none
+520,520,2003,Ukraine,Hasta La Vista,Olexandr,30,none
+521,521,2003,Croatia,Više nisam tvoja,Claudia Beni,29,none
+522,522,2003,Bosnia & Herzegovina.,Ne Brini,Mija Martina,27,none
+523,523,2003,Greece,Never Let You Go,Mando,25,none
+524,524,2003,France,Monts Et Merveilles,Louisa Baileche,19,none
+525,525,2003,Israel,Words For Love,Lior Narkis,17,none
+526,526,2003,Cyprus,Feeling Alive,Stelios Constantas,15,none
+527,527,2003,Estonia,Eighties Coming Back,Ruffus,14,none
+528,528,2003,Portugal,Deixa-me sonhar,Rita Guerra,13,none
+529,529,2003,Slovenia,Nanana,Karmen,7,none
+530,530,2003,Latvia,Hello From Mars,F.L.Y.,5,none
+531,531,2003,Malta,To Dream Again,Lynn Chircop,4,none
+532,532,2003,United KingdomUK,Cry Baby,Jemini,0,none
+533,533,2002,Latvia,I Wanna,Marie N,176,none
+534,534,2002,Malta,7th Wonder,Ira Losco,164,none
+535,535,2002,United KingdomUK,Come Back,Jessica Garlick,111,none
+536,536,2002,Estonia,Runaway,Sahléne,111,none
+537,537,2002,France,Il Faut Du Temps,Sandrine François,104,none
+538,538,2002,Cyprus,Gimme,One,85,none
+539,539,2002,Spain,Europe's Living A Celebration,Rosa,81,none
+540,540,2002,Sweden,Never Let It Go,Afro-dite,72,none
+541,541,2002,Romania,Tell Me Why,Monica Anghel & Marcel Pavel,71,none
+542,542,2002,Russia,Northern Girl,Prime minister,55,none
+543,543,2002,Croatia,Everything I Want,Vesna Pisarović,44,none
+544,544,2002,Israel,Light A Candle,Sarit Hadad,37,none
+545,545,2002,Bosnia & Herzegovina.,Na jastuku za dvoje,Maja,33,none
+546,546,2002,Belgium,Sister,Sergio & the Ladies,33,none
+547,547,2002,Slovenia,Samo ljubezen,Sestre,33,none
+548,548,2002,Turkey,Leylaklar soldu kalbinde,Buket Bengisu & Safir,29,none
+549,549,2002,Greece,S.A.G.A.P.O.,Michalis Rakintzis,27,none
+550,550,2002,Austria,Say A Word,Manuel Ortega,26,none
+551,551,2002,North MacedoniaN.Macedonia,Od Nas Zavisi,Karolina,25,none
+552,552,2002,Finland,Addicted to You,Laura,24,none
+553,553,2002,Germany,I Can't Live Without Music,Corinna May,17,none
+554,554,2002,Switzerland,Dans le jardin de mon âme,Francine Jordi,15,none
+555,555,2002,Lithuania,Happy You,Aivaras,12,none
+556,556,2002,Denmark,Tell Me Who You Are,Malene,7,none
+557,557,2001,Estonia,Everybody,"Tanel Padar, Dave Benton & 2XL",198,none
+558,558,2001,Denmark,Never Ever Let You Go,Rollo & King,177,none
+559,559,2001,Greece,Die For You,Antique,147,none
+560,560,2001,France,Je n'ai que mon âme,Natasha Saint-Pier,142,none
+561,561,2001,Sweden,Listen To Your Heartbeat,Friends,100,none
+562,562,2001,Spain,Dile que la quiero,David Civera,76,none
+563,563,2001,Slovenia,Energy,Nuša Derenda,70,none
+564,564,2001,Germany,Wer Liebe lebt,Michelle,66,none
+565,565,2001,Malta,Another Summer Night,Fabrizio Faniello,48,none
+566,566,2001,Croatia,Strings Of My Heart,Vanna,42,none
+567,567,2001,Turkey,Sevgiliye son,Sedat Yüce,41,none
+568,568,2001,Russia,Lady Alpine Blue,Mumiy troll,37,none
+569,569,2001,Lithuania,You Got Style,Skamp,35,none
+570,570,2001,Bosnia & Herzegovina.,Hano,Nino,29,none
+571,571,2001,United KingdomUK,No Dream Impossible,Lindsay D.,28,none
+572,572,2001,Israel,Ein Davar,Tal Sondak,25,none
+573,573,2001,Portugal,Só sei ser feliz assim,MTM,18,none
+574,574,2001,Netherlands,Out On My Own,Michelle,16,none
+575,575,2001,Latvia,Too Much,Arnis Mednis,16,none
+576,576,2001,Poland,2 Long,Piasek,11,none
+577,577,2001,Ireland,Without Your Love,Gary O'Shaughnessy,6,none
+578,578,2001,Iceland,Angel,TwoTricky,3,none
+579,579,2001,Norway,On My Own,Haldor Lægreid,3,none
+580,580,2000,Denmark,Fly On The Wings Of Love,Olsen Brothers,195,none
+581,581,2000,Russia,Solo,Alsou,155,none
+582,582,2000,Latvia,My Star,BrainStorm,136,none
+583,583,2000,Estonia,Once In A Lifetime,Ines,98,none
+584,584,2000,Germany,Wadde hadde dudde da?,Stefan Raab,96,none
+585,585,2000,Ireland,Millennium Of Love,Eamonn Toal,92,none
+586,586,2000,Sweden,When Spirits Are Calling My Name,Roger Pontare,88,none
+587,587,2000,Malta,Desire,Claudette Pace,73,none
+588,588,2000,Croatia,Kad zaspu anđeli,Goran Karan,70,none
+589,589,2000,Turkey,Yorgunum Anla,Pınar & The S.O.S.,59,none
+590,590,2000,Norway,My Heart Goes Boom,Charmed,57,none
+591,591,2000,Iceland,Tell Me!,August & Telma,45,none
+592,592,2000,Netherlands,No Goodbyes,Linda Wagenmakers,40,none
+593,593,2000,Austria,All To You,The Rounder Girls,34,none
+594,594,2000,North MacedoniaN.Macedonia,100% Te Ljubam,XXL,29,none
+595,595,2000,United KingdomUK,Don't Play That Song Again,Nicki French,28,none
+596,596,2000,Romania,The Moon,Taxi,25,none
+597,597,2000,Spain,Colgado de un sueño,Serafín Zubiri,18,none
+598,598,2000,Finland,A Little Bit,Nina Åström,18,none
+599,599,2000,Switzerland,La vita cos'è?,Jane Bogaert,14,none
+600,600,2000,Cyprus,Nomiza,Voice,8,none
+601,601,2000,Israel,Sa'me'akh,Ping Pong,7,none
+602,602,2000,France,On aura le ciel,Sofia Mestari,5,none
+603,603,2000,Belgium,Envie de vivre,Nathalie Sorce,2,none
+604,604,1999,Sweden,Take Me To Your Heaven,Charlotte Nilsson,163,none
+605,605,1999,Iceland,All out of luck,Selma Björnsdóttir,146,none
+606,606,1999,Germany,Reise nach Jerusalem – Kudüs'e seyahat,Sürpriz,140,none
+607,607,1999,Croatia,Marija Magdalena,Doris Dragović,118,none
+608,608,1999,Israel,Yom Huledeth,Eden,93,none
+609,609,1999,Estonia,Diamond Of Night,Evelin Samuel & Camille,90,none
+610,610,1999,Bosnia & Herzegovina.,Putnici,Dino & Beatrice,86,none
+611,611,1999,Denmark,This Time (I Mean It),Trine Jepsen & Michael Teschl,71,none
+612,612,1999,Netherlands,One Good Reason,Marlayne,71,none
+613,613,1999,Austria,Reflection,Bobbie Singer,65,none
+614,614,1999,Slovenia,For A Thousand Years,Darja Švajger,50,none
+615,615,1999,Belgium,Like The Wind,Venessa Chinitor,38,none
+616,616,1999,United KingdomUK,Say It Again,Precious,38,none
+617,617,1999,Norway,Living My Life Without You,Stig André Van Eijk,35,none
+618,618,1999,Malta,Believe 'n Peace,Times 3,32,none
+619,619,1999,Turkey,Dön artık,Tuba Önal & Mystik,21,none
+620,620,1999,Ireland,When You Need Me,The Mullan's,18,none
+621,621,1999,Poland,Przytul mnie mocno,Mietek Szczesniak,17,none
+622,622,1999,France,Je veux donner ma voix,Nayah,14,none
+623,623,1999,Lithuania,Strazdas,Aiste Smilgeviciute,13,none
+624,624,1999,Portugal,Como tudo começou,Rui Bandeira,12,none
+625,625,1999,Cyprus,Tha'nai erotas,Marlain Angelidou,2,none
+626,626,1999,Spain,No quiero escuchar,Lydia,1,none
+627,627,1998,Israel,Diva,Dana International,172,none
+628,628,1998,United KingdomUK,Where Are You?,Imaani,166,none
+629,629,1998,Malta,The One That I Love,Chiara,165,none
+630,630,1998,Netherlands,Hemel en aarde,Edsilia Rombley,150,none
+631,631,1998,Croatia,Neka mi ne svane,Danijela,131,none
+632,632,1998,Belgium,Dis oui,Mélanie Cohl,122,none
+633,633,1998,Germany,Guildo hat euch lieb,Guildo Horn,86,none
+634,634,1998,Norway,Alltid sommer,Lars A. Fredriksen,79,none
+635,635,1998,Ireland,Is Always Over Now?,Dawn,64,none
+636,636,1998,Sweden,Kärleken är,Jill Johnson,53,none
+637,637,1998,Cyprus,Genesis,Michael Hajiyanni,37,none
+638,638,1998,Portugal,Se eu te pudesse abraçar,Alma Lusa,36,none
+639,639,1998,Estonia,Mere lapsed,Koit Toome,36,none
+640,640,1998,Turkey,Unutamazsın,Tüzmen,25,none
+641,641,1998,Finland,Aava,Edea,22,none
+642,642,1998,Spain,¿Qué voy a hacer sin ti?,Mikel Herzog,21,none
+643,643,1998,Poland,To takie proste,Sixteen,19,none
+644,644,1998,Slovenia,Naj bogovi slišijo,Vili Resnik,17,none
+645,645,1998,North MacedoniaN.Macedonia,"Ne Zori, Zoro",Vlado Janevski,16,none
+646,646,1998,Greece,Mia krifi evesthisia,Thalassa,12,none
+647,647,1998,Slovakia,Modlitba,Katarína Hasprová,8,none
+648,648,1998,Romania,Eu cred,Mălina Olinescu,6,none
+649,649,1998,Hungary,A holnap már nem lesz szomorú,Charlie,4,none
+650,650,1998,France,Où aller,Marie-Line,3,none
+651,651,1998,Switzerland,Lass ihn,Gunvor,0,none
+652,652,1997,United KingdomUK,Love Shine A Light,Katrina and The Waves,227,none
+653,653,1997,Ireland,Mysterious Woman,Marc Roberts,157,none
+654,654,1997,Turkey,Dinle,Şebnem Paker & Etnic,121,none
+655,655,1997,Italy,Fiumi di parole,Jalisse,114,none
+656,656,1997,Cyprus,Mana mou,Chara and Andreas Konstantinou,98,none
+657,657,1997,Spain,Sin rencor,Marcos Llunas,96,none
+658,658,1997,France,Sentiments songes,Fanny,95,none
+659,659,1997,Estonia,Keelatud maa,Maarja-Liis Ilus,82,none
+660,660,1997,Malta,Let Me Fly,Debbie Scerri,66,none
+661,661,1997,Slovenia,Zbudi se,Tanja Ribič,60,none
+662,662,1997,Poland,Ale jestem,Anna Maria Jopek,54,none
+663,663,1997,Greece,Horepse,Marianna Zorba,39,none
+664,664,1997,Hungary,"Miért kell, hogy elmenj?",VIP,39,none
+665,665,1997,Sweden,Bara hon älskar mig,Blond,36,none
+666,666,1997,Russia,Primadonna,Alla Pugachova,33,none
+667,667,1997,Denmark,Stemmen i mit liv,Kølig Kaj,25,none
+668,668,1997,Croatia,Probudi me,ENI,24,none
+669,669,1997,Germany,Zeit,Bianca Shomburg,22,none
+670,670,1997,Bosnia & Herzegovina.,Goodbye,Alma Čardžić,22,none
+671,671,1997,Iceland,Minn hinsti dans,Paul Oscar,18,none
+672,672,1997,Austria,One Step,Bettina Soriat,12,none
+673,673,1997,Switzerland,Dentro di me,Barbara Berta,5,none
+674,674,1997,Netherlands,Niemand heeft nog tijd,Mrs. Einstein,5,none
+675,675,1997,Norway,San Francisco,Tor Endresen,0,none
+676,676,1997,Portugal,Antes do adeus,Célia Lawson,0,none
+677,677,1996,Ireland,The Voice,Eimear Quinn,162,none
+678,678,1996,Norway,I evighet,Elisabeth Andreasson,114,none
+679,679,1996,Sweden,Den vilda,One More Time,100,none
+680,680,1996,Croatia,Sveta ljubav,Maja Blagdan,98,none
+681,681,1996,Estonia,Kaelakee Hääl,Ivo Linna & Maarja-Liis Ilus,94,none
+682,682,1996,Portugal,O meu coração não tem cor,Lúcia Moniz,92,none
+683,683,1996,Netherlands,De eerste keer,Maxine & Franklin Brown,78,none
+684,684,1996,United KingdomUK,Ooh...Aah...Just A Little Bit,Gina G,77,none
+685,685,1996,Cyprus,Mono Gia Mas,Constantinos,72,none
+686,686,1996,Malta,In A Woman's Heart,Miriam Christine,68,none
+687,687,1996,Austria,Weil's dr guat got,George Nußbaumer,68,none
+688,688,1996,Turkey,Beşinci mevsim,Şebnem Paker,57,none
+689,689,1996,Iceland,Sjúbídú,Anna Mjöll,51,none
+690,690,1996,Greece,Emis forame to himona anixiatika,Marianna Efstratiou,36,none
+691,691,1996,Poland,Chcę znać swój grzech,Kasia Kowalska,31,none
+692,692,1996,Switzerland,Mon cœur l'aime,Cathy Leander,22,none
+693,693,1996,Belgium,Liefde is een kaartspel,Lisa del Bo,22,none
+694,694,1996,Slovakia,Kým nás máš,Marcel Palonder,19,none
+695,695,1996,France,Diwanit bugale,Dan Ar Braz et l'Héritage des Celtes,18,none
+696,696,1996,Spain,"¡Ay, Qué Deseo!",Antonio Carbonell,17,none
+697,697,1996,Slovenia,Dan najlepših sanj,Regina,16,none
+698,698,1996,Bosnia & Herzegovina.,Za Našu Ljubav,Amila Glamočak,13,none
+699,699,1996,Finland,Niin kaunis on taivas,Jasmine,9,none
+700,700,1995,Norway,Nocturne,Secret Garden,148,none
+701,701,1995,Spain,Vuelve conmigo,Anabel Conde,119,none
+702,702,1995,Sweden,Se på mig,Jan Johansen,100,none
+703,703,1995,France,Il me donne rendez-vous,Nathalie Santamaria,94,none
+704,704,1995,Denmark,Fra Mols til Skagen,Aud Wilken,92,none
+705,705,1995,Croatia,Nostalgija,Magazin & Lidija,91,none
+706,706,1995,Slovenia,Prisluhni mi,Darja Švajger,84,none
+707,707,1995,Israel,Amen,Liora,81,none
+708,708,1995,Cyprus,Sti Fotia,Alexandros Panayi,79,none
+709,709,1995,United KingdomUK,Love City Groove,Love City Groove,76,none
+710,710,1995,Malta,Keep Me In Mind,Mike Spiteri,76,none
+711,711,1995,Greece,Pia prosefhi,Elina Constantopoulou,68,none
+712,712,1995,Austria,Die Welt dreht sich verkehrt,Stella Jones,67,none
+713,713,1995,Ireland,Dreamin',Eddie Friel,44,none
+714,714,1995,Iceland,Núna,Bó Halldórsson,31,none
+715,715,1995,Turkey,Sev!,Arzu Ece,21,none
+716,716,1995,Russia,Kolybelnaya Dlya Vulkana,Philipp Kirkorov,17,none
+717,717,1995,Poland,Sama,Justyna,15,none
+718,718,1995,Bosnia & Herzegovina.,Dvadeset i prvi vijek,Davor Popović,14,none
+719,719,1995,Belgium,La voix est libre,Frédéric Etherlinck,8,none
+720,720,1995,Portugal,Baunilha e chocolate,Tó Cruz,5,none
+721,721,1995,Hungary,Új név egy régi ház falán,Csaba Szigeti,3,none
+722,722,1995,Germany,Verliebt in Dich,Stone and Stone,1,none
+723,723,1994,Ireland,Rock 'n' Roll Kids,Paul Harrington & Charlie McGettigan,226,none
+724,724,1994,Poland,To Nie Ja!,Edyta Górniak,166,none
+725,725,1994,Germany,Wir geben 'ne Party,MeKaDo,128,none
+726,726,1994,Hungary,Kinek mondjam el vétkeimet,Friderika Bayer,122,none
+727,727,1994,Malta,More Than Love,Moira Stafrace & Christopher Scicluna,97,none
+728,728,1994,Norway,Duett,Elisabeth Andreasson & Jan Werner Danielsen,76,none
+729,729,1994,France,Je suis un vrai garçon,Nina Morato,74,none
+730,730,1994,Portugal,Chamar a música,Sara Tavares,73,none
+731,731,1994,Russia,Vječnij stranjik,Youddiph,70,none
+732,732,1994,United KingdomUK,We Will Be Free (Lonely Symphony),Frances Ruffelle,63,none
+733,733,1994,Cyprus,Ime Anthropos Ke Ego,Evridiki,51,none
+734,734,1994,Iceland,Nætur,Sigga,49,none
+735,735,1994,Sweden,Stjärnorna,Marie Bergman & Roger Pontare,48,none
+736,736,1994,Greece,To Trehantiri,Costas Bigalis and the Sea Lovers,44,none
+737,737,1994,Bosnia & Herzegovina.,Ostani kraj mene,Alma & Dejan,39,none
+738,738,1994,Croatia,Nek' ti bude ljubav sva,Tony Cetinski,27,none
+739,739,1994,Austria,Für den Frieden der Welt,Petra Frey,19,none
+740,740,1994,Spain,Ella no es ella,Alejandro Abad,17,none
+741,741,1994,Switzerland,Sto pregando,Duilio,15,none
+742,742,1994,Slovakia,Nekonečná pieseň,Martin Ďurinda & Tublatanka,15,none
+743,743,1994,Romania,Dincolo de nori,Dan Bittman,14,none
+744,744,1994,Finland,Bye Bye Baby,CatCat,11,none
+745,745,1994,Netherlands,Waar is de zon?,Willeke Alberti,4,none
+746,746,1994,Estonia,Nagu Merelaine,Silvi Vrait,2,none
+747,747,1994,Lithuania,Lopšinė mylimai,Ovidijus Vyšniauskas,0,none
+748,748,1993,Ireland,In Your Eyes,Niamh Kavanagh,187,none
+749,749,1993,United KingdomUK,Better The Devil You Know,Sonia,164,none
+750,750,1993,Switzerland,"Moi, tout simplement",Annie Cotton,148,none
+751,751,1993,France,Mama Corsica,Patrick Fiori,121,none
+752,752,1993,Norway,Alle mine tankar,Silje Vige,120,none
+753,753,1993,Netherlands,Vrede,Ruth Jacott,92,none
+754,754,1993,Sweden,Eloise,Arvingarna,89,none
+755,755,1993,Malta,This Time,William Mangion,69,none
+756,756,1993,Greece,"Ellada, hora tu fotos",Kaiti Garbi,64,none
+757,757,1993,Portugal,A cidade até ser dia,Anabela,60,none
+758,758,1993,Spain,Hombres,Eva Santamaria,58,none
+759,759,1993,Italy,Sole d'Europa,Enrico Ruggeri,45,none
+760,760,1993,Iceland,Þá veistu svarið,Inga,42,none
+761,761,1993,Austria,Maria Magdalena,Tony Wegas,32,none
+762,762,1993,Croatia,Don't Ever Cry,Put,31,none
+763,763,1993,Bosnia & Herzegovina.,Sva bol svijeta,Fazla,27,none
+764,764,1993,Finland,Tule luo,Katri-Helena,20,none
+765,765,1993,Germany,Viel zu weit,Münchener Freiheit,18,none
+766,766,1993,Cyprus,Mi stamatas,Kyriakos Zymboulakis & Demos Van Beke,17,none
+767,767,1993,Luxembourg,Donne-moi une chance,Modern Times,11,none
+768,768,1993,Turkey,Esmer yarim,"Burak Aydos, Baybora & Serter Öztürk",10,none
+769,769,1993,Denmark,Under stjernerne på himlen,Tommy Seebach Band,9,none
+770,770,1993,Slovenia,Tih deževen dan,1X Band,9,none
+771,771,1993,Israel,Shiru,Lakahat Shiru,4,none
+772,772,1993,Belgium,Iemand als jij,Barbara Dex,3,none
+773,773,1992,Ireland,Why Me?,Linda Martin,155,none
+774,774,1992,United KingdomUK,One Step Out Of Time,Michael Ball,139,none
+775,775,1992,Malta,Little Child,Mary Spiteri,123,none
+776,776,1992,Italy,Rapsodia,Mia Martini,111,none
+777,777,1992,Greece,Olou Tou Kosmou tin Elpida,Cleopatra,94,none
+778,778,1992,Israel,Ze Rak Sport,Dafna,85,none
+779,779,1992,Iceland,Nei eða já,Heart 2 Heart,80,none
+780,780,1992,France,Monté la riviè,Kali,73,none
+781,781,1992,Netherlands,Wijs me de weg,Humphrey Campbell,67,none
+782,782,1992,Austria,Zusammen geh'n,Tony Wegas,63,none
+783,783,1992,Cyprus,Teriazoume,Evridiki,57,none
+784,784,1992,Denmark,Alt det som ingen ser,Kenny & Lotte,47,none
+785,785,1992,Yugoslavia,Ljubim Te Pesmama,Extra Nena,44,none
+786,786,1992,Spain,Todo esto es la música,Serafin,37,none
+787,787,1992,Switzerland,Mister Music Man,Daisy Auvray,32,none
+788,788,1992,Germany,Träume sind für alle da,Wind,27,none
+789,789,1992,Portugal,Amor d'água fresca,Dina,26,none
+790,790,1992,Norway,Visjoner,Merethe Trøan,23,none
+791,791,1992,Turkey,Yaz bitti,Aylin Vatankoş,17,none
+792,792,1992,Belgium,"Nous, on veut des violons",Morgane,11,none
+793,793,1992,Luxembourg,Sou fräi,Marion Welter and Kontinent,10,none
+794,794,1992,Sweden,I morgon är en annan dag,Christer Björkman,9,none
+795,795,1992,Finland,Yamma yamma,Pave,4,none
+796,796,1991,Sweden,Fångad av en stormvind,Carola,146,none
+797,797,1991,France,C'est le dernier qui a parlé qui a raison,Amina,146,none
+798,798,1991,Israel,Kan,Duo Datz,139,none
+799,799,1991,Spain,Bailar Pegados,Sergio Dalma,119,none
+800,800,1991,Switzerland,Canzone per te,Sandra Simó,118,none
+801,801,1991,Malta,Could It Be,Paul Giordimaina & Georgina,106,none
+802,802,1991,Italy,Comme è ddoce 'o mare,Peppino di Capri,89,none
+803,803,1991,Portugal,Lusitana Paixão,Dulce,62,none
+804,804,1991,Cyprus,S.O.S.,Elena Patroclou,60,none
+805,805,1991,Ireland,Could It Be That I'm In Love,Kim Jackson,47,none
+806,806,1991,United KingdomUK,A Message To Your Heart,Samantha Janus,47,none
+807,807,1991,Turkey,Iki dakika,"İzel Çeliköz, Reyhan Karaca & Can Uğurluer",44,none
+808,808,1991,Greece,I Anixi,Sofia Vossou,36,none
+809,809,1991,Luxembourg,Un baiser volé,Sarah Bray,29,none
+810,810,1991,Iceland,Nina,Stefán & Eyfi,26,none
+811,811,1991,Belgium,Geef Het Op,Clouseau,23,none
+812,812,1991,Norway,Mrs. Thompson,Just 4 Fun,14,none
+813,813,1991,Germany,Dieser Traum darf niemals sterben,Atlantis 2000,10,none
+814,814,1991,Denmark,Lige der hvor hjertet slår,Anders Frandsen,8,none
+815,815,1991,Finland,Hullu yö,Kaija,6,none
+816,816,1991,Yugoslavia,Brazil,Baby Doll,1,none
+817,817,1991,Austria,Venedig im Regen,Thomas Forstner,0,none
+818,818,1990,Italy,Insieme: 1992,Toto Cutugno,149,none
+819,819,1990,France,White and Black Blues,Joelle Ursull,132,none
+820,820,1990,Ireland,Somewhere In Europe,Liam Reilly,132,none
+821,821,1990,Iceland,Eitt lag enn,Stjórnin,124,none
+822,822,1990,Spain,Bandido,Azúcar Moreno,96,none
+823,823,1990,United KingdomUK,Give A Little Love Back To The World,Emma,87,none
+824,824,1990,Yugoslavia,Hajde da ludujemo,Tajči,81,none
+825,825,1990,Denmark,"Hallo, hallo",Lonnie Devantier,64,none
+826,826,1990,Germany,Frei zu leben,Chris Kempers & Daniel Kovac,60,none
+827,827,1990,Austria,Keine Mauern mehr,Simone,58,none
+828,828,1990,Switzerland,Musik klingt in die Welt hinaus,Egon Egemann,51,none
+829,829,1990,Belgium,Macédomienne,Philippe Lafontaine,46,none
+830,830,1990,Luxembourg,Quand je te rêve,Céline Carzo,38,none
+831,831,1990,Cyprus,Milas Poli,Haris Anastasiou,36,none
+832,832,1990,Netherlands,Ik wil alles met je delen,Maywood,25,none
+833,833,1990,Sweden,Som en vind,Edin-Ådahl,24,none
+834,834,1990,Turkey,Gözlerinin Hapsindeyim,Kayahan,21,none
+835,835,1990,Israel,Shara Barechovot,Rita,16,none
+836,836,1990,Greece,Horis skopo,Christos Callow & Wave,11,none
+837,837,1990,Portugal,Há sempre alguém,Nucha,9,none
+838,838,1990,Norway,Brandenburger Tor,Ketil Stokkan,8,none
+839,839,1990,Finland,Fri?,Beat,8,none
+840,840,1989,Yugoslavia,Rock Me,Riva,137,none
+841,841,1989,United KingdomUK,Why Do I Always Get it Wrong?,Live Report,130,none
+842,842,1989,Denmark,Vi maler byen rød,Birthe Kjær,111,none
+843,843,1989,Sweden,En dag,Tommy Nilsson,110,none
+844,844,1989,Austria,Nur ein Lied,Thomas Forstner,97,none
+845,845,1989,Spain,Nacida para amar,Nina,88,none
+846,846,1989,Finland,La dolce vita,Anneli Saaristo,76,none
+847,847,1989,France,J'ai volé la vie,Nathalie Pâque,60,none
+848,848,1989,Italy,Avrei voluto,Anna Oxa & Fausto Leali,56,none
+849,849,1989,Greece,To thiko sou asteri,Marianna,56,none
+850,850,1989,Cyprus,Apopse as vrethoume,Fanny Polymeri and Yiannis Savvidakis,51,none
+851,851,1989,Israel,Derech Ha'melech,Gili & Galit,50,none
+852,852,1989,Switzerland,Viver senza tei,Furbaz,47,none
+853,853,1989,Germany,Flieger,Nino de Angelo,46,none
+854,854,1989,Netherlands,Blijf zoals je bent,Justine Pelmelay,45,none
+855,855,1989,Portugal,Conquistador,Da Vinci,39,none
+856,856,1989,Norway,Venners nærhet,Britt Synnøve Johansen,30,none
+857,857,1989,Ireland,The Real Me,Kiev Connolly and the Missing Passengers,21,none
+858,858,1989,Belgium,Door de wind,Ingeborg,13,none
+859,859,1989,Luxembourg,Monsieur,Park Café,8,none
+860,860,1989,Turkey,Bana bana,Pan,5,none
+861,861,1989,Iceland,Það sem enginn sér,Daníel Augúst Haraldsson,0,none
+862,862,1988,Switzerland,Ne partez pas sans moi,Céline Dion,137,none
+863,863,1988,United KingdomUK,Go,Scott Fitzgerald,136,none
+864,864,1988,Denmark,Ka' du se hva' jeg sa'?,Kirsten & Søren,92,none
+865,865,1988,Luxembourg,Croire,Lara Fabian,90,none
+866,866,1988,Norway,For vår jord,Karoline Krüger,88,none
+867,867,1988,Yugoslavia,Mangup,Srebrna Krila,87,none
+868,868,1988,Israel,Ben Adam,Yardena Arazi,85,none
+869,869,1988,Ireland,Take Him Home,Jump the Gun,79,none
+870,870,1988,Netherlands,Shangri-La,Gerard Joling,70,none
+871,871,1988,France,Chanteur de charme,Gérard Lenorman,64,none
+872,872,1988,Spain,La chica que yo quiero (Made in Spain),La Década,58,none
+873,873,1988,Sweden,Stad i ljus,Tommy Körberg,52,none
+874,874,1988,Italy,Ti scrivo,Luca Barbarossa,52,none
+875,875,1988,Germany,Lied für einen Freund,Maxi & Chris Garden,48,none
+876,876,1988,Turkey,Sufi,MFÖ,37,none
+877,877,1988,Iceland,Sókrates,Beathoven,20,none
+878,878,1988,Greece,Kloun,Aphroditi Fryda,10,none
+879,879,1988,Belgium,Laissez briller le soleil,Reynaert,5,none
+880,880,1988,Portugal,Voltarei,Dora,5,none
+881,881,1988,Finland,Nauravat silmät muistetaan,Boulevard,3,none
+882,882,1988,Austria,"Lisa, Mona Lisa",Wilfried,0,none
+883,883,1987,Ireland,Hold Me Now,Johnny Logan,172,none
+884,884,1987,Germany,Laß die Sonne in dein Herz,Wind,141,none
+885,885,1987,Italy,Gente di mare,Umberto Tozzi and Raf,103,none
+886,886,1987,Yugoslavia,Ja sam za ples,Novi Fosili,92,none
+887,887,1987,Netherlands,Rechtop in de wind,Marcha,83,none
+888,888,1987,Denmark,En lille melodi,Anne-Cathrine Herdorf,83,none
+889,889,1987,Cyprus,Aspro mavro,Alexia,80,none
+890,890,1987,Israel,Shir Habatlanim,Datner & Kushnir,73,none
+891,891,1987,Norway,Mitt liv,Kate Gulbrandsen,65,none
+892,892,1987,Greece,Stop!,Bang,64,none
+893,893,1987,Belgium,Soldiers of Love,Liliane Saint-Pierre,56,none
+894,894,1987,Sweden,Boogaloo,Lotta Engberg,50,none
+895,895,1987,United KingdomUK,Only the Light,Rikki,47,none
+896,896,1987,France,Les mots d'amour n'ont pas de dimanche,Christine Minier,44,none
+897,897,1987,Finland,Sata salamaa,Vicky Rosti,32,none
+898,898,1987,Iceland,Hægt og hljótt,Halla Margarét,28,none
+899,899,1987,Switzerland,Moitié moitié,Carole Rich,26,none
+900,900,1987,Portugal,Neste barco à vela,Nevada,15,none
+901,901,1987,Spain,No estás solo,Patricia Kraus,10,none
+902,902,1987,Austria,Nur noch Gefühl,Gary Lux,8,none
+903,903,1987,Luxembourg,Amour amour,Plastic Bertrand,4,none
+904,904,1987,Turkey,Şarkım Sevgi Üstüne,Seyyal Taner & Lokomotif,0,none
+905,905,1986,Belgium,J'aime la vie,Sandra Kim,176,none
+906,906,1986,Switzerland,Pas pour moi,Daniela Simons,140,none
+907,907,1986,Luxembourg,L'amour de ma vie,Sherisse Laurence,117,none
+908,908,1986,Ireland,You Can Count On Me,Luv Bug,96,none
+909,909,1986,Sweden,E' de' det här du kallar kärlek?,Lasse Holm & Monica Törnell,78,none
+910,910,1986,Denmark,Du er fuld af løgn,Lise Haavik & Trax,77,none
+911,911,1986,United KingdomUK,Runner in the Night,Ryder,72,none
+912,912,1986,Germany,Über die Brücke geh'n,Ingrid Peters,62,none
+913,913,1986,Turkey,Halley,Klips ve Onlar,53,none
+914,914,1986,Spain,Valentino,Cadillac,51,none
+915,915,1986,Yugoslavia,Željo moja,Doris Dragović,49,none
+916,916,1986,Norway,Romeo,Ketil Stokkan,44,none
+917,917,1986,Netherlands,Alles heeft ritme,Frizzle Sizzle,40,none
+918,918,1986,Portugal,Não sejas mau para mim,Dora,28,none
+919,919,1986,Finland,Päivä kahden ihmisen,Kari Kuivalainen,22,none
+920,920,1986,Iceland,Gleðibankinn,Icy,19,none
+921,921,1986,France,Européennes,Cocktail Chic,13,none
+922,922,1986,Austria,Die Zeit ist einsam,Timna Brauer,12,none
+923,923,1986,Israel,Yavoh Yom,Moti Galadi & Sarai Tzuriel,7,none
+924,924,1986,Cyprus,Tora zo,Elpida,4,none
+925,925,1985,Norway,La det swinge,Bobbysocks,123,none
+926,926,1985,Germany,Für alle,Wind,105,none
+927,927,1985,Sweden,Bra vibrationer,Kikki Danielsson,103,none
+928,928,1985,United KingdomUK,Love Is...,Vikki,100,none
+929,929,1985,Israel,"Olé, Olé",Izhar Cohen,93,none
+930,930,1985,Ireland,Wait Until the Weekend Comes,Maria Christian,91,none
+931,931,1985,Italy,"Magic, oh magic",Al Bano and Romina Power,78,none
+932,932,1985,Austria,Kinder dieser Welt,Gary Lux,60,none
+933,933,1985,Finland,Eläköön elämä,Sonja Lumme,58,none
+934,934,1985,France,Femme dans ses rêves aussi,Roger Bens,56,none
+935,935,1985,Denmark,Sku' du spørg' fra no'en,Hot Eyes,41,none
+936,936,1985,Switzerland,"Piano, piano",Mariella Farré & Pino Gasparini,39,none
+937,937,1985,Luxembourg,"Children, Kinder, Enfants","Margo, Franck, Diane, Ireen, Malcolm & Chris",37,none
+938,938,1985,Spain,La fiesta terminó,Paloma San Basilio,36,none
+939,939,1985,Turkey,Didai didai dai,MFÖ,36,none
+940,940,1985,Cyprus,To katalava arga,Lia Vishy,15,none
+941,941,1985,Greece,Miazoume,Takis Biniaris,15,none
+942,942,1985,Portugal,"Penso em ti, eu sei",Adelaide,9,none
+943,943,1985,Belgium,Laat me nu gaan,Linda Lepomme,7,none
+944,944,1984,Sweden,Diggi-loo Diggy-ley,Herrey's,145,none
+945,945,1984,Ireland,Terminal 3,Linda Martin,137,none
+946,946,1984,Spain,"Lady, Lady",Bravo,106,none
+947,947,1984,Denmark,Det' lige det,Hot Eyes,101,none
+948,948,1984,Belgium,Avanti la vie,Jacques Zegers,70,none
+949,949,1984,Italy,I treni di Tozeur,Alice & Battiato,70,none
+950,950,1984,United KingdomUK,Love Games,Belle and the Devotions,63,none
+951,951,1984,France,Autant d'amoureux que d'étoiles,Annick Thoumazeau,61,none
+952,952,1984,Finland,Hengaillaan,Kirka,46,none
+953,953,1984,Luxembourg,100% d'amour,Sophie Carle,39,none
+954,954,1984,Portugal,Silêncio e tanta gente,Maria Guinot,38,none
+955,955,1984,Turkey,Halay,"Beş Yıl Önce, On Yıl Sonra",37,none
+956,956,1984,Netherlands,Ik hou van jou,Maribelle,34,none
+957,957,1984,Germany,Aufrecht geh'n,Mary Roos,34,none
+958,958,1984,Cyprus,Anna Maria Lena,Andy Paul,31,none
+959,959,1984,Switzerland,Welche Farbe hat der Sonnenschein?,Rainy Day,30,none
+960,960,1984,Norway,Lenge leve livet,Dollie de Luxe,29,none
+961,961,1984,Yugoslavia,Ciao amore,Vlado & Isolda,26,none
+962,962,1984,Austria,Einfach weg,Anita,5,none
+963,963,1983,Luxembourg,Si la vie est cadeau,Corinne Hermès,142,none
+964,964,1983,Israel,Hi,Ofra Haza,136,none
+965,965,1983,Sweden,Främling,Carola Häggkvist,126,none
+966,966,1983,Yugoslavia,Džuli,Danijel,125,none
+967,967,1983,Germany,Rücksicht,Hoffmann und Hoffmann,94,none
+968,968,1983,United KingdomUK,I'm Never Giving Up,Sweet Dreams,79,none
+969,969,1983,Netherlands,Sing Me a Song,Bernadette,66,none
+970,970,1983,France,Vivre,Guy Bonnet,56,none
+971,971,1983,Norway,Do re mi,Jahn Teigen,53,none
+972,972,1983,Austria,Hurricane,Westend,53,none
+973,973,1983,Italy,Per Lucia,Riccardo Fogli,41,none
+974,974,1983,Finland,Fantasiaa,Ami Aspelund,41,none
+975,975,1983,Portugal,Esta balada que te dou,Armando Gama,33,none
+976,976,1983,Greece,Mou les,Christie Stassinopoulou,32,none
+977,977,1983,Switzerland,Io così non ci sto,Mariella Farré,28,none
+978,978,1983,Cyprus,I agapi akoma zi,Stavros & Constantina,26,none
+979,979,1983,Denmark,Kloden drejer,Gry Johansen,16,none
+980,980,1983,Belgium,Rendez-vous,Pas de Deux,13,none
+981,981,1983,Turkey,Opera,Çetin Alp and the Short Wave,0,none
+982,982,1983,Spain,¿Quién maneja mi barca?,Remedios Amaya,0,none
+983,983,1982,Germany,Ein bißchen Frieden,Nicole,161,none
+984,984,1982,Israel,Hora,Avi Toledano,100,none
+985,985,1982,Switzerland,Amour on t'aime,Arlette Zola,97,none
+986,986,1982,Belgium,Si tu aimes ma musique,Stella,96,none
+987,987,1982,Cyprus,Mono i agapi,Anna Vissi,85,none
+988,988,1982,Luxembourg,Cours après le temps,Svetlana,78,none
+989,989,1982,United KingdomUK,One Step Further,Bardo,76,none
+990,990,1982,Sweden,Dag efter dag,Chips,67,none
+991,991,1982,Austria,Sonntag,Mess,57,none
+992,992,1982,Spain,Él,Lucía,52,none
+993,993,1982,Ireland,"Here Today, Gone Tomorrow",The Duskeys,49,none
+994,994,1982,Norway,Adieu,Jahn Teigen & Anita Skorgan,40,none
+995,995,1982,Portugal,Bem bom,Doce,32,none
+996,996,1982,Yugoslavia,"Halo, halo",Aska,21,none
+997,997,1982,Turkey,Hani?,Neco,20,none
+998,998,1982,Netherlands,Jij en ik,Bill van Dijk,8,none
+999,999,1982,Denmark,Video video,Brixx,5,none
+1000,1000,1982,Finland,Nuku pommiin,Kojo,0,none
+1001,1001,1981,United KingdomUK,Making Your Mind Up,Bucks Fizz,136,none
+1002,1002,1981,Germany,Johnny Blue,Lena Valaitis,132,none
+1003,1003,1981,France,Humanahum,Jean Gabilou,125,none
+1004,1004,1981,Switzerland,Io senza te,"Peter, Sue & Marc",121,none
+1005,1005,1981,Ireland,Horoscopes,Sheeba,105,none
+1006,1006,1981,Cyprus,Monika,Island,69,none
+1007,1007,1981,Israel,Halaylah,Habibi,56,none
+1008,1008,1981,Greece,Feggari kalokerino,Yiannis Dimitras,55,none
+1009,1009,1981,Netherlands,Het is een wonder,Linda Williams,51,none
+1010,1010,1981,Sweden,Fångad i en dröm,Björn Skifs,50,none
+1011,1011,1981,Luxembourg,C'est peut-être pas l'Amérique,Jean-Claude Pascal,41,none
+1012,1012,1981,Denmark,Krøller eller ej,Debbie Cameron & Tommy Seebach,41,none
+1013,1013,1981,Belgium,Samson,Emly Starr,40,none
+1014,1014,1981,Spain,Y sólo tú,Bacchelli,38,none
+1015,1015,1981,Yugoslavia,Lejla,Seid-Memić Vajta,35,none
+1016,1016,1981,Finland,Reggae O.K.,Riki Sorsa,27,none
+1017,1017,1981,Austria,Wenn du da bist,Marty Brem,20,none
+1018,1018,1981,Turkey,Dönme Dolap,Modern Folk Trio & Ayşegül,9,none
+1019,1019,1981,Portugal,Play-back,Carlos Paião,9,none
+1020,1020,1981,Norway,Aldri i livet,Finn Kalvik,0,none
+1021,1021,1980,Ireland,What's Another Year,Johnny Logan,143,none
+1022,1022,1980,Germany,Theater,Katja Ebstein,128,none
+1023,1023,1980,United KingdomUK,Love Enough for Two,Prima Donna,106,none
+1024,1024,1980,Switzerland,Cinéma,Paola,104,none
+1025,1025,1980,Netherlands,Amsterdam,Maggie MacNeal,93,none
+1026,1026,1980,Italy,Non so che darei,Alan Sorrenti,87,none
+1027,1027,1980,Portugal,"Um grande, grande amor",José Cid,71,none
+1028,1028,1980,Austria,Du bist Musik,Blue Danube,64,none
+1029,1029,1980,Luxembourg,Papa Pingouin,Sophie & Magaly,56,none
+1030,1030,1980,Sweden,Just nu!,Tomas Ledin,47,none
+1031,1031,1980,France,"Hé, hé m'sieurs dames",Profil,45,none
+1032,1032,1980,Spain,Quédate esta noche,Trigo Limpio,38,none
+1033,1033,1980,Greece,Autostop,Anna Vissi and the Epikouri,30,none
+1034,1034,1980,Denmark,Tænker altid på dig,Bamses Venner,25,none
+1035,1035,1980,Turkey,Petr'oil,Ajda Pekkan,23,none
+1036,1036,1980,Norway,Sámiid ædnan,Sverre Kjellsberg & Mattis Hætta,15,none
+1037,1037,1980,Belgium,Euro-vision,Telex,14,none
+1038,1038,1980,Morocco,Bitakat Hob,Samira Bensaïd,7,none
+1039,1039,1980,Finland,Huilumies,Vesa-Matti Loiri,6,none
+1040,1040,1979,Israel,Hallelujah,Milk and Honey,125,none
+1041,1041,1979,Spain,Su canción,Betty Missiego,116,none
+1042,1042,1979,France,Je suis l'enfant-soleil,Anne-Marie David,106,none
+1043,1043,1979,Germany,Dschinghis Khan,Dschinghis Khan,86,none
+1044,1044,1979,Ireland,Happy Man,Cathal Dunne,80,none
+1045,1045,1979,Denmark,Disco tango,Tommy Seebach,76,none
+1046,1046,1979,United KingdomUK,Mary Ann,Black Lace,73,none
+1047,1047,1979,Greece,Socrati,Elpida,69,none
+1048,1048,1979,Portugal,"Sobe, sobe, balão sobe",Manuela Bravo,64,none
+1049,1049,1979,Switzerland,Trödler & Co,"Peter, Sue & Marc and Pfuri, Gorps & Kniri",60,none
+1050,1050,1979,Norway,Oliver,Anita Skorgan,57,none
+1051,1051,1979,Netherlands,Colorado,Xandra,51,none
+1052,1052,1979,Luxembourg,J'ai déjà vu ça dans tes yeux,Jeane Manson,44,none
+1053,1053,1979,Finland,Katson sineen taivaan,Katri Helena,38,none
+1054,1054,1979,Italy,Raggio di luna,Matia Bazar,27,none
+1055,1055,1979,Monaco,Notre vie c'est la musique,Laurent Vaguener,12,none
+1056,1056,1979,Sweden,Satellit,Ted Gärdestad,8,none
+1057,1057,1979,Belgium,Hey Nana,Micha Marah,5,none
+1058,1058,1979,Austria,Heute in Jerusalem,Christina Simon,5,none
+1059,1059,1978,Israel,A-Ba-Ni-Bi,Izhar Cohen and the Alphabeta,157,none
+1060,1060,1978,Belgium,L'amour ça fait chanter la vie,Jean Vallée,125,none
+1061,1061,1978,France,Il y aura toujours des violons,Joël Prévost,119,none
+1062,1062,1978,Monaco,Les jardins de Monaco,Caline and Olivier Toussaint,107,none
+1063,1063,1978,Ireland,Born to Sing,Colm T. Wilkinson,86,none
+1064,1064,1978,Germany,Feuer,Ireen Sheer,84,none
+1065,1065,1978,Luxembourg,Parlez-vous français ?,Baccara,73,none
+1066,1066,1978,Greece,Charlie Chaplin,Tania Tsanaklidou,66,none
+1067,1067,1978,Spain,Bailemos un vals,José Vélez,65,none
+1068,1068,1978,Switzerland,Vivre,Carole Vinci,65,none
+1069,1069,1978,United KingdomUK,The Bad Old Days,Co-Co,61,none
+1070,1070,1978,Italy,Questo amore,Ricchi e Poveri,53,none
+1071,1071,1978,Netherlands,'t Is OK,Harmony,37,none
+1072,1072,1978,Sweden,Det blir alltid värre framåt natten,Björn Skifs,26,none
+1073,1073,1978,Austria,Mrs. Caroline Robinson,Springtime,14,none
+1074,1074,1978,Denmark,Boom Boom,Mabel,13,none
+1075,1075,1978,Portugal,Dai-li-dou,Gemini,5,none
+1076,1076,1978,Finland,Anna rakkaudelle tilaisuus,Seija Simola,2,none
+1077,1077,1978,Turkey,Sevince,Nazar,2,none
+1078,1078,1978,Norway,Mil etter mil,Jahn Teigen,0,none
+1079,1079,1977,France,L'Oiseau et l'Enfant,Marie Myriam,136,none
+1080,1080,1977,United KingdomUK,Rock Bottom,Lynsey de Paul & Mike Moran,121,none
+1081,1081,1977,Ireland,It's Nice to Be in Love Again,The Swarbriggs Plus Two,119,none
+1082,1082,1977,Monaco,Une petite Française,Michèle Torr,96,none
+1083,1083,1977,Greece,Mathima solfez,"Pascalis, Marianna, Robert & Bessy",92,none
+1084,1084,1977,Switzerland,Swiss Lady,Pepe Lienhard Band,71,none
+1085,1085,1977,Belgium,"A Million in One, Two, Three",Dream Express,69,none
+1086,1086,1977,Germany,Telegram,Silver Convention,55,none
+1087,1087,1977,Spain,Enséñame a cantar,Micky,52,none
+1088,1088,1977,Finland,Lapponia,Monica Aspelund,50,none
+1089,1089,1977,Israel,Ah-haa-vah Hee Shir Lish-naa-yim,Ilanit,49,none
+1090,1090,1977,Netherlands,De mallemolen,Heddy Lester,35,none
+1091,1091,1977,Italy,Libera,Mia Martini,33,none
+1092,1092,1977,Norway,Casanova,Anita Skorgan,18,none
+1093,1093,1977,Portugal,Portugal no coração,Os Amigos,18,none
+1094,1094,1977,Luxembourg,Frère Jacques,Anne Marie B.,17,none
+1095,1095,1977,Austria,Boom Boom Boomerang,Schmetterlinge,11,none
+1096,1096,1977,Sweden,Beatles,Forbes,2,none
+1097,1097,1976,United KingdomUK,Save Your Kisses for Me,Brotherhood of Man,164,none
+1098,1098,1976,France,"Un, deux, trois",Catherine Ferry,147,none
+1099,1099,1976,Monaco,"Toi, la musique et moi",Mary Christy,93,none
+1100,1100,1976,Switzerland,"Djambo, Djambo","Peter, Sue & Marc",91,none
+1101,1101,1976,Austria,My Little World,Waterloo & Robinson,80,none
+1102,1102,1976,Israel,Emor Shalom,"Chocolate, Menta, Mastik",77,none
+1103,1103,1976,Italy,We'll Live It All Again,Romina & Al Bano,69,none
+1104,1104,1976,Belgium,Judy et Cie,Pierre Rapsat,68,none
+1105,1105,1976,Netherlands,The Party's Over Now,Sandra Reemer,56,none
+1106,1106,1976,Ireland,When,Red Hurley,54,none
+1107,1107,1976,Finland,Pump-Pump,Fredi and The Friends,44,none
+1108,1108,1976,Portugal,Uma flor de verde pinho,Carlos do Carmo,24,none
+1109,1109,1976,Greece,"Panaghia mou, panaghia mou",Mariza Koch,20,none
+1110,1110,1976,Luxembourg,Chansons pour ceux qui s'aiment,Jürgen Marcus,17,none
+1111,1111,1976,Germany,"Sing, Sang, Song",Les Humphries Singers,12,none
+1112,1112,1976,Spain,Sobran las palabras,Braulio,11,none
+1113,1113,1976,Yugoslavia,Ne mogu skriti svoj bol,Ambasadori,10,none
+1114,1114,1976,Norway,Mata Hari,Anne-Karine Ström,7,none
+1115,1115,1975,Netherlands,Ding-a-dong,Teach-In,152,none
+1116,1116,1975,United KingdomUK,Let Me Be the One,The Shadows,138,none
+1117,1117,1975,Italy,Era,Wess & Dori Ghezzi,115,none
+1118,1118,1975,France,Et bonjour à toi l'artiste,Nicole Rieu,91,none
+1119,1119,1975,Luxembourg,Toi,Géraldine,84,none
+1120,1120,1975,Switzerland,Mikado,Simone Drexel,77,none
+1121,1121,1975,Finland,Old Man Fiddle,Pihasoittajat,74,none
+1122,1122,1975,Sweden,"Jennie, Jennie",Lars Berghagen and the Dolls,72,none
+1123,1123,1975,Ireland,That's What Friends Are For,The Swarbriggs,68,none
+1124,1124,1975,Spain,Tú volverás,Sergio & Estíbaliz,53,none
+1125,1125,1975,Israel,At Va'Ani,Shlomo Artzi,40,none
+1126,1126,1975,Malta,Singing This Song,Renato,32,none
+1127,1127,1975,Yugoslavia,Dan ljubezni,Pepel In Kri,22,none
+1128,1128,1975,Monaco,Une chanson c'est une lettre,Sophie,22,none
+1129,1129,1975,Belgium,Gelukkig zijn,Ann Christy,17,none
+1130,1130,1975,Portugal,Madrugada,Duarte Mendes,16,none
+1131,1131,1975,Germany,Ein Lied kann eine Brücke sein,Joy Fleming,15,none
+1132,1132,1975,Norway,Touch My Life with Summer,Ellen Nikolaysen,11,none
+1133,1133,1975,Turkey,Seninle bir dakika,Semiha Yankı,3,none
+1134,1134,1974,Sweden,Waterloo,A,24,none
+1135,1135,1974,Italy,Sì,Gigliola Cinquetti,18,none
+1136,1136,1974,Netherlands,I See a Star,Mouth & MacNeal,15,none
+1137,1137,1974,United KingdomUK,Long Live Love,Olivia Newton-John,14,none
+1138,1138,1974,Luxembourg,Bye Bye I Love You,Ireen Sheer,14,none
+1139,1139,1974,Monaco,Celui qui reste et celui qui s'en va,Romuald,14,none
+1140,1140,1974,Israel,Natati La Khayay,Kaveret (Poogy),11,none
+1141,1141,1974,Ireland,Cross Your Heart,Tina,11,none
+1142,1142,1974,Spain,Canta y sé feliz,Peret,10,none
+1143,1143,1974,Belgium,Fleur de liberté,Jacques Hustin,10,none
+1144,1144,1974,Greece,"Krassi, thalassa ke t' agori mou",Marinella,7,none
+1145,1145,1974,Yugoslavia,Generacija '42,Korni,6,none
+1146,1146,1974,Finland,Älä mene pois (Keep Me Warm),Carita,4,none
+1147,1147,1974,Norway,The First Day of Love,Anne-Karine Ström and the Bendik Singers,3,none
+1148,1148,1974,Germany,Die Sommermelodie,Cindy & Bert,3,none
+1149,1149,1974,Switzerland,Mein Ruf nach dir,Piera Martell,3,none
+1150,1150,1974,Portugal,E depois do adeus,Paulo de Carvalho,3,none
+1151,1151,1973,Luxembourg,Tu te reconnaîtras,Anne-Marie David,129,none
+1152,1152,1973,Spain,Eres tú,Mocedades,125,none
+1153,1153,1973,United KingdomUK,Power to All Our Friends,Cliff Richard,123,none
+1154,1154,1973,Israel,Ey Sham,Ilanit,97,none
+1155,1155,1973,Sweden,You're Summer,The Nova and The Dolls,94,none
+1156,1156,1973,Finland,Tom Tom Tom,Marion Rung,93,none
+1157,1157,1973,Norway,It's Just a Game,Bendik Singers,89,none
+1158,1158,1973,Germany,Junger Tag,Gitte,85,none
+1159,1159,1973,Monaco,Un train qui part,Marie,85,none
+1160,1160,1973,Portugal,Tourada,Fernando Tordo,80,none
+1161,1161,1973,Ireland,Do I Dream,Maxi,80,none
+1162,1162,1973,Switzerland,"Je vais me marier, Marie",Patrick Juvet,79,none
+1163,1163,1973,Italy,Chi sarà con te,Massimo Ranieri,74,none
+1164,1164,1973,Netherlands,De oude muzikant,Ben Cramer,69,none
+1165,1165,1973,Yugoslavia,Gori vatra,Zdravko Čolić,65,none
+1166,1166,1973,France,Sans toi,Martine Clémenceau,65,none
+1167,1167,1973,Belgium,"Baby, Baby",Nicole and Hugo,58,none
+1168,1168,1972,Luxembourg,Après toi,Vicky Leandros,128,none
+1169,1169,1972,United KingdomUK,"Beg, Steal or Borrow",The New Seekers,114,none
+1170,1170,1972,Germany,Nur die Liebe läßt uns leben,Mary Roos,107,none
+1171,1171,1972,Netherlands,Als het om de liefde gaat,Sandra & Andres,106,none
+1172,1172,1972,Austria,Falter im Wind,The Milestones,100,none
+1173,1173,1972,Italy,I giorni dell'arcobaleno,Nicola di Bari,92,none
+1174,1174,1972,Portugal,A festa da vida,Carlos Mendes,90,none
+1175,1175,1972,Switzerland,C'est la chanson de mon amour,Véronique Müller,88,none
+1176,1176,1972,Yugoslavia,Muzika i ti,Tereza,87,none
+1177,1177,1972,Spain,Amanece,Jaime Morey,83,none
+1178,1178,1972,France,Comé-comédie,Betty Mars,81,none
+1179,1179,1972,Finland,Muistathan,Päivi Paunu and Kim Floor,78,none
+1180,1180,1972,Sweden,Härliga sommardag,Family Four,75,none
+1181,1181,1972,Norway,Småting,Grethe Kausland & Benny Borg,73,none
+1182,1182,1972,Ireland,Ceol an Ghrá,Sandie Jones,72,none
+1183,1183,1972,Monaco,Comme on s'aime,Anne-Marie Godart and Peter MacLane,65,none
+1184,1184,1972,Belgium,À la folie ou pas du tout,Serge and Christine Ghisoland,55,none
+1185,1185,1972,Malta,L-imħabba,Helen & Joseph,48,none
+1186,1186,1971,Monaco,"Un banc, un arbre, une rue",Séverine,128,none
+1187,1187,1971,Spain,En un mundo nuevo,Karina,116,none
+1188,1188,1971,Germany,Diese Welt,Katja Ebstein,100,none
+1189,1189,1971,United KingdomUK,Jack in the Box,Clodagh Rodgers,98,none
+1190,1190,1971,Italy,L'amore è un attimo,Massimo Ranieri,91,none
+1191,1191,1971,Sweden,Vita vidder,Family Four,85,none
+1192,1192,1971,Netherlands,Tijd,Saskia & Serge,85,none
+1193,1193,1971,Finland,Tie uuteen päivään,Markku Aro and Koivisto Sisters,84,none
+1194,1194,1971,Portugal,Menina do alto da serra,Tonicha,83,none
+1195,1195,1971,France,Un jardin sur la terre,Serge Lama,82,none
+1196,1196,1971,Ireland,One Day Love,Angela Farrell,79,none
+1197,1197,1971,Switzerland,Les illusions de nos vingt ans,"Peter, Sue and Marc",78,none
+1198,1198,1971,Luxembourg,"Pomme, pomme, pomme",Monique Melsen,70,none
+1199,1199,1971,Belgium,"Goeie morgen, morgen",Lily Castel & Jacques Raymond,68,none
+1200,1200,1971,Yugoslavia,Tvoj dječak je tužan,Krunoslav Slabinac,68,none
+1201,1201,1971,Austria,Musik,Marianne Mendt,66,none
+1202,1202,1971,Norway,Lykken er...,Hanne Krogh,65,none
+1203,1203,1971,Malta,Marija l-Maltija,Joe Grech,52,none
+1204,1204,1970,Ireland,All Kinds of Everything,Dana,32,none
+1205,1205,1970,United KingdomUK,"Knock, Knock (Who's There?)",Mary Hopkin,26,none
+1206,1206,1970,Germany,Wunder gibt es immer wieder,Katja Ebstein,12,none
+1207,1207,1970,Switzerland,Retour,Henri Dès,8,none
+1208,1208,1970,France,Marie-Blanche,Guy Bonnet,8,none
+1209,1209,1970,Spain,Gwendolyne,Julio Iglesias,8,none
+1210,1210,1970,Netherlands,Waterman,Patricia & Hearts of Soul,7,none
+1211,1211,1970,Italy,Occhi di ragazza,Gianni Morandi,5,none
+1212,1212,1970,Belgium,Viens l'oublier,Jean Vallée,5,none
+1213,1213,1970,Monaco,Marlène,Dominique Dussault,5,none
+1214,1214,1970,Yugoslavia,"Pridi, dala ti bom cvet",Eva Sršen,4,none
+1215,1215,1970,Luxembourg,Je suis tombé du ciel,David-Alexandre Winter,0,none
+1216,1216,1969,Spain,Vivo cantando,Salomé,18,none
+1217,1217,1969,United KingdomUK,Boom Bang-a-Bang,Lulu,18,none
+1218,1218,1969,Netherlands,De troubadour,Lenny Kuhr,18,none
+1219,1219,1969,France,"Un jour, un enfant",Frida Boccara,18,none
+1220,1220,1969,Switzerland,"Bonjour, Bonjour",Paola del Medico,13,none
+1221,1221,1969,Monaco,"Maman, Maman",Jean-Jacques,11,none
+1222,1222,1969,Ireland,The Wages of Love,Muriel Day and the Lindsays,10,none
+1223,1223,1969,Belgium,Jennifer Jennings,Louis Neefs,10,none
+1224,1224,1969,Sweden,"Judy, min vän",Tommy Körberg,8,none
+1225,1225,1969,Germany,Primaballerina,Siw Malmkvist,8,none
+1226,1226,1969,Luxembourg,Catherine,Romuald,7,none
+1227,1227,1969,Finland,Kuin silloin ennen,Jarkko & Laura,6,none
+1228,1228,1969,Yugoslavia,Pozdrav svijetu,Ivan & M's,5,none
+1229,1229,1969,Italy,Due grosse lacrime bianche,Iva Zanicchi,5,none
+1230,1230,1969,Portugal,Desfolhada portuguesa,Simone de Oliveira,4,none
+1231,1231,1969,Norway,"Oj, oj, oj, så glad jeg skal bli",Kirsti Sparboe,1,none
+1232,1232,1968,Spain,"La, la, la",Massiel,29,none
+1233,1233,1968,United KingdomUK,Congratulations,Cliff Richard,28,none
+1234,1234,1968,France,La Source,Isabelle Aubret,20,none
+1235,1235,1968,Ireland,Chance of a Lifetime,Pat McGeegan,18,none
+1236,1236,1968,Sweden,"Det börjar verka kärlek, banne mej",Claes-Göran Hederström,15,none
+1237,1237,1968,Germany,Ein Hoch der Liebe,Wencke Myhre,11,none
+1238,1238,1968,Belgium,Quand tu reviendras,Claude Lombard,8,none
+1239,1239,1968,Monaco,À chacun sa chanson,Line & Willy,8,none
+1240,1240,1968,Yugoslavia,Jedan dan,Lući Kapurso & Hamo Hajdarhodžić,8,none
+1241,1241,1968,Italy,Marianne,Sergio Endrigo,7,none
+1242,1242,1968,Portugal,Verão,Carlos Mendes,5,none
+1243,1243,1968,Luxembourg,Nous vivrons d'amour,Chris Baldo & Sophie Garel,5,none
+1244,1244,1968,Austria,Tausend Fenster,Karel Gott,2,none
+1245,1245,1968,Switzerland,Guardando il sole,Gianni Mascolo,2,none
+1246,1246,1968,Norway,Stress,Odd Børre,2,none
+1247,1247,1968,Netherlands,Morgen,Ronnie Tober,1,none
+1248,1248,1968,Finland,Kun kello käy,Kristina Hautala,1,none
+1249,1249,1967,United KingdomUK,Puppet on a String,Sandie Shaw,47,none
+1250,1250,1967,Ireland,If I Could Choose,Sean Dunphy,22,none
+1251,1251,1967,France,Il doit faire beau là-bas,Noëlle Cordier,20,none
+1252,1252,1967,Luxembourg,L'amour est bleu,Vicky,17,none
+1253,1253,1967,Monaco,Boum-badaboum,Minouche Barelli,10,none
+1254,1254,1967,Spain,Hablemos del amor,Raphael,9,none
+1255,1255,1967,Belgium,Ik heb zorgen,Louis Neefs,8,none
+1256,1256,1967,Sweden,Som en dröm,Östen Warnerbring,7,none
+1257,1257,1967,Germany,Anouschka,Inge Brück,7,none
+1258,1258,1967,Yugoslavia,Vse rože sveta,Lado Leskovar,7,none
+1259,1259,1967,Italy,Non andare più lontano,Claudio Villa,4,none
+1260,1260,1967,Portugal,O vento mudou,Eduardo Nascimento,3,none
+1261,1261,1967,Finland,Varjoon-suojaan,Fredi,3,none
+1262,1262,1967,Netherlands,Ring-dinge,Thérèse Steinmetz,2,none
+1263,1263,1967,Austria,Warum es hunderttausend Sterne gibt,Peter Horten,2,none
+1264,1264,1967,Norway,Dukkemann,Kirsti Sparboe,2,none
+1265,1265,1967,Switzerland,Quel cœur vas-tu briser ?,Géraldine,0,none
+1266,1266,1966,Austria,Merci Chérie,Udo Jürgens,31,none
+1267,1267,1966,Sweden,Nygammal vals,Lill Lindfors & Svante Thuresson,16,none
+1268,1268,1966,Norway,Intet er nytt under solen,Åse Kleveland,15,none
+1269,1269,1966,Belgium,"Un peu de poivre, un peu de sel",Tonia,14,none
+1270,1270,1966,Ireland,Come Back to Stay,Dickie Rock,14,none
+1271,1271,1966,Switzerland,Ne vois-tu pas ?,Madeleine Pascal,12,none
+1272,1272,1966,Yugoslavia,Brez besed,Berta Ambrož,9,none
+1273,1273,1966,Spain,Yo soy aquél,Raphael,9,none
+1274,1274,1966,United KingdomUK,A Man Without Love,Kenneth McKellar,8,none
+1275,1275,1966,Germany,Die Zeiger der Uhr,Margot Eskens,7,none
+1276,1276,1966,Luxembourg,Ce soir je t'attendais,Michèle Torr,7,none
+1277,1277,1966,Finland,Playboy,Ann-Christine Nyström,7,none
+1278,1278,1966,Portugal,Ele e ela,Madalena Iglésias,6,none
+1279,1279,1966,Denmark,"Stop, mens legen er go'",Ulla Pia,4,none
+1280,1280,1966,Netherlands,Fernando en Philippo,Milly Scott,2,none
+1281,1281,1966,France,Chez nous,Dominique Walter,1,none
+1282,1282,1966,Monaco,Bien plus fort,Tereza,0,none
+1283,1283,1966,Italy,"Dio, come ti amo",Domenico Modugno,0,none
+1284,1284,1965,Luxembourg,"Poupée de cire, poupée de son",France Gall,32,none
+1285,1285,1965,United KingdomUK,I Belong,Kathy Kirby,26,none
+1286,1286,1965,France,N'avoue jamais,Guy Mardel,22,none
+1287,1287,1965,Austria,"Sag ihr, ich lass sie grüßen",Udo Jürgens,16,none
+1288,1288,1965,Italy,"Se piangi, se ridi",Bobby Solo,15,none
+1289,1289,1965,Ireland,I'm Walking the Streets in the Rain,Butch Moore,11,none
+1290,1290,1965,Denmark,For din skyld,Birgit Brüel,10,none
+1291,1291,1965,Switzerland,"Non, à jamais sans toi",Yovanna,8,none
+1292,1292,1965,Monaco,Va dire à l'amour,Marjorie Noël,7,none
+1293,1293,1965,Sweden,Absent Friend,Ingvar Wixell,6,none
+1294,1294,1965,Netherlands,Het is genoeg,Conny Van den bos,5,none
+1295,1295,1965,Yugoslavia,Čežnja,Vice Vukov,2,none
+1296,1296,1965,Norway,Karusell,Kirsti Sparboe,1,none
+1297,1297,1965,Portugal,Sol de inverno,Simone de Oliveira,1,none
+1298,1298,1965,Spain,"Qué bueno, qué bueno",Conchita Bautista,0,none
+1299,1299,1965,Germany,"Paradies, wo bist du",Ulla Wiesner,0,none
+1300,1300,1965,Belgium,Als het weer lente is,Lize Marke,0,none
+1301,1301,1965,Finland,Aurinko laskee länteen,Viktor Klimenko,0,none
+1302,1302,1964,Italy,Non ho l'età,Gigliola Cinquetti,49,none
+1303,1303,1964,United KingdomUK,I Love the Little Things,Matt Monro,17,none
+1304,1304,1964,Monaco,Où sont-elles passées?,Romuald,15,none
+1305,1305,1964,Luxembourg,Dès que le printemps revient,Hugues Aufray,14,none
+1306,1306,1964,France,Le Chant de Mallory,Rachel,14,none
+1307,1307,1964,Austria,"Warum nur, warum?",Udo Jürgens,11,none
+1308,1308,1964,Finland,Laiskotellen,Lasse Mårtenson,9,none
+1309,1309,1964,Norway,Spiral,Arne Bendiksen,6,none
+1310,1310,1964,Denmark,Sangen om dig,Bjørn Tidmand,4,none
+1311,1311,1964,Netherlands,Jij bent mijn leven,Anneke Grönloh,2,none
+1312,1312,1964,Belgium,Près de ma rivière,Robert Cogoi,2,none
+1313,1313,1964,Spain,Caracola,"Tim, Nelly and Tony",1,none
+1314,1314,1964,Germany,Man gewöhnt sich so schnell an das Schöne,Nora Nova,0,none
+1315,1315,1964,Portugal,Oração,António Calvário,0,none
+1316,1316,1964,Yugoslavia,Život je sklopio krug,Sabahudin Kurt,0,none
+1317,1317,1964,Switzerland,I miei pensieri,Anita Traversi,0,none
+1318,1318,1963,Denmark,Dansevise,Grethe & Jørgen Ingmann,42,none
+1319,1319,1963,Switzerland,T'en vas pas,Esther Ofarim,40,none
+1320,1320,1963,Italy,Uno per tutte,Emilio Pericoli,37,none
+1321,1321,1963,United KingdomUK,Say Wonderful Things,Ronnie Carroll,28,none
+1322,1322,1963,France,Elle était si jolie,Alain Barrière,25,none
+1323,1323,1963,Monaco,L'amour s'en va,Françoise Hardy,25,none
+1324,1324,1963,Austria,Vielleicht geschieht ein Wunder,Carmela Corren,16,none
+1325,1325,1963,Luxembourg,À force de prier,Nana Mouskouri,13,none
+1326,1326,1963,Germany,Marcel,Heidi Brühl,5,none
+1327,1327,1963,Belgium,Waarom?,Jacques Raymond,4,none
+1328,1328,1963,Yugoslavia,Brodovi,Vice Vukov,3,none
+1329,1329,1963,Spain,Algo prodigioso,José Guardiola,2,none
+1330,1330,1963,Netherlands,Een speeldoos,Annie Palmen,0,none
+1331,1331,1963,Norway,Solhverv,Anita Thallaug,0,none
+1332,1332,1963,Finland,Muistojeni laulu,Laila Halme,0,none
+1333,1333,1963,Sweden,En gång i Stockholm,Monica Zetterlund,0,none
+1334,1334,1962,France,Un premier amour,Isabelle Aubret,26,none
+1335,1335,1962,Monaco,Dis rien,François Deguelt,13,none
+1336,1336,1962,Luxembourg,Petit bonhomme,Camillo Felgen,11,none
+1337,1337,1962,Yugoslavia,Ne pali svetla u sumrak,Lola Novaković,10,none
+1338,1338,1962,United KingdomUK,Ring-A-Ding Girl,Ronnie Carroll,10,none
+1339,1339,1962,Germany,Zwei kleine Italiener,Conny Froboess,9,none
+1340,1340,1962,Finland,Tipi-tii,Marion Rung,4,none
+1341,1341,1962,Sweden,Sol och vår,Inger Berggren,4,none
+1342,1342,1962,Italy,"Addio, addio",Claudio Villa,3,none
+1343,1343,1962,Denmark,Vuggevise,Ellen Winther,2,none
+1344,1344,1962,Norway,"Kom sol, kom regn",Inger Jacobsen,2,none
+1345,1345,1962,Switzerland,Le Retour,Jean Philippe,2,none
+1346,1346,1962,Belgium,Ton nom,Fud Leclerc,0,none
+1347,1347,1962,Spain,Llámame,Victor Balaguer,0,none
+1348,1348,1962,Austria,Nur in der Wiener Luft,Eleonore Schwarz,0,none
+1349,1349,1962,Netherlands,Katinka,De Spelbrekers,0,none
+1350,1350,1961,Luxembourg,Nous les amoureux,Jean-Claude Pascal,31,none
+1351,1351,1961,United KingdomUK,Are You Sure?,The Allisons,24,none
+1352,1352,1961,Switzerland,Nous aurons demain,Franca di Rienzo,16,none
+1353,1353,1961,France,"Printemps, avril carillonne",Jean-Paul Mauric,13,none
+1354,1354,1961,Denmark,Angelique,Dario Campeotto,12,none
+1355,1355,1961,Italy,Al di là,Betty Curtis,12,none
+1356,1356,1961,Norway,Sommer i Palma,Nora Brockstedt,10,none
+1357,1357,1961,Yugoslavia,Neke davne zvezde,Ljiljana Petrović,9,none
+1358,1358,1961,Spain,Estando contigo,Conchita Bautista,8,none
+1359,1359,1961,Monaco,"Allons, allons les enfants",Colette Deréal,6,none
+1360,1360,1961,Finland,Valoa ikkunassa,Laila Kinnunen,6,none
+1361,1361,1961,Netherlands,Wat een dag,Greetje Kauffeld,6,none
+1362,1362,1961,Germany,Einmal sehen wir uns wieder,Lale Andersen,3,none
+1363,1363,1961,Sweden,"April, april",Lill-Babs,2,none
+1364,1364,1961,Austria,Sehnsucht,Jimmy Makulis,1,none
+1365,1365,1961,Belgium,"September, gouden roos",Bob Benny,1,none
+1366,1366,1960,France,Tom Pillibi,Jacqueline Boyer,32,none
+1367,1367,1960,United KingdomUK,"Looking High, High, High",Bryan Johnson,25,none
+1368,1368,1960,Monaco,Ce soir-là,François Deguelt,15,none
+1369,1369,1960,Norway,Voi-voi,Nora Brockstedt,11,none
+1370,1370,1960,Germany,Bonne nuit ma chérie,Wyn Hoop,11,none
+1371,1371,1960,Belgium,Mon amour pour toi,Fud Leclerc,9,none
+1372,1372,1960,Austria,Du hast mich so fasziniert,Harry Winter,6,none
+1373,1373,1960,Switzerland,Cielo e terra,Anita Traversi,5,none
+1374,1374,1960,Italy,Romantica,Renato Rascel,5,none
+1375,1375,1960,Sweden,Alla andra får varann,Siw Malmkvist,4,none
+1376,1376,1960,Denmark,Det var en yndig tid,Katy Bødtger,4,none
+1377,1377,1960,Netherlands,Wat een geluk,Rudi Carrell,2,none
+1378,1378,1960,Luxembourg,So laang we's du do bast,Camillo Felgen,1,none
+1379,1379,1959,Netherlands,Een beetje,Teddy Scholten,21,none
+1380,1380,1959,United KingdomUK,Sing Little Birdie,Pearl Carr & Teddy Johnson,16,none
+1381,1381,1959,France,"Oui, oui, oui, oui",Jean Philippe,15,none
+1382,1382,1959,Switzerland,Irgendwoher,Christa Williams,14,none
+1383,1383,1959,Denmark,"Uh, jeg ville ønske jeg var dig",Birthe Wilke,12,none
+1384,1384,1959,Italy,Piove,Domenico Modugno,9,none
+1385,1385,1959,Belgium,Hou toch van mij,Bob Benny,9,none
+1386,1386,1959,Germany,Heut' woll'n wir tanzen geh'n,Alice and Ellen Kessler,5,none
+1387,1387,1959,Sweden,Augustin,Brita Borg,4,none
+1388,1388,1959,Austria,Der K. und K. Kalypso aus Wien,Ferry Graf,4,none
+1389,1389,1959,Monaco,Mon ami Pierrot,Jacques Pills,1,none
+1390,1390,1958,France,Dors mon amour,André Claveau,27,none
+1391,1391,1958,Switzerland,Giorgio,Lys Assia,24,none
+1392,1392,1958,Italy,"Nel blu, dipinto di blu",Domenico Modugno,13,none
+1393,1393,1958,Sweden,Lilla stjärna,Alice Babs,10,none
+1394,1394,1958,Belgium,Ma petite chatte,Fud Leclerc,8,none
+1395,1395,1958,Austria,Die ganze Welt braucht Liebe,Liane Augustin,8,none
+1396,1396,1958,Germany,Für zwei Groschen Musik,Margot Hielscher,5,none
+1397,1397,1958,Denmark,Jeg rev et blad ud af min dagbog,Raquel Rastenni,3,none
+1398,1398,1958,Netherlands,Heel de wereld,Corry Brokken,1,none
+1399,1399,1958,Luxembourg,Un grand amour,Solange Berry,1,none
+1400,1400,1957,Netherlands,Net als toen,Corry Brokken,31,none
+1401,1401,1957,France,La Belle Amour,Paule Desjardins,17,none
+1402,1402,1957,Denmark,Skibet skal sejle i nat,Birthe Wilke & Gustav Winckler,10,none
+1403,1403,1957,Luxembourg,Tant de peine,Danièle Dupré,8,none
+1404,1404,1957,Germany,"Telefon, Telefon",Margot Hielscher,8,none
+1405,1405,1957,Italy,Corde della mia chitarra,Nunzio Gallo,7,none
+1406,1406,1957,United KingdomUK,All,Patricia Bredin,6,none
+1407,1407,1957,Belgium,Straatdeuntje,Bobbejaan Schoepen,5,none
+1408,1408,1957,Switzerland,L'Enfant que j'étais,Lys Assia,5,none
+1409,1409,1957,Austria,"Wohin, kleines Pony?",Bob Martin,3,none
+1410,1410,1956,Switzerland,Refrain,Lys Assia,–,none
+1411,1411,1956,Netherlands,De Vogels Van Holland,Jetty Paerl,–,none
+1412,1412,1956,Switzerland,Das Alte Karussell,Lys Assia,–,none
+1413,1413,1956,Belgium,Messieurs Les Noyés De La Seine,Fud Leclerc,–,none
+1414,1414,1956,Germany,Im Wartesaal Zum Großen Glück,Walter Andreas Schwarz,–,none
+1415,1415,1956,France,Le Temps Perdu,Mathé Altéry,–,none
+1416,1416,1956,Luxembourg,Ne Crois Pas,Michèle Arnaud,–,none
+1417,1417,1956,Italy,Aprite Le Finestre,Franca Raimondi,–,none
+1418,1418,1956,Netherlands,Voorgoed Voorbij,Corry Brokken,–,none
+1419,1419,1956,Belgium,Le Plus Beau Jour De Ma Vie,Mony Marc,–,none
+1420,1420,1956,Germany,So Geht Das Jede Nacht,Freddy Quinn,–,none
+1421,1421,1956,France,Il Est Là,Dany Dauberson,–,none
+1422,1422,1956,Luxembourg,Les Amants De Minuit,Michèle Arnaud,–,none
+1423,1423,1956,Italy,Amami Se Vuoi,Tonina Torielli,–,none
