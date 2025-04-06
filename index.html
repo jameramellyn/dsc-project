@@ -113,11 +113,11 @@
     results.id = "results";
     document.querySelector("main").appendChild(results);
   
-    searchInput.addEventListener("input", function () {
-      const term = this.value.toLowerCase();
+    function renderResults(term) {
       results.innerHTML = "";
-  
-      const filtered = songs.filter(song => song.name.toLowerCase().includes(term));
+      const filtered = songs.filter(song =>
+        song.name.toLowerCase().includes(term)
+      );
       filtered.forEach(song => {
         results.innerHTML += `
           <div class="song">
@@ -128,6 +128,10 @@
           </div>
         `;
       });
+    }
+  
+    searchInput.addEventListener("input", function () {
+      renderResults(this.value.toLowerCase());
     });
   
     // 🎵 Add Eternal Sunshine by Ariana from Deezer
@@ -145,10 +149,15 @@
             image: album.cover_medium,
             link: album.link
           });
+  
+          // Re-trigger search if user already typed something
+          const event = new Event("input");
+          searchInput.dispatchEvent(event);
         }
       })
       .catch(error => console.error("Deezer fetch error:", error));
   </script>
+  
     
   
 </body>
