@@ -1,70 +1,3 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My GitHub Pages Site</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <div class="page">
-    <header>
-      <h1>Euro*ision odds simulator</h1>
-      
-    </header>
-
-    <main>
-      <p>Search Most Popular Songs</p>
-      <input type="text" id="search" placeholder="Type a song name..." />
-    </main>
-    
-    <footer>
-      <p> ... </p>
-    </footer>
-  </div>
-  <script>
-    const songs = [
-      {
-        name: "Shape of You - Ed Sheeran",
-        image: "images/shapeofyou.jpg",
-        link: "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
-      },
-      {
-        name: "Blinding Lights - The Weekend",
-        image: "images/blindinglights.jpg",
-        link: "https://open.spotify.com/track/0W6k9I2L7Z0bELX5jprj7I"
-      },
-      {
-        name: "Rolling in the Deep - Adele",
-        image: "images/rollinginthedeep.jpg",
-        link: "https://open.spotify.com/track/3N2gMDCcS5eU7G43nVkuuj"
-      }
-    ];
-  
-    const searchInput = document.getElementById("search");
-    const results = document.getElementById("results");
-  
-    searchInput.addEventListener("input", function () {
-      const term = this.value.toLowerCase();
-      results.innerHTML = "";
-  
-      const filtered = songs.filter(song => song.name.toLowerCase().includes(term));
-      filtered.forEach(song => {
-        results.innerHTML += `
-          <div class="song">
-            <h3>${song.name}</h3>
-            <a href="${song.link}" target="_blank">
-              <img src="${song.image}" alt="${song.name}">
-            </a>
-          </div>
-        `;
-      });
-    });
-  </script>  
-  
-</body>
-
-</html> -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,7 +26,7 @@
     const songs = [
       {
         name: "Shape of You - Ed Sheeran",
-        image: "images/shapeofyou.jpg",
+        image: "images/shapeofyou.png",
         link: "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
       },
       {
@@ -103,62 +36,31 @@
       },
       {
         name: "Rolling in the Deep - Adele",
-        image: "images/rollinginthedeep.jpg",
+        image: "images/rollinginthedeep.png",
         link: "https://open.spotify.com/track/3N2gMDCcS5eU7G43nVkuuj"
       }
     ];
   
     const searchInput = document.getElementById("search");
-    const results = document.createElement("div");
-    results.id = "results";
-    document.querySelector("main").appendChild(results);
+    const results = document.getElementById("results");
   
-    function renderResults(term) {
+    searchInput.addEventListener("input", function () {
+      const term = this.value.toLowerCase();
       results.innerHTML = "";
-      const filtered = songs.filter(song =>
-        song.name.toLowerCase().includes(term)
-      );
+  
+      const filtered = songs.filter(song => song.name.toLowerCase().includes(term));
       filtered.forEach(song => {
         results.innerHTML += `
           <div class="song">
             <h3>${song.name}</h3>
             <a href="${song.link}" target="_blank">
-              <img src="${song.image}" alt="${song.name}" width="200">
+              <img src="${song.image}" alt="${song.name}">
             </a>
           </div>
         `;
       });
-    }
-  
-    searchInput.addEventListener("input", function () {
-      renderResults(this.value.toLowerCase());
     });
-  
-    // 🎵 Add Eternal Sunshine by Ariana from Deezer
-    fetch("https://api.deezer.com/search/album?q=eternal%20sunshine%20ariana%20grande")
-      .then(response => response.json())
-      .then(data => {
-        const album = data.data.find(item =>
-          item.title.toLowerCase().includes("eternal sunshine") &&
-          item.artist.name.toLowerCase().includes("ariana grande")
-        );
-  
-        if (album) {
-          songs.push({
-            name: `${album.title} - ${album.artist.name}`,
-            image: album.cover_medium,
-            link: album.link
-          });
-  
-          // Re-trigger search if user already typed something
-          const event = new Event("input");
-          searchInput.dispatchEvent(event);
-        }
-      })
-      .catch(error => console.error("Deezer fetch error:", error));
-  </script>
-  
-    
+  </script>  
   
 </body>
 
