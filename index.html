@@ -24,44 +24,86 @@
     </footer>
   </div>
   <script>
+    // links are currently not the actual spotify track links
     const songs = [
-      {
-        name: "Shape of You - Ed Sheeran",
-        image: "images/shapeofyou.png",
-        link: "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
-      },
-      {
-        name: "Blinding Lights - The Weekend",
-        image: "images/blindinglights.jpg",
-        link: "https://open.spotify.com/track/0W6k9I2L7Z0bELX5jprj7I"
-      },
-      {
-        name: "Rolling in the Deep - Adele",
-        image: "images/rollinginthedeep.png",
-        link: "https://open.spotify.com/track/3N2gMDCcS5eU7G43nVkuuj"
-      }
-    ];
+  {
+    name: "Shape of You - Ed Sheeran",
+    image: "images/shapeofyou.png",
+    spotifyID: "7qiZfU4dY1lWllzX7mPBI3"
+  },
+  {
+    name: "Blinding Lights - The Weeknd",
+    image: "images/blindinglights.jpg",
+    spotifyID: "0VjIjW4GlUZAMYd2vXMi3b"
+  },
+  {
+    name: "Rolling in the Deep - Adele",
+    image: "images/rollinginthedeep.png",
+    spotifyID: "1c8gk2PeTE04A1pIDH9YMk"
+  },
+  {
+    name: "Livin' on a Prayer - Bon Jovi",
+    image: "images/livingonaprayer.jpg",
+    spotifyID: "37ZJ0p5Jm13JPevGcx4SkF"
+  },
+  {
+    name: "Sweet Child o' Mine - Guns N' Roses",
+    image: "images/sweetchildomine.jpg",
+    spotifyID: "7snQQk1zcKl8gZ92AnueZW"
+  },
+  {
+    name: "Wonderwall - Oasis",
+    image: "images/wonderwall.jpg",
+    spotifyID: "1qPbGZqppFwLwcBC1JQ6Vr"
+  },
+  {
+    name: "Lose Yourself - Eminem",
+    image: "images/loseyourself.jpg",
+    spotifyID: "5Z01UMMf7V1o0MzF86s6WJ"
+  },
+  {
+    name: "Umbrella - Rihanna ft. Jay-Z",
+    image: "images/umbrella.jpg",
+    spotifyID: "49FYlytm3dAAraYgpoJZux"
+  },
+  {
+    name: "Poker Face - Lady Gaga",
+    image: "images/pokerface.png",
+    spotifyID: "5R8dQOPq8haW94K7mgERlO"
+  },
+  {
+    name: "Dancing Queen - ABBA",
+    image: "images/dancingqueen.jpg",
+    spotifyID: "0GjEhVFGZW8afUYGChu3Rr"
+  },
+  {
+    name: "September - Earth, Wind & Fire",
+    image: "images/september.jpg",
+    spotifyID: "2grjqo0Frpf2okIBiifQKs"
+  }
+];
+
   
     const searchInput = document.getElementById("search");
     const results = document.getElementById("results");
-  
+
     searchInput.addEventListener("input", function () {
       const term = this.value.toLowerCase();
       results.innerHTML = "";
-  
+
       const filtered = songs.filter(song => song.name.toLowerCase().includes(term));
       filtered.forEach(song => {
         results.innerHTML += `
           <div class="song">
             <h3>${song.name}</h3>
-            <a href="${song.link}" target="_blank">
-              <img src="${song.image}" alt="${song.name}">
+            <a href="song.html?song=${song.spotifyID}"> <!-- Link with query param -->
+              <img src="${song.image}" alt="${song.name}" width="200">
             </a>
           </div>
         `;
       });
     });
-  </script>  
+  </script> 
   
 </body>
 
