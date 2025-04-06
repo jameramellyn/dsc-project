@@ -9,11 +9,11 @@
 <body>
   <div class="page">
     <header>
-      <h1>Your Song's Odds <h1>
+      <h1>Your Song's Odds</h1>
     </header>
 
     <main>
-      <p>...<p>
+      <p>...</p>
       
       <!-- Placeholder for the embedded track -->
       <div id="spotify-embed"></div>
@@ -30,14 +30,21 @@
     const urlParams = new URLSearchParams(window.location.search);
     const songID = urlParams.get('song');  // e.g., "7qiZfU4dY1lWllzX7mPBI3"
 
-    // Create the embed URL for Spotify using the song ID
-    const embedUrl = https://open.spotify.com/embed/track/${songID}?utm_source=generator;
+    // Ensure that the song ID is valid before proceeding
+    if (songID) {
+      // Create the embed URL for Spotify using the song ID
+      const embedUrl = `https://open.spotify.com/embed/track/${songID}?utm_source=generator`;
 
-    // Embed the iframe in the page
-    const spotifyEmbedDiv = document.getElementById("spotify-embed");
-    spotifyEmbedDiv.innerHTML = 
-    <iframe style="border-radius:12px" src="${embedUrl}" width="300" height="80" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    ;
+      // Embed the iframe in the page
+      const spotifyEmbedDiv = document.getElementById("spotify-embed");
+      spotifyEmbedDiv.innerHTML = `
+        <iframe style="border-radius:12px" src="${embedUrl}" width="300" height="80" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      `;
+    } else {
+      // Show a message if no song ID was provided
+      const spotifyEmbedDiv = document.getElementById("spotify-embed");
+      spotifyEmbedDiv.innerHTML = "<p>Song not found.</p>";
+    }
   </script>
 </body>
 </html>
