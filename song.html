@@ -9,7 +9,7 @@
 <body>
   <div class="page">
     <header>
-      <h1>Now Playing</h1>
+      <h1 id="song-title">Now Playing</h1>
     </header>
 
     <main>
@@ -26,9 +26,15 @@
   </div>
 
   <script>
-    // Get the song ID from the URL query parameter
+    // Get the song ID and name from the URL query parameters
     const urlParams = new URLSearchParams(window.location.search);
     const songID = urlParams.get('song');  // e.g., "7qiZfU4dY1lWllzX7mPBI3"
+    const songName = urlParams.get('name'); // e.g., "Shape of You - Ed Sheeran"
+
+    // Set the header to the song name
+    if (songName) {
+      document.getElementById("song-title").innerText = songName;
+    }
 
     // Create the embed URL for Spotify using the song ID
     const embedUrl = `https://open.spotify.com/embed/track/${songID}?utm_source=generator`;
