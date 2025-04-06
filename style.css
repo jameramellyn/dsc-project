@@ -27,6 +27,8 @@ h1 {
   font-family: 'EurovisionChoir', sans-serif;
   font-size: 75px;
   margin: 0;
+
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 p {
@@ -38,7 +40,7 @@ header {
   background-image: url('images/banner.png');
   background-size: cover;
   background-position: center;
-  color: rgb(5, 5, 5);
+  color: rgb(255, 255, 255);
   padding: 2rem 2rem;
 }
 
